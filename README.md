@@ -5,6 +5,17 @@ Tigray Crisis Analysis
 This project presents a geographical analysis of humanitarian conditions in the Tigray region of Ethiopia, combining geospatial visualization with data preprocessing and exploratory analysis. The goal is to examine geographical patterns in food insecurity, internal displacement, medical access constraints, and health facility functionality during the crisis period, while acknowledging the limitations of humanitarian data availability.
 
 Rather than attempting to map all crisis dimensions, this project uses a focused set of indicators and complements the maps with contextual analysis of broader systemic impacts such as agriculture disruption and market access constraints.
+---
+
+## Humanitarian Context Note
+
+This project is informed by reported humanitarian conditions in Tigray, including the current situation at the Hitsats internally displaced persons (IDP) center. The local media reported that more than 1,700 IDPs at Hitsats are in critical condition amid severe hunger and a lack of medical care, with many elderly people, women, and children collapsing due to extreme food shortages and limited access to health services. Officials further noted that at least dozens of deaths have been linked to these conditions as humanitarian assistance remains insufficient and access continues to be constrained.
+
+These circumstances illustrate the severe human consequences of conflict-related access constraints and infrastructure breakdown. They provide an important background for interpreting the geographical patterns of displacement, food insecurity, and medical need presented in this analysis.
+
+**Source:** Addis Standard (2023). *Over 1,700 IDPs at Hitsats Center in Tigray in Critical Condition Amid Severe Hunger, Lack of Medical Care.*  
+https://addisstandard.com/over-1700-idps-at-hitsats-center-in-tigray-in-critical-condition-amid-severe-hunger-lack-of-medical-care/
+
 
 ---
 
