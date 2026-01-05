@@ -67,6 +67,13 @@ Python was used for data cleaning, preprocessing, and exploratory analysis, incl
 
 ---
 
+- 📄 **Markdown version (recommended for reading):**  
+  [Tigray Assessment Analysis](analysis/Tigray_Assessment_Analysis.md)
+
+- 📑 **PDF version (formatted submission):**  
+  [Tigray Analytical Assessment (PDF)](analysis/Tigray_Analytical_Assesment.pdf)
+---
+
 ## Why This Analysis Matters
 This project demonstrates how spatial analysis can be used to explore humanitarian conditions in data-constrained and conflict-affected settings. By combining Python-based preprocessing with GIS visualization, the analysis highlights spatial disparities while avoiding over-interpretation of incomplete or uncertain data.
 
