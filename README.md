@@ -110,7 +110,9 @@ This project demonstrates how spatial analysis can be used to explore humanitari
 
 ---
 
-## Author
+## Analyst
 Mahdere  F
+--- 
+## Education
 *Business Administration ~ Information Systems*  
-Seattle Pacific University
+Seattle Pacific University '27
