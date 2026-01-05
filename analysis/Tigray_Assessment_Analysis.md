@@ -1,4 +1,4 @@
-# Post-Project Analysis: Systematic Destabilization of Tigray
+# Post-Project Analysis:
 
 ## Project Focus and Purpose
 
