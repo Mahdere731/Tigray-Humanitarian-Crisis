@@ -15,7 +15,7 @@ This project is informed by reported humanitarian conditions in Tigray, includin
 
 These circumstances illustrate the severe human consequences of conflict-related access constraints and infrastructure breakdown. They provide an important background for interpreting the geographical patterns of displacement, food insecurity, and medical need presented in this analysis.
 
-**Source:** Addis Standard (2023). *Over 1,700 IDPs at Hitsats Center in Tigray in Critical Condition Amid Severe Hunger, Lack of Medical Care.*  
+Addis Standard (2023). *Over 1,700 IDPs at Hitsats Center in Tigray in Critical Condition Amid Severe Hunger, Lack of Medical Care.*  
 https://addisstandard.com/over-1700-idps-at-hitsats-center-in-tigray-in-critical-condition-amid-severe-hunger-lack-of-medical-care/
 
 
