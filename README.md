@@ -27,7 +27,17 @@ Python was used for data cleaning, preprocessing, and exploratory analysis, incl
 - Processed datasets were joined using standardized identifiers
 - Graduated symbology was applied to visualize relative intensity rather than absolute precision
 - Each thematic layer was exported as static PNG outputs with consistent map extent and styling
+---
 
+## Assessment Analysis
+
+This project includes a full written assessment analyzing humanitarian conditions in Tigray, combining spatial findings with contextual discussion of food insecurity, market access, medical constraints, internal displacement, and agricultural disruption.
+
+- 📄 **Markdown version (recommended for reading):**  
+  [Tigray Assessment Analysis](analysis/Tigray_Assessment_Analysis.md)
+
+- 📑 **PDF version (formatted submission):**  
+  [Tigray Analytical Assessment (PDF)](analysis/Tigray_Analytical_Assesment.pdf)
 ---
 
 ## Map Visualizations
@@ -64,14 +74,6 @@ Python was used for data cleaning, preprocessing, and exploratory analysis, incl
 ![Functional Markets](Tigray_Functional_Markets.png)
 
 *This map shows reported levels of market functionality across Tigray zones, indicating geographic variation in access to markets rather than real-time economic activity.*
-
----
-
-- 📄 **Markdown version (recommended for reading):**  
-[Tigray Assessment Analysis](analysis/Tigray_Assessment_Analysis.md)
-
-- 📑 **PDF version (formatted submission):**  
-[Tigray Assessment Analysis](Tigray_Assessment_Analysis.md)
 ---
 
 ## Why This Analysis Matters
