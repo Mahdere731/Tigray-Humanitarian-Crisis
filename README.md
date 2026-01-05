@@ -74,6 +74,7 @@ This project includes a full written assessment analyzing humanitarian condition
 ![Functional Markets](Tigray_Functional_Markets.png)
 
 *This map shows reported levels of market functionality across Tigray zones, indicating geographic variation in access to markets rather than real-time economic activity.*
+
 ---
 
 ## Why This Analysis Matters
