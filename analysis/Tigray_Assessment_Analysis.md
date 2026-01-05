@@ -96,4 +96,4 @@ The synthesis presented in this project is the author’s interpretation based o
 ---
 
 ### Limitations and Ethical Considerations
-Statements regarding data gaps, access constraints, and ethical visualization choices reflect the author’s methodological judgment and adherence to standard practices in conflict-zone and humanitarian spatial analysis. No direct external citations were required for these methodological and ethical considerations.
+Statements addressing data gaps, access constraints, and ethical visualization choices reflect the author’s methodological judgment and adherence to standard practices in conflict-zone and humanitarian spatial analysis. As these considerations are methodological and ethical in nature, no direct external citations were presented.
