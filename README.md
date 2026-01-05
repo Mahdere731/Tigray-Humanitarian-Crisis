@@ -37,7 +37,7 @@ This project includes a full written assessment analyzing humanitarian condition
   [Tigray Assessment Analysis](https://github.com/Mahdere731/Tigray-Humanitarian-Crisis/blob/main/analysis/Tigray_Assessment_Analysis.md)
 
 - 📑 **PDF version (formatted submission):**  
-  [Tigray Analytical Assessment (PDF)](https://github.com/Mahdere731/Tigray-Humanitarian-Crisis/blob/main/analysis/Tigray_Analytical_Assesment.pdf)
+  [Tigray Analytical Assessment (PDF)](https://github.com/Mahdere731/Tigray-Humanitarian-Crisis/blob/main/analysis/Tigray_Analytical.pdf)
 ---
 
 ## Map Visualizations
