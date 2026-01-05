@@ -1,4 +1,4 @@
-# Post-Project Analysis: Systematic Destabilization of Tigray Through Violent Displacement and Agricultural Destruction
+# Post-Project Analysis: Systematic Destabilization of Tigray
 
 ## Project Focus and Purpose
 
