@@ -33,28 +33,28 @@ Python was used for data cleaning, preprocessing, and exploratory analysis, incl
 ## Map Visualizations
 
 ### Food Insecurity Severity Across Tigray Zones
-![Food Insecurity Map](maps/food_insecurity.png)
+![Food Insecurity](tigray_food_insecurity.png)
 
 *This map illustrates relative food insecurity severity across administrative zones in Tigray, highlighting spatial variation in food access challenges during the crisis period.*
 
 ---
 
 ### Medical Access Constraints Across Tigray Zones
-![Medical Access Map](maps/medical_access.png)
+![Medical Needs](tigray_medical_needs.png)
 
 *This map shows relative constraints on access to medical services across Tigray zones, reflecting disparities in healthcare availability and accessibility.*
 
 ---
 
 ### Internal Displacement Across Tigray Zones
-![IDP Map](maps/idp_distribution.png)
+![IDP Distribution](tigray_idp_distribution.png)
 
 *This map displays the distribution of internally displaced persons (IDPs) aggregated by administrative zone, emphasizing relative displacement patterns.*
 
 ---
 
 ### Operational Health Facilities Across Tigray Zones
-![Health Facilities Map](maps/health_facilities.png)
+![Operational Health Facilities](tigray_health_facilities_operational.png)
 
 *This map illustrates the relative availability of reported operational health facilities across Tigray zones, indicating geographic variation in health system functionality.*
 
