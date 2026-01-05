@@ -1,4 +1,4 @@
-# Tigray-Humanitarian-Crisis
+# Tigray Humanitarian Crisis
 *Tigray Crisis Analysis*
 
 ## Project Overview
