@@ -76,6 +76,6 @@ Python was used for data cleaning, preprocessing, and exploratory analysis, incl
 ---
 
 ## Author
-Mahdere  
-Business Information Systems student  
+Mahdere  F
+Business Administration ~ Information Systems  
 Seattle Pacific University
