@@ -25,7 +25,7 @@ Python was used for data cleaning, preprocessing, and exploratory analysis, incl
 ### QGIS (Spatial Analysis & Visualization)
 - Zone-level administrative boundaries were used for spatial joins
 - Processed datasets were joined using standardized identifiers
-- Graduated symbology was applied to visualize relative intensity rather than single layer accuracy
+- Graduated symbology was used to represent relative intensity across areas rather than a single absolute value.
 - Each thematic layer was exported as static PNG outputs with consistent map extent and styling
 ---
 
@@ -84,7 +84,7 @@ This project demonstrates how spatial analysis can be used to explore humanitari
 
 ## Limitations & Ethical Considerations
 - Pre-2020 subnational humanitarian data availability is limited
-- Reporting constraints during conflict affect data completeness
+- Reporting constraints during conflict affect completeness of data 
 - Maps represent relative patterns, not exact measurements
 - Certain crisis dimensions are discussed contextually rather than spatially to avoid misrepresentation
 
