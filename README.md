@@ -19,13 +19,13 @@ Rather than attempting to map all crisis dimensions, this project uses a focused
 Python was used for data cleaning, preprocessing, and exploratory analysis, including:
 - Standardizing administrative names across datasets
 - Filtering and structuring indicators for spatial compatibility
-- Creating derived metrics (e.g., displacement relative to population)
+- Creating derived metrics (displacement relative to population)
 - Validating distributions and severity rankings prior to mapping
 
 ### QGIS (Spatial Analysis & Visualization)
 - Zone-level administrative boundaries were used for spatial joins
 - Processed datasets were joined using standardized identifiers
-- Graduated symbology was applied to visualize relative intensity rather than absolute precision
+- Graduated symbology was applied to visualize relative intensity rather than single layer accuracy
 - Each thematic layer was exported as static PNG outputs with consistent map extent and styling
 ---
 
