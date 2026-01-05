@@ -11,7 +11,7 @@ Rather than attempting to map all crisis dimensions, this project uses a focused
 
 ## Humanitarian Context Note
 
-Information is sourced by reported humanitarian conditions in Tigray, including the current situation at the Hitsats internally displaced persons (IDP) center. The local media reported that more than 1,700 IDPs at Hitsats are in critical condition amid severe hunger and a lack of medical care, with many elderly people, women, and children collapsing due to extreme food shortages and limited access to health services. Officials further noted that at least dozens of deaths have been linked to these conditions as humanitarian assistance remains insufficient and access continues to be constrained.
+Information is sourced by reported humanitarian conditions in Tigray, including the current situation at the Hitsats internally displaced persons (IDP) & refugee center. The local media reported that more than 1,700 IDPs at Hitsats are in critical condition amid severe hunger, malnutrition and a lack of medical care, with many elderly people, women, and children collapsing due to extreme food shortages and limited access to health services. Officials further stated that at least dozens of deaths have been linked to these conditions as humanitarian assistance remains insufficient and access continues to be constrained.
 
 These circumstances illustrate the severe human consequences of conflict-related access constraints and infrastructure breakdown. They provide an important background for interpreting the geographical patterns of displacement, food insecurity, and medical need presented in this analysis.
 
@@ -25,8 +25,8 @@ https://addisstandard.com/over-1700-idps-at-hitsats-center-in-tigray-in-critical
 
 ### Data Sources
 - Humanitarian datasets sourced from the Humanitarian Data Exchange (HDX)
-- Administrative boundaries at the zone level
-- Reported indicators related to food insecurity, displacement, and health facility operations
+- Administrative boundaries at zone level
+- Reported data metrics related to food insecurity, displacement, and health facility operations
 
 ### Python
 Python was used for data cleaning, preprocessing, and exploratory analysis, including:
@@ -44,7 +44,7 @@ Python was used for data cleaning, preprocessing, and exploratory analysis, incl
 
 ## Assessment Analysis
 
-Includes a full written assessment analyzing humanitarian conditions in Tigray, combining spatial findings with contextual discussion of food insecurity, market access, medical constraints, internal displacement, and agricultural disruption.
+Included is a full written assessment analyzing humanitarian conditions in Tigray, combining geographical findings with contextual assessment of food insecurity, market access & stability, medical constraints, internal displacement, and agricultural disruption.
 
 - **Markdown version (GitHub-readable):**  
   [Tigray Assessment Analysis](https://github.com/Mahdere731/Tigray-Humanitarian-Crisis/blob/main/analysis/Tigray_Assessment_Analysis.md)
@@ -65,7 +65,7 @@ Includes a full written assessment analyzing humanitarian conditions in Tigray, 
 ### Medical Access Constraints Across Tigray Zones
 ![Medical Needs](Tigray_Medical_Needs.png)
 
-*This map shows relative constraints on access to medical services across Tigray zones, reflecting disparities in healthcare availability and accessibility.*
+*This map illustrates relative constraints on access to medical services across Tigray zones, reflecting disparities in healthcare availability and accessibility.*
 
 ---
 
@@ -91,7 +91,7 @@ Includes a full written assessment analyzing humanitarian conditions in Tigray, 
 ---
 
 ## Why This Analysis Matters
-This project demonstrates how spatial analysis can be used to explore humanitarian conditions in data-constrained and conflict-affected settings. By combining Python-based preprocessing with GIS visualization, the analysis highlights spatial disparities while avoiding over-interpretation of incomplete or uncertain data.
+This project demonstrates how spatial analysis can be utlized to explore humanitarian conditions in data-constrained and conflict-affected settings. By combining Python-based preprocessing with GIS visualization, this analysis highlights spatial disparities while being careful to avoid over-interpretation of incomplete or uncertain data.
 
 ---
 
