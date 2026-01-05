@@ -5,5 +5,6 @@ This project includes a full written assessment analyzing humanitarian condition
 - 📄 **Markdown version (recommended for reading):**  
   [Tigray Assessment Analysis](Tigray_Assessment_Analysis.md)
 
-- 📑 **PDF version (formatted submission):**  
+- - 📑 **PDF version (formatted submission):**  
   [Tigray Humanitarian Crisis (PDF)](Tigray_Humanitarian_Crisis.pdf)
+
