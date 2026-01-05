@@ -31,65 +31,69 @@ These figures reflect both the severity and the geographically constrained natur
 ## References and Data Sources
 
 ### Analytical Framing and Methodology
-- Methodological overview and analytical framing developed by the author based on spatial analysis practices and humanitarian data standards.
-- No single external source cited for project design.
+The methodological approach and analytical framing for this project were developed by the author, drawing on established spatial analysis practices and commonly used humanitarian data standards. No single external source was used to define the overall project design; instead, the framework reflects an integrated analytical approach based on spatial correlation and multi-indicator interpretation.
 
 ---
 
 ### Internally Displaced Persons (IDPs)
-- GEOGLAM Crop Monitor – Conflict and Food Insecurity Reports (2021–2022).  
+Data and contextual information on internal displacement were drawn from the following sources:
+
+- GEOGLAM Crop Monitor – Conflict and Food Insecurity Reports (2021–2022)  
   https://www.cropmonitor.org/conflict-reports
 
-- Humanitarian Data Exchange (HDX) – Ethiopia Internal Displacement (IOM / DTM).  
+- Humanitarian Data Exchange (HDX) – Ethiopia Internal Displacement datasets (IOM / DTM)  
   https://data.humdata.org/group/eth
 
-- HDX – Ethiopia IDP Subnational Datasets (zone-level).  
+- HDX – Ethiopia IDP Subnational (zone-level) datasets  
   https://data.humdata.org/search?q=ethiopia+idp
 
 ---
 
 ### Agricultural Sector Destabilization (Tigray)
-- GEOGLAM Crop Monitor – Ethiopia and Tigray Context Sections.  
+Analysis of agricultural disruption in Tigray was informed primarily by GEOGLAM Crop Monitor reporting, including regional context sections and detailed documentation of conflict-related impacts on agricultural systems.
+
+- GEOGLAM Crop Monitor – Ethiopia and Tigray context sections  
   https://www.cropmonitor.org/conflict-reports
 
-- GEOGLAM Crop Monitor – Documentation of crop destruction, field abandonment, prevention of ploughing and harvesting, seed system disruption, and livestock loss.  
+- GEOGLAM Crop Monitor – Documentation of crop destruction, field abandonment, prevention of ploughing and harvesting, disruption of seed systems, and livestock loss  
   https://www.cropmonitor.org/conflict-reports
 
-Interpretive synthesis in this section is grounded in repeated mechanisms documented across multiple Crop Monitor reports.
+Interpretive synthesis in this section reflects the author’s analysis of recurring mechanisms documented across multiple Crop Monitor reports rather than reliance on a single incident or data point.
 
 ---
 
 ### Functional Markets and Economic Strain
-- HDX – Functional Markets and Market Functionality Datasets (Ethiopia).  
+Market functionality and economic strain were examined using humanitarian market datasets in combination with contextual reporting on food access and displacement-related pressures.
+
+- HDX – Functional Markets and Market Functionality datasets (Ethiopia)  
   https://data.humdata.org/search?q=functional+markets+ethiopia
 
-- GEOGLAM Crop Monitor – Market access, food affordability, and displacement-related market strain.  
+- GEOGLAM Crop Monitor – Analysis of market access, food affordability, and displacement-driven market strain  
   https://www.cropmonitor.org/conflict-reports
 
 ---
 
 ### Health System Disruption and Medical Need
-- HDX – Health Facilities Operational Status (Ethiopia / Tigray).  
+Information on health system functionality and medical need was sourced from humanitarian datasets and conflict impact reporting.
+
+- HDX – Health Facilities Operational Status datasets (Ethiopia / Tigray)  
   https://data.humdata.org/search?q=health+facilities+ethiopia
 
-- HDX – Medical Need and Humanitarian Needs Overview Datasets.  
+- HDX – Medical Need and Humanitarian Needs Overview datasets  
   https://data.humdata.org/search?q=medical+need+ethiopia
 
-- GEOGLAM Crop Monitor – Nutrition impacts and food insecurity-related health outcomes.  
+- GEOGLAM Crop Monitor – Reporting on nutrition impacts and food insecurity-related health outcomes  
   https://www.cropmonitor.org/conflict-reports
 
-- HDX – Access Severity and Regional Access Constraint Datasets.  
+- HDX – Access Severity and Regional Access Constraint datasets  
   https://data.humdata.org/search?q=access+constraints+ethiopia
 
 ---
 
 ### Systematic Destabilization (Synthesis)
-- Analytical synthesis based on spatial convergence of HDX humanitarian indicators and GEOGLAM Crop Monitor reporting.
-- Interpretation reflects multi-layer interaction between displacement, agricultural collapse, market disruption, and health system failure.
+The synthesis presented in this project is the author’s interpretation based on the spatial convergence of multiple humanitarian indicators. Patterns were identified by examining the overlap between displacement, agricultural collapse, market disruption, and health system failure using mapped HDX datasets alongside GEOGLAM Crop Monitor reporting.
 
 ---
 
 ### Limitations and Ethical Considerations
-- Methodological statements regarding data gaps, access constraints, and ethical visualization choices are based on standard practices for conflict-zone analysis.
-- No direct external citations required for these sections.
-
+Statements regarding data gaps, access constraints, and ethical visualization choices reflect the author’s methodological judgment and adherence to standard practices in conflict-zone and humanitarian spatial analysis. No direct external citations were required for these methodological and ethical considerations.
