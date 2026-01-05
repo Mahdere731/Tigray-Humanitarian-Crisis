@@ -24,4 +24,72 @@ AI tools were utilized for language refinement, structural guidance, and writing
 
 Humanitarian reporting indicates that displacement in Tigray reached unprecedented levels following the outbreak of conflict. By May 2021, the number of internally displaced persons in Tigray had reached approximately 1.9 million, and by the end of 2021, displacement had doubled to an estimated 4.2 million people due to the ongoing conflict (GEOGLAM Crop Monitor – Conflict and Food Insecurity Report, 2022).
 
-These figures reflect both the severity and the geographically constrained nature of displacement, as population movement largely occurred within Tigray rather than across borders. Zone-level mapping illustrates higher concentrations of displacement in western and central zones, al
+These figures reflect both the severity and the geographically constrained nature of displacement, as population movement largely occurred within Tigray rather than across borders. Zone-level mapping illustrates higher concentrations of displacement in western and central zones. 
+
+---
+
+## References and Data Sources
+
+### Analytical Framing and Methodology
+- Methodological overview and analytical framing developed by the author based on spatial analysis practices and humanitarian data standards.
+- No single external source cited for project design.
+
+---
+
+### Internally Displaced Persons (IDPs)
+- GEOGLAM Crop Monitor – Conflict and Food Insecurity Reports (2021–2022).  
+  https://www.cropmonitor.org/conflict-reports
+
+- Humanitarian Data Exchange (HDX) – Ethiopia Internal Displacement (IOM / DTM).  
+  https://data.humdata.org/group/eth
+
+- HDX – Ethiopia IDP Subnational Datasets (zone-level).  
+  https://data.humdata.org/search?q=ethiopia+idp
+
+---
+
+### Agricultural Sector Destabilization (Tigray)
+- GEOGLAM Crop Monitor – Ethiopia and Tigray Context Sections.  
+  https://www.cropmonitor.org/conflict-reports
+
+- GEOGLAM Crop Monitor – Documentation of crop destruction, field abandonment, prevention of ploughing and harvesting, seed system disruption, and livestock loss.  
+  https://www.cropmonitor.org/conflict-reports
+
+Interpretive synthesis in this section is grounded in repeated mechanisms documented across multiple Crop Monitor reports.
+
+---
+
+### Functional Markets and Economic Strain
+- HDX – Functional Markets and Market Functionality Datasets (Ethiopia).  
+  https://data.humdata.org/search?q=functional+markets+ethiopia
+
+- GEOGLAM Crop Monitor – Market access, food affordability, and displacement-related market strain.  
+  https://www.cropmonitor.org/conflict-reports
+
+---
+
+### Health System Disruption and Medical Need
+- HDX – Health Facilities Operational Status (Ethiopia / Tigray).  
+  https://data.humdata.org/search?q=health+facilities+ethiopia
+
+- HDX – Medical Need and Humanitarian Needs Overview Datasets.  
+  https://data.humdata.org/search?q=medical+need+ethiopia
+
+- GEOGLAM Crop Monitor – Nutrition impacts and food insecurity-related health outcomes.  
+  https://www.cropmonitor.org/conflict-reports
+
+- HDX – Access Severity and Regional Access Constraint Datasets.  
+  https://data.humdata.org/search?q=access+constraints+ethiopia
+
+---
+
+### Systematic Destabilization (Synthesis)
+- Analytical synthesis based on spatial convergence of HDX humanitarian indicators and GEOGLAM Crop Monitor reporting.
+- Interpretation reflects multi-layer interaction between displacement, agricultural collapse, market disruption, and health system failure.
+
+---
+
+### Limitations and Ethical Considerations
+- Methodological statements regarding data gaps, access constraints, and ethical visualization choices are based on standard practices for conflict-zone analysis.
+- No direct external citations required for these sections.
+
