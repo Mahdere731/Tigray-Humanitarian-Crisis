@@ -28,14 +28,14 @@ https://addisstandard.com/over-1700-idps-at-hitsats-center-in-tigray-in-critical
 - Administrative boundaries at the zone level
 - Reported indicators related to food insecurity, displacement, and health facility operations
 
-### Python (Data Preparation & Validation)
+### Python
 Python was used for data cleaning, preprocessing, and exploratory analysis, including:
 - Standardizing administrative names across datasets
 - Filtering and structuring indicators for spatial compatibility
 - Creating derived metrics (displacement relative to population)
 - Validating distributions and severity rankings prior to mapping
 
-### QGIS (Spatial Analysis & Visualization)
+### QGIS
 - Zone-level administrative boundaries were used for spatial joins
 - Processed datasets were joined using standardized identifiers
 - Graduated symbology was used to represent relative intensity across areas rather than a single absolute value.
