@@ -1,5 +1,5 @@
 # Tigray Humanitarian Crisis
-* In-depth Analysis into the Crisis in Tigray. *
+*In-depth Analysis into the Crisis in Tigray.*
 
 ## Project Overview
 
