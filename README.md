@@ -11,7 +11,7 @@ Rather than attempting to map all crisis dimensions, this project uses a focused
 
 ## Humanitarian Context Note
 
-This project is informed by reported humanitarian conditions in Tigray, including the current situation at the Hitsats internally displaced persons (IDP) center. The local media reported that more than 1,700 IDPs at Hitsats are in critical condition amid severe hunger and a lack of medical care, with many elderly people, women, and children collapsing due to extreme food shortages and limited access to health services. Officials further noted that at least dozens of deaths have been linked to these conditions as humanitarian assistance remains insufficient and access continues to be constrained.
+information is sourced by reported humanitarian conditions in Tigray, including the current situation at the Hitsats internally displaced persons (IDP) center. The local media reported that more than 1,700 IDPs at Hitsats are in critical condition amid severe hunger and a lack of medical care, with many elderly people, women, and children collapsing due to extreme food shortages and limited access to health services. Officials further noted that at least dozens of deaths have been linked to these conditions as humanitarian assistance remains insufficient and access continues to be constrained.
 
 These circumstances illustrate the severe human consequences of conflict-related access constraints and infrastructure breakdown. They provide an important background for interpreting the geographical patterns of displacement, food insecurity, and medical need presented in this analysis.
 
