@@ -12,7 +12,7 @@ The objective of the analysis was not only to visualize humanitarian need but al
 
 Spatial analysis was conducted in QGIS using zone-level administrative boundaries. Prior to mapping, datasets were processed in Python using pandas to rank regions according to severity across food and medical needs and access constraints, structure region-level indicators, check for missing values, and create derived metrics (such as displacement rate per population).
 
-Python was also used to generate summary tables and bar-chart visualizations to validate patterns prior to spatial joins. Cleaned and organized outputs were then merged in QGIS using standardized region and zone identifiers. Graduated symbology was applied to visualize relative intensity rather than absolute precision.
+Python has also been utilized to create summary tables and bar-chart visualizations in order to verify patterns prior to spatial joins. The cleaned and organized results were combined in QGIS using standardized region and zone IDs. Relative intensity was visualized using graduated symbology rather than a single value.
 
 ### AI Statement
 
@@ -22,9 +22,9 @@ AI tools were utilized for language refinement, structural guidance, and writing
 
 ## II. Internally Displaced Persons (IDPs): Scale, Distribution, and Impact
 
-Humanitarian reporting indicates that displacement in Tigray reached unprecedented levels following the outbreak of conflict. By May 2021, the number of internally displaced persons in Tigray had reached approximately 1.9 million, and by the end of 2021, displacement had doubled to an estimated 4.2 million people due to the ongoing conflict (GEOGLAM Crop Monitor – Conflict and Food Insecurity Report, 2022).
+According to humanitarian reports, after the conflict started, displacement in Tigray reached previously unheard-of levels. In response to the ongoing conflict, there were about 1.9 million internally displaced people in Tigray by May 2021; by the end of 2021, that number had doubled to an estimated 4.2 million (GEOGLAM Crop Monitor – Conflict and Food Insecurity Report, 2022).
 
-These figures reflect both the severity and the geographically constrained nature of displacement, as population movement largely occurred within Tigray rather than across borders. Zone-level mapping illustrates higher concentrations of displacement in western and central zones. 
+These figures show both the severity and the geographically restricted nature of displacement because the majority of population movement occurred within Tigray rather than across borders. Zone-level mapping shows that the western and central zones have higher displacement concentrations. 
 
 ---
 
