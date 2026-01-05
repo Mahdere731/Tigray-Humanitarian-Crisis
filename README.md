@@ -57,12 +57,19 @@ Python was used for data cleaning, preprocessing, and exploratory analysis, incl
 ![Operational Health Facilities](Tigray_Health_Facilities_Operational.png)
 
 *This map illustrates the relative availability of reported operational health facilities across Tigray zones, indicating geographic variation in health system functionality.*
+
 ---
 
 ### Functional Market Access Across Tigray Zones
 ![Functional Markets](Tigray_Functional_Markets.png)
 
 *This map shows reported levels of market functionality across Tigray zones, indicating geographic variation in access to markets rather than real-time economic activity.*
+
+---
+
+## Why This Analysis Matters
+This project demonstrates how spatial analysis can be used to explore humanitarian conditions in data-constrained and conflict-affected settings. By combining Python-based preprocessing with GIS visualization, the analysis highlights spatial disparities while avoiding over-interpretation of incomplete or uncertain data.
+
 ---
 
 ## Limitations & Ethical Considerations
