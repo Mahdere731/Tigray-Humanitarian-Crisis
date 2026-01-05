@@ -68,10 +68,10 @@ Python was used for data cleaning, preprocessing, and exploratory analysis, incl
 ---
 
 - 📄 **Markdown version (recommended for reading):**  
-  [Tigray Assessment Analysis](analysis/Tigray_Assessment_Analysis.md)
+[Tigray Assessment Analysis](analysis/Tigray_Assessment_Analysis.md)
 
 - 📑 **PDF version (formatted submission):**  
-  [Tigray Analytical Assessment (PDF)](analysis/Tigray_Analytical_Assesment.pdf)
+[Tigray Assessment Analysis](Tigray_Assessment_Analysis.md)
 ---
 
 ## Why This Analysis Matters
