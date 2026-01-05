@@ -33,9 +33,9 @@ Python was used for data cleaning, preprocessing, and exploratory analysis, incl
 
 This project includes a full written assessment analyzing humanitarian conditions in Tigray, combining spatial findings with contextual discussion of food insecurity, market access, medical constraints, internal displacement, and agricultural disruption.
 
-- 📄 **Supplementary (Markdown – Git-readable):**  
+- 📄 **Supplementary (Markdown – GitHub-readable):**  
   [Tigray Assessment Analysis](analysis/Tigray_Assessment_Analysis.md)
-  
+
 - 📑 **PDF version (formatted submission):**  
   [Tigray Analytical Assessment (PDF)](analysis/Tigray_Analytical_Assesment.pdf)
 ---
