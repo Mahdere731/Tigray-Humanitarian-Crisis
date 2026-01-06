@@ -14,6 +14,8 @@ Geographical analysis was conducted in QGIS using zone-level administrative boun
 
 Python has also been utilized to create summary tables and bar-chart visualizations in order to verify patterns prior to geographical joins. The cleaned and organized results were combined in QGIS using standardized region and zone IDs. Relative intensity was visualized using graduated symbology rather than a single value.
 
+---
+
 ### AI Statement
 
 AI tools were utilized for language refinement, structural guidance, and writing feedback. All data analysis, source selection, interpretation, and conclusions were conducted independently by the analyst.
