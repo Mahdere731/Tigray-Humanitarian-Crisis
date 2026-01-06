@@ -13,7 +13,7 @@ Rather than attempting to map all crisis points, this project uses a focused set
 
 ## Hitsats IDP Center Crisis
 
-Information is sourced by reported humanitarian conditions in Tigray, including the current situation at the Hitsats internally displaced persons (IDP) & refugee center. The local media reported that more than 1,700 IDPs at Hitsats are in critical condition amid severe hunger, malnutrition and a lack of medical care, with many elderly people, women, and children collapsing due to extreme food shortages and limited access to health services. Officials further stated that at least dozens of deaths have been linked to these conditions as humanitarian assistance remains insufficient and access continues to be constrained.
+Information is sourced through reported humanitarian conditions in Tigray, including the current dire situation at the Hitsats internally displaced persons (IDP) & refugee center. Local media reported that more than 1,700 IDPs at Hitsats are in critical condition amid severe hunger, malnutrition and a lack of medical care, with many elderly people, women, and children collapsing due to extreme food shortages and limited access to health services. Officials further stated that at least dozens of deaths have been linked to these conditions as humanitarian assistance remains insufficient and access continues to be constrained.
 
 These circumstances illustrate the severe humanitarian impacts of conflict-related access constraints and infrastructure breakdown. They provide an important background for interpreting the geographical patterns of displacement, food insecurity, and medical need presented in this analysis.
 
@@ -33,12 +33,12 @@ https://addisstandard.com/over-1700-idps-at-hitsats-center-in-tigray-in-critical
 ### Python
 Python was used for data cleaning, preprocessing, and exploratory analysis, including:
 - Standardizing administrative names across datasets
-- Filtering and structuring indicators for spatial compatibility
+- Filtering and structuring indicators for geographic compatibility
 - Creating derived metrics (displacement relative to population)
 - Validating distributions and severity rankings prior to mapping
 
 ### QGIS
-- Zone-level administrative boundaries were used for spatial joins
+- Zone-level administrative boundaries were used for geographic joins
 - Processed datasets were joined using standardized identifiers
 - Graduated symbology was used to represent relative intensity across areas rather than a single absolute value.
 - Each thematic layer was exported as static PNG outputs with consistent map extent and styling
@@ -46,7 +46,7 @@ Python was used for data cleaning, preprocessing, and exploratory analysis, incl
 
 ## Assessment Analysis
 
-Included is a full written assessment analyzing humanitarian conditions in Tigray, combining geographical findings with contextual assessment of food insecurity, market access & stability, medical constraints, internal displacement, and agricultural disruption.
+Included is a full written assessment analyzing humanitarian conditions in Tigray, combining geographical data with contextual assessment of food insecurity, market access & stability, medical constraints, internal displacement, and agricultural disruption.
 
 - **Markdown version (GitHub-readable):**  
   [Tigray Assessment Analysis](https://github.com/Mahdere731/Tigray-Humanitarian-Crisis/blob/main/analysis/Tigray_Assessment_Analysis.md)
@@ -60,7 +60,7 @@ Included is a full written assessment analyzing humanitarian conditions in Tigra
 ### Food Insecurity Severity Across Tigray Zones
 ![Food Insecurity](Tigray_Food_Insecurity.png)
 
-*This map illustrates relative food insecurity severity across administrative zones in Tigray, highlighting spatial variation in food access challenges during the crisis period.*
+*This map illustrates relative food insecurity severity across administrative zones in Tigray, highlighting geographical variation in food access challenges during the crisis period.*
 
 ---
 
@@ -93,7 +93,7 @@ Included is a full written assessment analyzing humanitarian conditions in Tigra
 ---
 
 ## Why This Analysis Matters
-This project demonstrates how spatial analysis can be utlized to explore humanitarian conditions in data-constrained and conflict-affected settings. By combining Python-based data preparation with GIS visualization, this analysis highlights spatial disparities while being careful to avoid over-interpretation of incomplete or uncertain data.
+This project demonstrates how geographical analysis can be utlized to explore humanitarian conditions in data-constrained and conflict-affected settings. By combining Python-based data preparation with GIS visualization, this analysis highlights spatial disparities while being careful to avoid over-interpretation of incomplete or uncertain data.
 
 ---
 
@@ -101,7 +101,7 @@ This project demonstrates how spatial analysis can be utlized to explore humanit
 - Pre-2020 subnational humanitarian data availability is limited
 - Reporting constraints during conflict affect completeness of data 
 - Maps represent relative patterns, not exact measurements
-- Certain crisis dimensions are discussed contextually rather than spatially to avoid misrepresentation
+- Certain crisis dimensions are discussed contextually rather than geographically to avoid misrepresentation
 
 ---
 
