@@ -91,7 +91,7 @@ Information on health system functionality and medical need was sourced from hum
 ---
 
 ### Systematic Destabilization (Synthesis)
-The synthesis presented in this project is the author’s interpretation based on the spatial convergence of multiple humanitarian indicators. Patterns were identified by examining the overlap between displacement, agricultural collapse, market disruption, and health system failure using mapped HDX datasets alongside GEOGLAM Crop Monitor reporting.
+The synthesis presented in this project is the analyst’s interpretation informed by the spatial overlap of multiple humanitarian data sets. Patterns were identified by examining the overlap between displacement, agricultural collapse, market disruption, and health system failure using mapped HDX datasets alongside GEOGLAM Crop Monitor reporting.
 
 ---
 
