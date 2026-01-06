@@ -3,7 +3,9 @@
 
 ## Project Overview
 
-This project presents a geographical analysis of humanitarian conditions in the Tigray region of Ethiopia, combining geospatial visualization with data preprocessing and exploratory analysis. The goal is to examine geographical patterns in food insecurity, internal displacement, medical access constraints, and health facility functionality during the crisis period, while acknowledging the limitations of humanitarian data availability.
+This project presents a geographical analysis of humanitarian conditions in the Tigray region of Ethiopia, combining geospatial visualization with data preprocessing and exploratory analysis. The goal is to examine geographical patterns in food insecurity, internal displacement, medical access constraints, and health facility functionality during the crisis period, while acknowledging the limitations of humanitarian data availability. 
+
+This goal is addressed through the use of multiple spatial layers, which are visually and analytically compared to identify overlapping and divergent patterns across the study area.
 
 Rather than attempting to map all crisis dimensions, this project uses a focused set of indicators and complements the maps with contextual analysis of broader systemic impacts such as agriculture disruption and market access constraints.
 
