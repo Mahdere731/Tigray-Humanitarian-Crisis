@@ -114,4 +114,5 @@ This project demonstrates how spatial analysis can be utlized to explore humanit
 
 ## Analyst
 Mahdere F
+
 *Business Administration ~ Information Systems Seattle Pacific University '27*
