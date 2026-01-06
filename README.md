@@ -93,7 +93,7 @@ Included is a full written assessment analyzing humanitarian conditions in Tigra
 ---
 
 ## Why This Analysis Matters
-This project demonstrates how spatial analysis can be utlized to explore humanitarian conditions in data-constrained and conflict-affected settings. By combining Python-based preprocessing with GIS visualization, this analysis highlights spatial disparities while being careful to avoid over-interpretation of incomplete or uncertain data.
+This project demonstrates how spatial analysis can be utlized to explore humanitarian conditions in data-constrained and conflict-affected settings. By combining Python-based data preparation with GIS visualization, this analysis highlights spatial disparities while being careful to avoid over-interpretation of incomplete or uncertain data.
 
 ---
 
