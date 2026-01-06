@@ -5,17 +5,17 @@
 
 This project presents a geographical analysis of humanitarian conditions in the Tigray region of Ethiopia, combining geospatial visualization with data preprocessing and exploratory analysis. The goal is to examine geographical patterns in food insecurity, internal displacement, medical access constraints, and health facility functionality during the crisis period, while acknowledging the limitations of humanitarian data availability. 
 
-This goal is addressed through the use of multiple spatial layers, which are visually and analytically compared to identify overlapping and divergent patterns across the study area.
+This goal is addressed through the use of multiple geographical layers, which are visually and analytically compared to identify overlapping and divergent patterns across the study area.
 
-Rather than attempting to map all crisis dimensions, this project uses a focused set of data and complements the maps with contextual analysis of broader systemic impacts such as agriculture disruption and market access constraints.
+Rather than attempting to map all crisis points, this project uses a focused set of data and complements the maps with contextual analysis of broader systemic impacts such as agriculture disruption and market access constraints.
 
 ---
 
-## Humanitarian Context Note
+## Hitsats IDP Center Crisis
 
 Information is sourced by reported humanitarian conditions in Tigray, including the current situation at the Hitsats internally displaced persons (IDP) & refugee center. The local media reported that more than 1,700 IDPs at Hitsats are in critical condition amid severe hunger, malnutrition and a lack of medical care, with many elderly people, women, and children collapsing due to extreme food shortages and limited access to health services. Officials further stated that at least dozens of deaths have been linked to these conditions as humanitarian assistance remains insufficient and access continues to be constrained.
 
-These circumstances illustrate the severe human consequences of conflict-related access constraints and infrastructure breakdown. They provide an important background for interpreting the geographical patterns of displacement, food insecurity, and medical need presented in this analysis.
+These circumstances illustrate the severe humanitarian impacts of conflict-related access constraints and infrastructure breakdown. They provide an important background for interpreting the geographical patterns of displacement, food insecurity, and medical need presented in this analysis.
 
 Addis Standard (2023). *Over 1,700 IDPs at Hitsats Center in Tigray in Critical Condition Amid Severe Hunger, Lack of Medical Care.*  
 https://addisstandard.com/over-1700-idps-at-hitsats-center-in-tigray-in-critical-condition-amid-severe-hunger-lack-of-medical-care/
@@ -81,7 +81,7 @@ Included is a full written assessment analyzing humanitarian conditions in Tigra
 ### Operational Health Facilities Across Tigray Zones
 ![Operational Health Facilities](Tigray_Health_Facilities_Operational.png)
 
-*This map illustrates the relative availability of reported operational health facilities across Tigray zones, indicating geographic variation in health system functionality.*
+*This map presents the relative availability of reported operational health facilities across Tigray zones, indicating geographic variation in health system functionality.*
 
 ---
 
@@ -113,7 +113,5 @@ This project demonstrates how spatial analysis can be utlized to explore humanit
 ---
 
 ## Analyst
-Mahdere  F
-
-*Business Administration ~ Information Systems*  
-Seattle Pacific University '27
+Mahdere F
+*Business Administration ~ Information Systems Seattle Pacific University '27*
