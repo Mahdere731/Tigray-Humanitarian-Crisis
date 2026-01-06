@@ -2,7 +2,7 @@
 
 ## Project Focus and Purpose
 
-Through a spatial and contextual analysis of internally displaced people (IDPs), food insecurity, medical needs, health facility functionality, market functionality, and regional access constraints, this project examines the ongoing humanitarian crisis in Tigray. Using sub-regional mapping in conjunction with post-conflict reports, the analysis aims to convey how these indicators interact spatially and how they reflect broader patterns of civilian harm, livelihood collapse, and systemic destabilization within Tigray.
+Through a geographical and contextual analysis of internally displaced people (IDPs), food insecurity, medical needs, health facility functionality, market functionality, and regional access constraints, this project examines the ongoing humanitarian crisis in Tigray. Using sub-regional mapping in conjunction with post-conflict reports, the analysis aims to convey how these indicators interact geographically and how they reflect broader patterns of civilian harm, livelihood collapse, and systemic destabilization within Tigray.
 
 The objective of the analysis was not only to visualize humanitarian need but also to interpret how displacement, collapse of basic services, and agricultural destruction operate together as mutually reinforcing mechanisms. The maps were designed to show where stress is concentrated, while the written analysis explains why these patterns exist and how they affect the civilian population over time.
 
@@ -10,9 +10,9 @@ The objective of the analysis was not only to visualize humanitarian need but al
 
 ## Methodology and Analytical Approach
 
-Spatial analysis was conducted in QGIS using zone-level administrative boundaries. Prior to mapping, datasets were processed in Python using pandas to rank regions according to severity across food and medical needs and access constraints, structure region-level indicators, check for missing values, and create derived metrics (such as displacement rate per population).
+Geographical analysis was conducted in QGIS using zone-level administrative boundaries. Prior to mapping, datasets were processed in Python using pandas to rank regions according to severity across food and medical needs and access constraints, structure region-level indicators, check for missing values, and create derived metrics (such as displacement rate per population).
 
-Python has also been utilized to create summary tables and bar-chart visualizations in order to verify patterns prior to spatial joins. The cleaned and organized results were combined in QGIS using standardized region and zone IDs. Relative intensity was visualized using graduated symbology rather than a single value.
+Python has also been utilized to create summary tables and bar-chart visualizations in order to verify patterns prior to geographical joins. The cleaned and organized results were combined in QGIS using standardized region and zone IDs. Relative intensity was visualized using graduated symbology rather than a single value.
 
 ### AI Statement
 
@@ -22,7 +22,7 @@ AI tools were utilized for language refinement, structural guidance, and writing
 
 ## II. Internally Displaced Persons (IDPs): Scale, Distribution, and Impact
 
-According to humanitarian reports, after the conflict started, displacement in Tigray reached previously unheard-of levels. In response to the ongoing conflict, there were about 1.9 million internally displaced people in Tigray by May 2021; by the end of 2021, that number had doubled to an estimated 4.2 million (GEOGLAM Crop Monitor – Conflict and Food Insecurity Report, 2022).
+According to humanitarian reports, after the conflict started, displacement in Tigray reached previously unprecedented levels. In response to the ongoing conflict, there were an estimated 1.9 million internally displaced people in Tigray by May 2021; by the end of 2021, that number had doubled to an estimated 4.2 million (GEOGLAM Crop Monitor – Conflict and Food Insecurity Report, 2022).
 
 These figures show both the severity and the geographically restricted nature of displacement because the majority of population movement occurred within Tigray rather than across borders. Zone-level mapping shows that the western and central zones have higher displacement concentrations. 
 
@@ -31,7 +31,7 @@ These figures show both the severity and the geographically restricted nature of
 ## References and Data Sources
 
 ### Analytical Framing and Methodology
-The analytical approach and framing for this project were developed by the author, informed by common geographical analysis practices and widely applied humanitarian data standards. Rather than relying on a single source to define the project design, the framework was built through an integrated analytical approach that examines spatial relationships and interprets multiple data points together.
+The analytical approach and framing for this project were developed by the author, informed by common geographical analysis practices and widely applied humanitarian data standards. Rather than relying on a single source to define the project design, the framework was built through an integrated analytical approach that examines geographical relationships and interprets multiple data points together.
 
 ---
 
@@ -91,9 +91,9 @@ Information on health system functionality and medical need was sourced from hum
 ---
 
 ### Systematic Destabilization (Synthesis)
-The synthesis presented in this project is the analyst’s interpretation informed by the spatial overlap of multiple humanitarian data sets. Patterns were identified by examining the overlap between displacement, agricultural collapse, market disruption, and health system failure using mapped HDX datasets alongside GEOGLAM Crop Monitor reporting.
+The synthesis presented in this project is the analyst’s interpretation informed by the geographical overlap of multiple humanitarian data sets. Patterns and trends were identified by examining the overlap between displacement, agricultural collapse, market disruption, and health system failure using mapped HDX datasets alongside GEOGLAM Crop Monitor reporting.
 
 ---
 
 ### Limitations and Ethical Considerations
-Statements addressing data gaps, access constraints, and ethical visualization choices reflect the author’s methodological judgment and adherence to standard practices in conflict-zone and humanitarian spatial analysis. As these considerations are methodological and ethical in nature, no direct external citations were presented.
+Statements addressing data gaps, access constraints, and ethical visualization choices reflect the analyst’s methodical judgment and understanding of compliance to standard practices in conflict-zone and humanitarian geographical analysis. As these considerations are procedural and ethical in nature, no direct external citations were presented.
