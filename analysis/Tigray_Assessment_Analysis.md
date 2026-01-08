@@ -33,7 +33,7 @@ These figures show both the severity and the geographically restricted nature of
 ## References and Data Sources
 
 ### Analytical Framing and Methodology
-The analytical approach and framing for this project were developed by the author, informed by common geographical analysis practices and widely applied humanitarian data standards. Rather than relying on a single source to define the project design, the framework was built through an integrated analytical approach that examines geographical relationships and interprets multiple data points together.
+The analytical approach and framing for this project were developed by the analyst, informed by common geographical analysis practices and widely applied humanitarian data standards. Rather than relying on a single source to define the project design, the framework was built through an integrated analytical approach that examines geographical relationships and interprets multiple data points together.
 
 ---
 
@@ -93,7 +93,7 @@ Information on health system functionality and medical need was sourced from hum
 ---
 
 ### Systematic Destabilization (Synthesis)
-The synthesis presented in this project is the analyst’s interpretation informed by the geographical overlap of multiple humanitarian data sets. Patterns and trends were identified by examining the overlap between displacement, agricultural collapse, market disruption, and health system failure using mapped HDX datasets alongside GEOGLAM Crop Monitor reporting.
+The synthesis presented in this project is the analyst’s interpretation understood by the geographical overlap of multiple humanitarian data sets. Patterns and trends were identified by examining the overlap between displacement, agricultural collapse, market disruption, and health system failure using mapped HDX datasets alongside GEOGLAM Crop Monitor reporting.
 
 ---
 
