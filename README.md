@@ -115,4 +115,4 @@ This project demonstrates how geographical analysis can be utlized to explore hu
 ## Analyst
 Mahdere F
 
-*Business Administration ~ Information Systems Seattle Pacific University '27*
+*Business Administration ~ Information Systems, Seattle Pacific University '27*
