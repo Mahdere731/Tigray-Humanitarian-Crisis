@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project presents a geographical analysis of humanitarian conditions in the Tigray region of Ethiopia, combining geospatial visualization with data preprocessing and exploratory analysis. The goal is to examine geographical patterns in food insecurity, internal displacement, medical access constraints, and health facility functionality during the crisis period, while acknowledging the limitations of humanitarian data availability. 
+This project presents a geographical analysis of humanitarian conditions in the Tigray region of Ethiopia, combining geospatial visualization with data preperation and exploratory analysis. The goal is to examine geographical patterns in food insecurity, internal displacement, medical access constraints, and health facility functionality during the crisis period, while also acknowledging the limitations of humanitarian data availability. 
 
 This goal is addressed through the use of multiple geographical layers, which are visually and analytically compared to identify overlapping and divergent patterns across the study area.
 
@@ -93,7 +93,7 @@ Included is a full written assessment analyzing humanitarian conditions in Tigra
 ---
 
 ## Why This Analysis Matters
-This project demonstrates how geographical analysis can be utlized to explore humanitarian conditions in data-constrained and conflict-affected settings. By combining Python-based data preparation with GIS visualization, this analysis highlights spatial disparities while being careful to avoid over-interpretation of incomplete or uncertain data.
+This project demonstrates how geographical analysis can be utlized to explore humanitarian conditions in data-constrained and conflict-affected settings. By combining Python-based data preparation with GIS visualization, this analysis highlights geographical disparities while being careful to avoid over-interpretation of incomplete or uncertain data.
 
 ---
 
@@ -101,7 +101,7 @@ This project demonstrates how geographical analysis can be utlized to explore hu
 - Pre-2020 subnational humanitarian data availability is limited
 - Reporting constraints during conflict affect completeness of data 
 - Maps represent relative patterns, not exact measurements
-- Certain crisis dimensions are discussed contextually rather than geographically to avoid misrepresentation
+- Certain crisis dimensions are discussed contextually rather than geographically for clarity and to avoid misrepresentation
 
 ---
 
