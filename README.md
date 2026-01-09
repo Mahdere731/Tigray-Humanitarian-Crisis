@@ -60,14 +60,14 @@ Included is a full written assessment analyzing humanitarian conditions in Tigra
 ### Food Insecurity Severity Across Tigray Zones
 ![Food Insecurity](Tigray_Food_Insecurity.png)
 
-*This map illustrates relative food insecurity severity across administrative zones in Tigray, highlighting geographical variation in food access challenges during the crisis period.*
+*This map highlights the relative food insecurity severity across administrative zones in Tigray, highlighting geographical variation in food access challenges during the crisis period.*
 
 ---
 
 ### Medical Access Constraints Across Tigray Zones
 ![Medical Needs](Tigray_Medical_Needs.png)
 
-*This map illustrates relative constraints on access to medical services across Tigray zones, reflecting disparities in healthcare availability and accessibility.*
+*This map visualizes relative differences in constraints on access to medical services across Tigray zones, reflecting disparities in healthcare availability and accessibility.*
 
 ---
 
@@ -81,7 +81,7 @@ Included is a full written assessment analyzing humanitarian conditions in Tigra
 ### Operational Health Facilities Across Tigray Zones
 ![Operational Health Facilities](Tigray_Health_Facilities_Operational.png)
 
-*This map presents the relative availability of reported operational health facilities across Tigray zones, indicating geographic variation in health system functionality.*
+*This map illustrates differences in the reported operational health facilities across Tigray zones, indicating geographic variation in health system functionality.*
 
 ---
 
