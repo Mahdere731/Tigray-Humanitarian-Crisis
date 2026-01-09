@@ -97,7 +97,7 @@ This project demonstrates how geographical analysis can be utlized to explore hu
 
 ---
 
-## Limitations & Ethical Considerations
+## Limitations & Ethics
 - Pre-2020 subnational humanitarian data availability is limited
 - Reporting constraints during conflict affect completeness of data 
 - Maps represent relative patterns, not exact measurements
