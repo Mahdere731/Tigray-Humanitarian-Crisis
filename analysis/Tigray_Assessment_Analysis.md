@@ -38,60 +38,77 @@ The analytical approach and framing for this project were developed by the analy
 ---
 
 ### Internally Displaced Persons (IDPs)
-Data and contextual information on internal displacement were drawn from the following sources:
-
 - GEOGLAM Crop Monitor – Conflict and Food Insecurity Reports (2021–2022)  
   https://www.cropmonitor.org/conflict-reports
-
+  
 - Humanitarian Data Exchange (HDX) – Ethiopia Internal Displacement datasets (IOM / DTM)  
   https://data.humdata.org/group/eth
-
+  
 - HDX – Ethiopia IDP Subnational (zone-level) datasets  
   https://data.humdata.org/search?q=ethiopia+idp
 
 ---
 
 ### Agricultural Sector Destabilization (Tigray)
-Analysis of agricultural disruption in Tigray was informed primarily by GEOGLAM Crop Monitor reporting, including regional context sections and detailed documentation of conflict-related impacts on agricultural systems.
-
 - GEOGLAM Crop Monitor – Ethiopia and Tigray context sections  
   https://www.cropmonitor.org/conflict-reports
-
+  
 - GEOGLAM Crop Monitor – Documentation of crop destruction, field abandonment, prevention of ploughing and harvesting, disruption of seed systems, and livestock loss  
   https://www.cropmonitor.org/conflict-reports
-
-Interpretive synthesis in this section reflects the author’s analysis of recurring mechanisms documented across multiple Crop Monitor reports rather than reliance on a single incident or data point.
 
 ---
 
 ### Functional Markets and Economic Strain
-Market functionality and economic strain were examined using humanitarian market datasets in combination with contextual reporting on food access and displacement-related pressures.
-
 - HDX – Functional Markets and Market Functionality datasets (Ethiopia)  
   https://data.humdata.org/search?q=functional+markets+ethiopia
-
+  
 - GEOGLAM Crop Monitor – Analysis of market access, food affordability, and displacement-driven market strain  
   https://www.cropmonitor.org/conflict-reports
 
 ---
 
 ### Health System Disruption and Medical Need
-Information on health system functionality and medical need was sourced from humanitarian datasets and conflict impact reporting.
-
 - HDX – Health Facilities Operational Status datasets (Ethiopia / Tigray)  
   https://data.humdata.org/search?q=health+facilities+ethiopia
-
+  
 - HDX – Medical Need and Humanitarian Needs Overview datasets  
   https://data.humdata.org/search?q=medical+need+ethiopia
-
+  
 - GEOGLAM Crop Monitor – Reporting on nutrition impacts and food insecurity-related health outcomes  
   https://www.cropmonitor.org/conflict-reports
-
-- HDX – Access Severity and Regional Access Constraint datasets  
+  
+- HDX – Access Severity and Regional Access Constraint datasets (OCHA / REACH)  
   https://data.humdata.org/search?q=access+constraints+ethiopia
-
-- Gufue et al. (2024) – Academic study analyzing conflict-related damage to the public health system in the Tigray (Frontiers in Public Health)
+  
+- Gufue et al. (2024) – Academic study analyzing conflict-related damage to the public health system in Tigray  
   https://doi.org/10.3389/fpubh.2024.1271028
+  
+- UNICEF & Tigray Regional Health Bureau – Health Facility Damage Assessments (2021–2022)  
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11026641/
+  
+- UNOCHA – Ethiopia Humanitarian Needs Overview (2024)  
+  https://www.unocha.org/publications/report/ethiopia/ethiopia-humanitarian-needs-overview-2024-february-2024
+
+---
+
+### Source for Killings of Aid Workers
+- MSF – Assessment of Internal Review into the Killing of Three MSF Staff in Tigray (2021)  
+  https://www.msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray
+  
+- Relief Web - Statement on the killing of 23 aid workers in the Tigray region since the start of the crisis
+  https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis
+
+---
+
+### Human Rights and Atrocity Documentation
+- Human Rights Watch – *Crimes Against Humanity in Western Tigray Zone* (2022)  
+  https://www.hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone
+  
+- Human Rights Watch – *Ethnic Cleansing Persists Under Tigray Truce* (2023)  
+  https://www.hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce
+  
+- Amnesty International – *Crimes Against Humanity in Western Tigray Zone* (2022)  
+  https://www.amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone
 
 ---
 
