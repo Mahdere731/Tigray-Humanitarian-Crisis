@@ -113,7 +113,8 @@ The analytical approach and framing for this project were developed by the analy
 ---
 
 ### Systematic Destabilization (Synthesis)
-The synthesis presented in this project is the analyst’s interpretation understood by the geographical overlap of multiple humanitarian data sets. Patterns and trends were identified by examining the overlap between displacement, agricultural collapse, market disruption, and health system failure using mapped HDX datasets alongside GEOGLAM Crop Monitor reporting.
+The synthesis displayed in this project is the analyst's interpretation understood by the geographical overlap of multiple humanitarian data sets. and corroborated reports. Patterns and trends were identified by examining the connection between displacement, agricultural collapse, market disruption, and health system failure using identified HDX datasets alongside GEOGLAM Crop Monitor reporting, UNOCHA Humanitarian Needs Overview, UNICEF and Tigray Health Bureau assessments, and human rights documentation from Human Rights Watch as well as Amnesty International.
+
 
 ---
 
