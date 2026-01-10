@@ -30,7 +30,7 @@ These figures show both the severity and the geographically restricted nature of
 
 ---
 
-## References and Data Sources
+## Sources Cited: Datasets, Assessments, and Reports
 
 ### Analytical Framing and Methodology
 The analytical approach and framing for this project were developed by the analyst, informed by common geographical analysis practices and widely applied humanitarian data standards. Rather than relying on a single source to define the project design, the framework was built through an integrated analytical approach that examines geographical relationships and interprets multiple data points together.
