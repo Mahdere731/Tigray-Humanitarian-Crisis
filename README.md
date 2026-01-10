@@ -52,7 +52,7 @@ Included is a full written assessment analyzing humanitarian conditions in Tigra
   [Tigray Assessment Analysis](https://github.com/Mahdere731/Tigray-Humanitarian-Crisis/blob/main/analysis/Tigray_Assessment_Analysis.md)
 
 - **PDF version (formatted submission):**  
-  [Tigray Humanitarian Assessment (PDF)](https://github.com/Mahdere731/Tigray-Humanitarian-Crisis/blob/main/analysis/Tigray_Humantarian_Analysis.pdf)
+  [Tigray Humanitarian Assessment (PDF)](https://github.com/Mahdere731/Tigray-Humanitarian-Crisis/blob/main/analysis/Tigray_Humanitarian_Analysis.pdf)
 ---
 
 ## Map Visualizations
