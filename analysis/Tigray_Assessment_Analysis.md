@@ -91,7 +91,7 @@ The analytical approach and framing for this project were developed by the analy
 
 ---
 
-### Source for Killings of Aid Workers
+### Source for Killings of Aid Workers & United Nations Guards
 - MSF – Assessment of Internal Review into the Killing of Three MSF Staff in Tigray (2021)  
   https://www.msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray
   
