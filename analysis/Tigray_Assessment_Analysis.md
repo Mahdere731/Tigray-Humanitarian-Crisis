@@ -90,6 +90,9 @@ Information on health system functionality and medical need was sourced from hum
 - HDX – Access Severity and Regional Access Constraint datasets  
   https://data.humdata.org/search?q=access+constraints+ethiopia
 
+- Gufue et al. (2024) – Academic study analyzing conflict-related damage to the public health system in the Tigray (Frontiers in Public Health)
+  https://doi.org/10.3389/fpubh.2024.1271028
+
 ---
 
 ### Systematic Destabilization (Synthesis)
