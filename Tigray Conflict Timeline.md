@@ -11,9 +11,15 @@
   - Source: OHCHR–EHRC Joint Investigation report (covers Nov 2020–June 2021).  
   - https://www.ohchr.org/sites/default/files/2021-11/OHCHR-EHRC-Tigray-Report.pdf
 
-### Nov 9–10, 2020 — Mai Kadra killings
-- Amnesty International verified evidence indicating that **scores and likely hundreds** of civilians were killed in Mai Kadra.  
-  - Source: Amnesty news release (Nov 12, 2020).  
-  - https://www.amnesty.org/en/latest/news/2020/11/ethiopia-investigation-reveals-evidence-that-scores-of-civilians-were-killed-in-massacre-in-tigray-state/
-- Ethiopian Human Rights Commission (EHRC) issued preliminary findings after a rapid investigation (Nov 24, 2020).  
-  - https://ehrc.org/ethiopian-human-rights-commission-rapid-investigation-into-grave-human-rights-violation-maikadra-preliminary-findings/
+### Nov 19–29, 2020 — Axum (Aksum) massacre and related violations
+- Amnesty documented a series of violations in Axum (including killings of civilians) during this period, describing the events as potentially amounting to crimes under international law.  
+  - Source: Amnesty briefing “The Massacre in Axum” (Feb 2021).  
+  - https://www.amnesty.org/en/documents/afr25/3730/2021/en/
+- Human Rights Watch also reported on the Axum massacre and described house-to-house killings and other abuses.  
+  - Source: HRW (Mar 5, 2021).  
+  - https://www.hrw.org/news/2021/03/05/ethiopia-eritrean-forces-massacre-tigray-civilians
+
+### Nov 30, 2020 — Dengelat (Maryam Dengelat) killings
+- The OHCHR–EHRC joint investigation later referenced abuses including unlawful killings; multiple sources report mass civilian deaths at/near Maryam Dengelat Church around this date.  
+  - Source: OHCHR–EHRC Joint Investigation report.  
+  - https://www.ohchr.org/sites/default/files/2021-11/OHCHR-EHRC-Tigray-Report.pdf
