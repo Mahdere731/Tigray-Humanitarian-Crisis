@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project works to documents major humanitarian repurcussions, human rights abuses, and civilian sufferring that was reported during the Tigray War (2020–present). The goal of this project is to increase awareness and provide accessible information about the conflict and its effects on the civilian population in Tigray.
+This project works to documents major humanitarian repercussions, human rights abuses, and civilian suffering that was reported during the Tigray War (2020–present). The goal of this project is to increase awareness and provide accessible information about the conflict and its effects on the civilian population in Tigray.
 
 The project compiles publicly available investigations, humanitarian reports, and research from international human rights organizations, humanitarian agencies, investigative journalism, and Tigrayan advocacy groups.
 
@@ -55,9 +55,11 @@ Sources:
 - Reuters reporting on the 2020 Tigray election
 - BBC reporting on political tensions prior to the conflict
 
+---
+
 ## *November 2020 – Beginning of the Conflict*
 
-The Tigray War began in November 2020 when fighting broke out between the Ethiopian federal government and Tigray regional authorities after the encircaltion of the Tigray region following a regional election held in defiance of the federal government. This soon esclated into Ethiopian federal forces, Eritrean military forces, and allied regional militia entering the region.
+The Tigray War began in November 2020 when fighting broke out between the Ethiopian federal government and Tigray regional authorities after the encirclement of the Tigray region following a regional election held in defiance of the federal government. This soon escalated into Ethiopian federal forces, Eritrean military forces, and allied regional militia entering the region.
 
 The conflict quickly escalated into a large-scale humanitarian crisis affecting millions of civilians.
 
@@ -79,6 +81,7 @@ Sources:
 - satellite imagery analysis reported by international media investigations
 
 ---
+
 ## *November 2020 – Axum Massacre*
 
 Investigations by human rights organizations reported the killing of hundreds of civilians in the historic city of Axum during military operations.
@@ -107,6 +110,7 @@ Sources:
 - Médecins Sans Frontières field reports
 
 ---
+
 ## January 2021 – Killing of Former Ethiopian Foreign Minister Seyoum Mesfin
 
 In January 2021, reports emerged that **Seyoum Mesfin**, a former Ethiopian foreign minister and former ambassador to the European Union who was from the Tigray region, was killed during military operations in Tigray.
@@ -119,7 +123,8 @@ Sources:
 - international media reporting on the death of Seyoum Mesfin
 - diplomatic reactions reported in international news coverage
 
---- 
+---
+
 ## *2021 – Widespread Sexual Violence*
 
 Multiple international investigations documented large numbers of cases of sexual violence against women and girls during the conflict.
@@ -132,7 +137,7 @@ Sources:
 
 ---
 
-## **2021 – Shift in the Conflict and Tigray Defense Forces Counteroffensive*
+## *2021 – Shift in the Conflict and Tigray Defense Forces Counteroffensive*
 
 By mid-2021, the dynamics of the conflict began to shift as Tigrayan forces reorganized under the **Tigray Defense Forces (TDF)** and launched a series of counteroffensives against Ethiopian federal and allied forces.
 
@@ -152,7 +157,6 @@ Reports from journalists and observers described the moment as a major morale bo
 
 ---
 
-
 ## *June 2021 – Togoga Airstrike*
 
 An airstrike struck a market in Togoga near Mekelle, causing civilian casualties.
@@ -163,6 +167,7 @@ Sources:
 - United Nations statements
 - humanitarian situation reports
 
+---
 
 ## *2021–2022 – Humanitarian Access Restrictions*
 
@@ -242,7 +247,7 @@ Information in this project is compiled from investigations and reports by inter
 
 ## Advocacy and Awareness Organizations
 
--**Omna Tigray** – advocacy organization focused on raising global awareness about the humanitarian crisis in Tigray and documenting human rights abuses.
+- **Omna Tigray** – advocacy organization focused on raising global awareness about the humanitarian crisis in Tigray and documenting human rights abuses.
 
 ## Investigative Journalism
 
