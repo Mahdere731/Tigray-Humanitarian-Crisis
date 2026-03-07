@@ -183,7 +183,7 @@ Following these gains, TDF forces expanded operations beyond Tigray into neighbo
 
 Control of these areas also had broader logistical implications. The transport corridors in this region connect to Ethiopia’s primary trade route to the **Port of Djibouti**, which handles the vast majority of Ethiopia’s international imports and exports. Military analysts noted that fighting and territorial control along these corridors had the potential to affect supply routes linking Ethiopia to the Djibouti trade corridor.
 
-At the height of the offensive in late 2021, TDF forces advancing alongside allied Oromo Liberation Army (OLA) fighters were reported to be approximately 70–80 kilometers from Ethiopia’s capital, Addis Ababa. The rapid advance raised significant international concern about the possibility of the conflict expanding into a broader national war.
+At the height of the offensive in late 2021, TDF forces advancing alongside allied Oromo Liberation Army (OLA) fighters were reported to be approximately 80 Miles (130 Kilometers) from Ethiopia’s capital, Addis Ababa. The rapid advance raised significant international concern about the possibility of the conflict expanding into a broader national war.
 
 During this period, TDF leadership announced withdrawals from several areas outside Tigray, stating that the move was intended to reduce civilian suffering, prevent further escalation of the war, and allow space for humanitarian access and potential negotiations.
 
