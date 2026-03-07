@@ -1,4 +1,4 @@
-# Tigray Humanitarian Crisis Documentation Project
+# Tigray Humanitarian Crisis & Conflict Documentation
 
 ## Overview
 
