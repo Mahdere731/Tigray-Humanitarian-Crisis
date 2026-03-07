@@ -254,6 +254,44 @@ A peace agreement was signed in Pretoria between the Ethiopian federal governmen
 Despite the agreement, humanitarian challenges and reconstruction efforts continue across the region. Due to the Federal Government not doing their part of the agreement even as the TPLF fulfilled parts of the agreement as a show of cooperation and de-esclation.
 
 ---
+## *2023–Present – Fragile Peace and Rising Tensions*
+
+Although the **Pretoria Peace Agreement** signed in November 2022 formally ended large-scale hostilities between the Ethiopian federal government and Tigray regional authorities, many core issues of the conflict remain unresolved.
+
+Large areas of western and southern Tigray remain under the control of regional forces and FANO militia aligned with the neighboring region of Amhara, which has committed numerous war crimes during the conflict, and the return of displaced Tigrayan civilians to these territories has been slow and contested.
+
+Humanitarian organizations have reported that millions of civilians in Tigray continue to face severe food insecurity, limited access to healthcare, and significant infrastructural damage resulting from the war.
+
+In addition to the humanitarian situation, political tensions between the Ethiopian federal government and Tigrayan authorities have continued. Disputes over territorial control, implementation of the peace agreement, and the presence of foreign forces in the region have contributed to an unstable security environment.
+
+Reports from international organizations and conflict monitoring groups indicate that tensions have periodically escalated into armed incidents and political confrontations since the signing of the peace agreement.
+
+Sources:
+- Human Rights Watch reporting on post-war conditions  
+- UN humanitarian updates  
+- International Crisis Group analysis on post-Pretoria tensions  
+
+---
+
+## *2024–2026 – Renewed Military Tensions and Troop Buildup*
+
+In recent years, analysts and observers have warned that the peace agreement remains fragile and that northern Ethiopia could face renewed conflict.
+
+Reports from conflict monitoring organizations and international media indicate that **Ethiopian federal forces have increased troop deployments and military preparations near the Tigray region** following several security incidents and political disputes. These developments have raised concerns about the possibility of renewed fighting in northern Ethiopia.
+
+Observers have also reported **renewed clashes, arrests, and political tensions in parts of Tigray**, including disputes over regional administration and control of local institutions. These incidents have contributed to uncertainty about the stability of the post-war political settlement.
+
+At the same time, tensions between Ethiopia and Eritrea have again drawn international attention, with diplomatic officials calling for de-escalation amid fears that renewed conflict could destabilize the wider Horn of Africa region.
+
+Some analysts warn that the combination of unresolved territorial disputes, political divisions within Tigray, and increasing military activity in northern Ethiopia could create conditions for another large-scale confrontation if tensions continue to escalate.
+
+Sources:
+- International Crisis Group reporting on tensions in northern Ethiopia  
+- Reuters reporting on military tensions and troop deployments  
+- UN statements on regional security concerns in the Horn of Africa  
+- Africa File (Critical Threats Project) conflict monitoring reports
+
+---
 
 # Humanitarian Impact
 
