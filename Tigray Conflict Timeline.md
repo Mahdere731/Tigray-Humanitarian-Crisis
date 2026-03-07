@@ -171,7 +171,7 @@ Sources:
 
 By mid-2021, the dynamics of the conflict began to shift as Tigrayan forces reorganized under the **Tigray Defense Forces (TDF)** and launched a series of counteroffensives against Ethiopian federal and allied forces.
 
-One of the most significant turning points occurred during **Operation Alula**, a major military campaign led by TDF forces that resulted in the recapture of large areas of the Tigray region.
+One of the most significant turning points occurred during **Operation Alula**. The operation was named after **Ras Alula Engida, a 19th-century Tigrayan general** known for defending the region against foreign invasions, and the name carries symbolic significance for many people in Tigray as a reference to historical resistance, military leadership, and the defense of their homeland. This was a major military campaign led by TDF forces that resulted in the recapture of large areas of the Tigray region.
 
 In June 2021, TDF forces entered the regional capital **Mekelle**, marking a major strategic and symbolic shift in the war. Following the withdrawal of Ethiopian federal and allied forces from the city, large numbers of captured Ethiopian National Defense Force (ENDF) soldiers were escorted through Mekelle.
 
