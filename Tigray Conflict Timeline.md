@@ -26,7 +26,7 @@ During this period, Eritrean state media increasingly published rhetoric critica
 
 These developments raised concerns within the Tigray region, where relations between the Ethiopian federal authorities and the Tigray regional government were already deteriorating. Regional authorities in Tigray argued that federal policies toward the region increasingly became punitive and politically motivated.
 
-During this period, Tigray faced multiple crises, including the COVID-19 pandemic and a severe locust outbreak that threatened agricultural production and food security. Regional leaders and observers reported that federal assistance provided to other regions during these crises was withheld from Tigray.
+During this period, Tigray faced multiple crises, including the COVID-19 pandemic and a severe locust outbreak that threatened agricultural production and food security. Regional leaders and observers reported that federal assistance provided to other regions during these crises was **withheld** from Tigray.
 
 Officials in the region also reported full restrictions on transportation routes and logistical access into Tigray, which further limited the region’s ability to receive resources, aid, and economic support. Regional leaders argued that while other regions received federal assistance during crises such as the COVID-19 pandemic and a severe locust outbreak, Tigray was left to manage these challenges on its own.
 
@@ -67,7 +67,7 @@ The conflict quickly escalated into a large-scale humanitarian crisis affecting 
 
 During the early stages of the conflict, the Ethiopian federal government initially denied that Eritrean forces were operating inside Tigray.
 
-However, multiple investigations later reported evidence that Eritrean troops had entered the region and were participating in military operations. Satellite imagery, witness testimony, and investigative reporting were used to document Eritrean military presence in several areas of Tigray.
+However, multiple investigations later reported evidence that Eritrean troops had entered the region and were participating in military operations. **Satellite imagery, witness testimony, and investigative reporting** were used to document Eritrean military presence in several areas of Tigray.
 
 International organizations and journalists reported Eritrean military activity in towns including Axum, Adigrat, and other parts of northern Tigray.
 
@@ -210,7 +210,7 @@ Information in this project is compiled from investigations and reports by inter
 
 ## Advocacy and Awareness Organizations
 
--** Omna Tigray** – advocacy organization focused on raising global awareness about the humanitarian crisis in Tigray and documenting human rights abuses.
+-**Omna Tigray** – advocacy organization focused on raising global awareness about the humanitarian crisis in Tigray and documenting human rights abuses.
 
 ## Investigative Journalism
 
