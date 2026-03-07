@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project documents major humanitarian impacts, human rights abuses, and civilian harm reported during the Tigray War (2020–present). The goal of this project is to increase awareness and provide accessible information about the conflict and its effects on the civilian population in Tigray.
+This project works to documents major humanitarian repurcussions, human rights abuses, and civilian sufferring that was reported during the Tigray War (2020–present). The goal of this project is to increase awareness and provide accessible information about the conflict and its effects on the civilian population in Tigray.
 
 The project compiles publicly available investigations, humanitarian reports, and research from international human rights organizations, humanitarian agencies, investigative journalism, and Tigrayan advocacy groups.
 
@@ -10,9 +10,9 @@ By organizing this information into one digital platform, this project aims to m
 
 ---
 
-# Timeline of the Tigray War (2020–Present)
+## Timeline of the Tigray War (2020–Present)
 
-## 2018–2020 – Rising Political Tensions
+## *2018–2020 – Rising Political Tensions*
 
 Political tensions between the Ethiopian federal government and the Tigray regional government increased significantly in the years leading up to the outbreak of the Tigray War.
 
@@ -36,7 +36,7 @@ Tensions further escalated after the Ethiopian federal government postponed nati
 
 ---
 
-## September 2020 – Tigray Regional Election
+## *September 2020 – Tigray Regional Election*
 
 In September 2020, the Tigray regional government proceeded with regional elections after the Ethiopian federal government postponed national elections.
 
@@ -55,7 +55,7 @@ Sources:
 - Reuters reporting on the 2020 Tigray election
 - BBC reporting on political tensions prior to the conflict
 
-## November 2020 – Beginning of the Conflict
+## *November 2020 – Beginning of the Conflict*
 
 The Tigray War began in November 2020 when fighting broke out between the Ethiopian federal government and Tigray regional authorities after the encircaltion of the Tigray region following a regional election held in defiance of the federal government. This soon esclated into Ethiopian federal forces, Eritrean military forces, and allied regional militia entering the region.
 
@@ -63,7 +63,7 @@ The conflict quickly escalated into a large-scale humanitarian crisis affecting 
 
 ---
 
-## Late 2020 – Reports of Eritrean Military Involvement
+## *Late 2020 – Reports of Eritrean Military Involvement*
 
 During the early stages of the conflict, the Ethiopian federal government initially denied that Eritrean forces were operating inside Tigray.
 
@@ -79,7 +79,7 @@ Sources:
 - satellite imagery analysis reported by international media investigations
 
 ---
-## November 2020 – Axum Massacre
+## *November 2020 – Axum Massacre*
 
 Investigations by human rights organizations reported the killing of hundreds of civilians in the historic city of Axum during military operations.
 
@@ -91,7 +91,7 @@ Sources:
 
 ---
 
-## Late 2020 – Destruction of Civilian Infrastructure
+## *Late 2020 – Destruction of Civilian Infrastructure*
 
 During the early months of the conflict, widespread systematic destruction and looting of civilian infrastructure was reported across Tigray.
 
@@ -107,8 +107,20 @@ Sources:
 - Médecins Sans Frontières field reports
 
 ---
+## January 2021 – Killing of Former Ethiopian Foreign Minister Seyoum Mesfin
 
-## 2021 – Widespread Sexual Violence
+In January 2021, reports emerged that **Seyoum Mesfin**, a former Ethiopian foreign minister and former ambassador to the European Union who was from the Tigray region, was killed during military operations in Tigray.
+
+Seyoum Mesfin had served as Ethiopia’s foreign minister for nearly two decades and later represented Ethiopia as ambassador to the European Union. According to reports, he was killed along with several other senior TPLF officials during fighting involving Ethiopian federal forces.
+
+The death of Seyoum Mesfin drew reactions from diplomats and political leaders internationally. Many officials who had worked with him during his years in diplomacy expressed sadness and condolences, noting his long career in international diplomacy and his role in representing Ethiopia in global institutions.
+
+Sources:
+- international media reporting on the death of Seyoum Mesfin
+- diplomatic reactions reported in international news coverage
+
+--- 
+## *2021 – Widespread Sexual Violence*
 
 Multiple international investigations documented large numbers of cases of sexual violence against women and girls during the conflict.
 
@@ -120,7 +132,28 @@ Sources:
 
 ---
 
-## June 2021 – Togoga Airstrike
+## **2021 – Shift in the Conflict and Tigray Defense Forces Counteroffensive*
+
+By mid-2021, the dynamics of the conflict began to shift as Tigrayan forces reorganized under the **Tigray Defense Forces (TDF)** and launched a series of counteroffensives against Ethiopian federal and allied forces.
+
+One of the most significant turning points occurred during **Operation Alula**, a major military campaign led by TDF forces that resulted in the recapture of large areas of the Tigray region.
+
+In June 2021, TDF forces entered the regional capital **Mekelle**, marking a major strategic and symbolic shift in the war. Following the withdrawal of Ethiopian federal and allied forces from the city, large numbers of captured Ethiopian National Defense Force (ENDF) soldiers were escorted through Mekelle.
+
+Videos circulated online showed thousands of prisoners of war being marched through the city while large crowds gathered along the streets. Many civilians were seen cheering and celebrating the return of TDF forces to the regional capital.
+
+Reports from journalists and observers described the moment as a major morale boost for residents after months of conflict and military occupation.
+
+**Sources**:
+- international media reporting on the recapture of Mekelle
+- reporting on Operation Alula and the TDF counteroffensive
+- NY Times - How Local Guerrilla Fighters Routed Ethiopia’s Powerful Army
+- BBC - Ethiopia's Tigray conflict: How the TPLF has outflanked the army
+
+---
+
+
+## *June 2021 – Togoga Airstrike*
 
 An airstrike struck a market in Togoga near Mekelle, causing civilian casualties.
 
@@ -130,9 +163,8 @@ Sources:
 - United Nations statements
 - humanitarian situation reports
 
----
 
-## 2021–2022 – Humanitarian Access Restrictions
+## *2021–2022 – Humanitarian Access Restrictions*
 
 Humanitarian organizations reported severe restrictions on humanitarian aid entering Tigray.
 
@@ -151,7 +183,7 @@ Sources:
 
 ---
 
-## 2022 – Mass Civilian Displacement
+## *2022 – Mass Civilian Displacement*
 
 The war caused large-scale displacement of civilians.
 
