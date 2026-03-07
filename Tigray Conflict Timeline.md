@@ -14,23 +14,23 @@ By organizing this information into one digital platform, this project aims to m
 
 ## *2018–2020 – Rising Political Tensions*
 
-Political tensions between the Ethiopian federal government and the Tigray regional government increased significantly in the years leading up to the outbreak of the Tigray War.
+Political tensions between the Ethiopian federal government and the Tigray regional government significantly increased in the years leading up to the outbreak of the Tigray War.
 
 In 2018, Ethiopia and Eritrea signed a peace agreement that formally ended decades of hostility between the two countries.
 
-Following the 2018 peace agreement between Ethiopia and Eritrea, leaders from both countries held several high-level meetings and visits, including visits to military installations and strategic locations. While the agreement was presented internationally as a breakthrough in regional peace, it raised significant concern among leaders in the Tigray region.
+Following the 2018 peace agreement between Ethiopia and Eritrea, leaders from both countries held several high-level meetings and visits, including many visits to military installations and strategic locations. While the agreement was presented internationally as a breakthrough in regional peace, while it allowed Prime Minister Abiy Ahmed to receive the Nobel PEace Prize, it raised significant concern among leaders in the Tigray region.
 
 Tigrayan officials viewed the rapidly developing political and military relationship between Ethiopia and Eritrea with suspicion, particularly given the long history of conflict between Eritrea and the Tigray People's Liberation Front (TPLF), which had been a dominant political force in Ethiopia for nearly three decades.
 
 During this period, Eritrean state media increasingly published rhetoric critical of the TPLF and the leadership in Tigray. Regional leaders in Tigray argued that the growing cooperation between the Ethiopian federal government and the Eritrean government, combined with this hostile media environment, signaled a shift in regional alliances that could pose security risks to the region.
 
-These developments raised concerns within the Tigray region, where relations between the Ethiopian federal authorities and the Tigray regional government were already deteriorating. Regional authorities in Tigray argued that federal policies toward the region increasingly became punitive and politically motivated.
+These developments raised growing concerns within the Tigray region, where relations between the Ethiopian federal authorities and the Tigray regional government were already deteriorating. Regional authorities in Tigray argued that federal policies toward the region became increasingly punitive and politically motivated.
 
-During this period, Tigray faced multiple crises, including the COVID-19 pandemic and a severe locust outbreak that threatened agricultural production and food security. Regional leaders and observers reported that federal assistance provided to other regions during these crises was **withheld** from Tigray.
+During this period, Tigray faced multiple crises, including the COVID-19 pandemic and a severe locust outbreak that threatened agricultural production and food security. Regional leaders and international observers reported that federal assistance provided to other regions during these crises was **withheld** from Tigray.
 
-Officials in the region also reported full restrictions on transportation routes and logistical access into Tigray, which further limited the region’s ability to receive resources, aid, and economic support. Regional leaders argued that while other regions received federal assistance during crises such as the COVID-19 pandemic and a severe locust outbreak, Tigray was left to manage these challenges on its own.
+Officials in the region also reported of full restrictions on transportation routes and logistical access into Tigray from the federal government, which further limited the region’s ability to receive resources, aid, and economic support. Regional leaders argued that while other regions received federal budget assistance during crises such as the COVID-19 pandemic and a severe locust outbreak, Tigray was left to manage these challenges on its own.
 
-During this period, relations between the Ethiopian federal government and the Tigray People's Liberation Front (TPLF), which governed the Tigray region, continued to deteriorate. Political disagreements intensified over federal authority, political reforms, and the direction of Ethiopia’s political transition, further increasing tensions between the federal government and the regional leadership in Tigray.
+During this period, relations between the Ethiopian federal government and the Tigray People's Liberation Front (TPLF), which governs the Tigray region, continued to deteriorate. Political disagreements intensified over federal authority, political reforms, and the direction of Ethiopia’s political transition, further increasing tensions between the federal government and the regional leadership in Tigray.
 
 Tensions further escalated after the Ethiopian federal government postponed national and regional elections in 2020 due to the COVID-19 pandemic.
 
@@ -201,7 +201,7 @@ The shifting frontlines throughout 2021 marked one of the most dynamic phases of
 
 ## *June 2021 – Togoga Airstrike*
 
-An airstrike struck a market in Togoga near Mekelle, causing civilian casualties.
+An airstrike struck a market in Togoga near Mekelle during the day market, causing civilian casualties.
 
 Humanitarian organizations reported that civilians were killed and injured during the attack.
 
@@ -239,7 +239,7 @@ Estimates reported:
 - **More than 2.2 million internally displaced persons**
 - **Over 70,000 refugees fleeing to Sudan**
 
-Many displaced civilians were forced to live in temporary camps with limited access to food, healthcare, and sanitation.
+Many displaced civilians were forced to live in temporary camps with limited access to food, healthcare, and sanitation. These lvivng situations are still on going.
 
 Sources:
 - UN humanitarian reports
@@ -251,7 +251,7 @@ Sources:
 
 A peace agreement was signed in Pretoria between the Ethiopian federal government and Tigray regional authorities to end major hostilities.
 
-Despite the agreement, humanitarian challenges and reconstruction efforts continue across the region.
+Despite the agreement, humanitarian challenges and reconstruction efforts continue across the region. Due to the Federal Government not doing their part of the agreement even as the TPLF fulfilled parts of the agreement as a show of cooperation and de-esclation.
 
 ---
 
@@ -265,7 +265,7 @@ The conflict in Tigray has resulted in:
 - limited humanitarian access
 - widespread human rights abuses
 
-Millions of civilians continue to face humanitarian challenges as the region recovers from the war.
+Millions of civilians continue to face humanitarian challenges as the region recovers from the war. Now in 2026 the threat of a new war is on the horizon as the Federal Government builds up military personnal along the Tigray border.
 
 ---
 
