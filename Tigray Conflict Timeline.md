@@ -65,6 +65,26 @@ The conflict quickly escalated into a large-scale humanitarian crisis affecting 
 
 ---
 
+## November 9–10, 2020 – Mai Kadra Massacre
+
+Mass killings were reported in the town of Mai Kadra in western Tigray during the early days of the conflict. Numerous civilians were killed in what became one of the first widely documented atrocities of the war.
+
+Investigations by organizations, including Amnesty International, documented large numbers of civilian deaths. However, responsibility for the killings remains contested among different actors and narratives in the conflict.
+
+The incident drew international attention and highlighted the rapid escalation of violence against civilians in the opening weeks of the war.
+
+---
+
+## November 2020 – Refugee Crisis Begins (Sudan)
+
+Following the outbreak of war between Ethiopian federal forces and the Tigray People's Liberation Front (TPLF), large numbers of civilians fled western Tigray toward Sudan.
+
+Within weeks of the conflict beginning, tens of thousands of refugees crossed the Ethiopia–Sudan border. By late November 2020, humanitarian agencies reported more than 40,000 refugees had entered eastern Sudan, many arriving through border crossings near Hamdayet and Lugdi.
+
+Emergency camps such as Um Rakuba and Al-Tanideba were established by Sudanese authorities and humanitarian organizations to accommodate the influx. The refugee movement marked one of the earliest indicators that the conflict had rapidly evolved into a regional humanitarian crisis.
+
+---
+
 ## *Late 2020 – Reports of Eritrean Military Involvement*
 
 During the early stages of the conflict, the Ethiopian federal government initially denied that Eritrean forces were operating inside Tigray.
@@ -111,6 +131,16 @@ Sources:
 
 ---
 
+## November–December 2020 – Federal Forces Capture Major Cities in Tigray
+
+During the initial federal military offensive into Tigray, Ethiopian National Defense Force (ENDF) units, alongside allied regional forces and Eritrean troops, advanced across the region and captured several major cities.
+
+Key urban areas taken during this phase included Mekelle (the regional capital), Adigrat, Axum, Shire, and Adwa. The capture of these cities marked a turning point in the early phase of the war as federal authorities declared victory following the fall of Mekelle in late November 2020.
+
+Subsequent investigations and reports from humanitarian organizations later documented widespread allegations of abuses during and after the occupation of these areas, including indiscrimnate killings of civilians, sexual violence, looting, and destruction of infrastructure.
+
+---
+
 ## January 2021 – Killing of Former Ethiopian Foreign Minister Seyoum Mesfin
 
 In January 2021, reports emerged that **Seyoum Mesfin**, a former Ethiopian foreign minister and former ambassador to the European Union who was from the Tigray region, was killed during military operations in Tigray.
@@ -145,15 +175,27 @@ One of the most significant turning points occurred during **Operation Alula**, 
 
 In June 2021, TDF forces entered the regional capital **Mekelle**, marking a major strategic and symbolic shift in the war. Following the withdrawal of Ethiopian federal and allied forces from the city, large numbers of captured Ethiopian National Defense Force (ENDF) soldiers were escorted through Mekelle.
 
-Videos circulated online showed thousands of prisoners of war being marched through the city while large crowds gathered along the streets. Many civilians were seen cheering and celebrating the return of TDF forces to the regional capital.
+Videos circulated online showed tens of thousands of prisoners of war being marched through the city among the TDF while large crowds gathered along the streets. Many civilians were seen cheering and celebrating the return of TDF forces to the regional capital.
 
-Reports from journalists and observers described the moment as a major morale boost for residents after months of conflict and military occupation.
+Reports from journalists and observers described the moment as a significant morale boost for residents, following months of conflict and military occupation.
+
+Following these gains, TDF forces expanded operations beyond Tigray into neighboring Amhara and Afar regions. During the later stages of the conflict in 2021, TDF advanced southward along major transport corridors and captured several strategic towns, including Dessie and Kombolcha.
+
+Control of these areas also had broader logistical implications. The transport corridors in this region connect to Ethiopia’s primary trade route to the **Port of Djibouti**, which handles the vast majority of Ethiopia’s international imports and exports. Military analysts noted that fighting and territorial control along these corridors had the potential to affect supply routes linking Ethiopia to the Djibouti trade corridor.
+
+At the height of the offensive in late 2021, TDF forces advancing alongside allied Oromo Liberation Army (OLA) fighters were reported to be approximately 70–80 kilometers from Ethiopia’s capital, Addis Ababa. The rapid advance raised significant international concern about the possibility of the conflict expanding into a broader national war.
+
+During this period, TDF leadership announced withdrawals from several areas outside Tigray, stating that the move was intended to reduce civilian suffering, prevent further escalation of the war, and allow space for humanitarian access and potential negotiations.
+
+The shifting frontlines throughout 2021 marked one of the most dynamic phases of the conflict, with territorial control changing multiple times and the war drawing increasing international diplomatic attention.
 
 **Sources**:
 - international media reporting on the recapture of Mekelle
 - reporting on Operation Alula and the TDF counteroffensive
 - NY Times - How Local Guerrilla Fighters Routed Ethiopia’s Powerful Army
 - BBC - Ethiopia's Tigray conflict: How the TPLF has outflanked the army
+- Reuters reporting on the TDF advance toward Dessie and Kombolcha
+- Rift Valley Institute conflict analysis on supply corridors
 
 ---
 
