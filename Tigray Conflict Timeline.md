@@ -14,41 +14,34 @@ By organizing this information into one digital platform, this project aims to m
 
 ## *2018–2020 – Rising Political Tensions*
 
-Political tensions between the Ethiopian federal government and the Tigray regional government significantly increased in the years leading up to the outbreak of the Tigray War.
+Political tensions between the Ethiopian federal government and the Tigray regional government significantly increased in the years leading up to the Tigray War.
 
 In 2018, Ethiopia and Eritrea signed a peace agreement that formally ended decades of hostility between the two countries.
 
 Following the 2018 peace agreement between Ethiopia and Eritrea, leaders from both countries held several high-level meetings and visits, including many visits to military installations and strategic locations. While the agreement was presented internationally as a breakthrough in regional peace, while it allowed Prime Minister Abiy Ahmed to receive the Nobel PEace Prize, it raised significant concern among leaders in the Tigray region.
 
-Tigrayan officials viewed the rapidly developing political and military relationship between Ethiopia and Eritrea with suspicion, particularly given the long history of conflict between Eritrea and the Tigray People's Liberation Front (TPLF), which had been a dominant political force in Ethiopia for nearly three decades.
+Tigrayan officials viewed the rapidly developing political and military relationship between Ethiopia and Eritrea with caution and suspicion, particularly given the long history of conflict between Eritrea and the Tigray People's Liberation Front (TPLF), which had been a dominant political force in Ethiopia for nearly three decades.
 
-During this period, Eritrean state media increasingly published rhetoric critical of the TPLF and the leadership in Tigray. Regional leaders in Tigray argued that the growing cooperation between the Ethiopian federal government and the Eritrean government, combined with this hostile media environment, signaled a shift in regional alliances that could pose security risks to the region.
+During this period, Eritrean state media increasingly released rhetoric critical of the TPLF and the leadership in Tigray. Regional leaders in Tigray argued that the growing cooperation between the Ethiopian federal government and the Eritrean government, combined with this hostile media environment, signaled a shift in regional alliances that could pose severe security risks to the region.
 
-These developments raised growing concerns within the Tigray region, where relations between the Ethiopian federal authorities and the Tigray regional government were already deteriorating. Regional authorities in Tigray argued that federal policies toward the region became increasingly punitive and politically motivated.
+These developments raised growing concerns within the Tigray region, where relations between the Ethiopian federal authorities and the Tigray regional government were already deteriorating. Regional authorities in Tigray argued that federal policies toward the region became increasingly punitive and politically motivated including forms of political marginalization.
 
-During this period, Tigray faced multiple crises, including the COVID-19 pandemic and a severe locust outbreak that threatened agricultural production and food security. Regional leaders and international observers reported that federal assistance provided to other regions during these crises was **withheld** from Tigray.
+Tigray experienced several crises at this time, including both the widespread COVID-19 pandemic to affect many people around the world and the severe locust outbreak which could threaten agricultural production and food security. Leaders from the region, as well as observers from around the world, have reported that during these two major crises the assistance and support from the federal government that have been provided for other regions were not provided to Tigray.
 
-Officials in the region also reported of full restrictions on transportation routes and logistical access into Tigray from the federal government, which further limited the region’s ability to receive resources, aid, and economic support. Regional leaders argued that while other regions received federal budget assistance during crises such as the COVID-19 pandemic and a severe locust outbreak, Tigray was left to manage these challenges on its own.
+Additionally, Tigray's leaders have also reported that there have been complete restrictions on the transportation and logistics of goods into the region from the federal government. These restrictions have limited the regions' ability to receive resources and support through aid, thus hurting the economic strength of Tigray. The regional leaders indicated that although other regions have received federal budget assistance to deal with COVID-19 and the severe locust outbreak, Tigray has been left to try to manage the issues on their own.
 
-During this period, relations between the Ethiopian federal government and the Tigray People's Liberation Front (TPLF), which governs the Tigray region, continued to deteriorate. Political disagreements intensified over federal authority, political reforms, and the direction of Ethiopia’s political transition, further increasing tensions between the federal government and the regional leadership in Tigray.
-
+The relations between the Ethiopian federal government and Tigray People's Liberation Front (TPLF), which governs Tigray, continued to deteriorate during this time. The worsening political dispute over the three key areas of:  who holds federal authority; political reform; and direction of Ethiopia's political transition increased tensions between the federal government and the regional leadership of Tigray.
 Tensions further escalated after the Ethiopian federal government postponed national and regional elections in 2020 due to the COVID-19 pandemic.
 
 ---
 
 ## *September 2020 – Tigray Regional Election*
 
-In September 2020, the Tigray regional government proceeded with regional elections after the Ethiopian federal government postponed national elections.
+The regional elections that were held in Tigray region on September 2020 took place after the Ethiopian federal government had delayed its national election. The leaders in Tigray region claimed that delaying national elections was violating the constitutional democratic processes and their right to have a voice in electing representatives at the regional level.
 
-Leaders in the Tigray region argued that postponing elections violated constitutional democratic processes and the right of regional states to elect their representatives.
+Regional electoral authorities organized the elections. Reports indicated high levels of participation in the voting for these elections with an estimated **2.5 million voters** being represented from the region's eligible voting population. 　
 
-The election was organized by the regional electoral authorities and participation in the vote was reported to be high.
-
-Estimates indicated that **more than 2.5 million people voted**, representing a large share of the region’s eligible voting population.
-
-The results of the election resulted in a decisive victory for the **Tigray People's Liberation Front (TPLF)**, which retained control of the regional government.
-
-The Ethiopian federal government declared the election illegal and refused to recognize the results. This further increased political tensions between the federal government and the Tigray regional authorities in the weeks leading up to the outbreak of armed conflict.
+The results of the elections showed a decisive victory for the **Tigray People's Liberation Front (TPLF)**, who retained power over the regional government. The federal government of Ethiopia did not recognize the results of the elections and considered the elections to be illegal. This led to further political tensions between the federal government and Tigray regional authorities in the weeks before the armed conflict began.
 
 Sources:
 - International Crisis Group analysis
@@ -87,13 +80,13 @@ Emergency camps such as Um Rakuba and Al-Tanideba were established by Sudanese a
 
 ## *Late 2020 – Reports of Eritrean Military Involvement*
 
-During the early stages of the conflict, the Ethiopian federal government initially denied that Eritrean forces were operating inside Tigray.
+At the beginning of the conflict, the Ethiopian National Government told the world that there were no members of the Eritrean military in Tigray.
 
-However, multiple investigations later reported evidence that Eritrean troops had entered the region and were participating in military operations. **Satellite imagery, witness testimony, and investigative reporting** were used to document Eritrean military presence in several areas of Tigray.
+However, after several investigations had been conducted, there was still overwhelming evidence that members of the Eritrean military had entered the area and had been involved in military operations in that area.  Using **satellite imagery, eyewitness accounts, and investigative journalism**, there was compelling evidence that members of the Eritrean military were present in many areas in Tigray.
 
-International organizations and journalists reported Eritrean military activity in towns including Axum, Adigrat, and other parts of northern Tigray.
+Many international organisations, as well as journalists, have reported the presence of the Eritrean military in urban centres such as Axum, Adigrat, and many other cities in the north of Tigray.
 
-Months later, Ethiopian officials publicly acknowledged that Eritrean forces had been present inside the region.
+Eventually, several months after the start of the conflict, Ethiopian officials publicly admitted that Eritrean troops had been inside Tigray.
 
 Sources:
 - Amnesty International investigations  
@@ -141,7 +134,7 @@ Subsequent investigations and reports from humanitarian organizations later docu
 
 ---
 
-## January 2021 – Killing of Former Ethiopian Foreign Minister Seyoum Mesfin
+## January 2021 – Killing of Former Tigrayan Ethiopian Foreign Minister Seyoum Mesfin
 
 In January 2021, reports emerged that **Seyoum Mesfin**, a former Ethiopian foreign minister and former ambassador to the European Union who was from the Tigray region, was killed during military operations in Tigray.
 
@@ -275,7 +268,7 @@ Sources:
 
 ## *2024–2026 – Renewed Military Tensions and Troop Buildup*
 
-In recent years, analysts and observers have warned that the peace agreement remains fragile and that northern Ethiopia could face renewed conflict.
+In recent years, analysts and observers have warned that the peace agreement remains fragile and that Tigray could face renewed conflict.
 
 Reports from conflict monitoring organizations and international media indicate that **Ethiopian federal forces have increased troop deployments and military preparations near the Tigray region** following several security incidents and political disputes. These developments have raised concerns about the possibility of renewed fighting in northern Ethiopia.
 
