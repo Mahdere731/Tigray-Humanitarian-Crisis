@@ -15,6 +15,7 @@ Rather than attempting to map all crisis points, this project uses a focused set
 
 ### Tigray Conflict Timeline
 A detailed chronological timeline documenting key political, military, and humanitarian events during the Tigray War (2020–present). The timeline compiles investigations from international organizations, humanitarian reports, investigative journalism, and advocacy documentation to provide context on major incidents including civilian massacres, infrastructure destruction, humanitarian access restrictions, displacement, and military developments throughout the conflict.
+-  [Tigray Conflict Timeline](./Tigray%20Conflict%20Timeline.md)
 
 ### Tigray Humanitarian Assessment
 
