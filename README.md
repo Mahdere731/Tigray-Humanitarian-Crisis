@@ -11,6 +11,14 @@ Rather than attempting to map all crisis points, this project uses a focused set
 
 ---
 
+## Project Resources
+
+- [Tigray Conflict Timeline](./Tigray%20Conflict%20Timeline.md)
+- [Tigray Assessment Analysis](./Tigray_Humanitarian_Assessment_and_Sources)
+  
+---
+
+
 ## Hitsats IDP Center Crisis
 
 Information is sourced through reported humanitarian conditions in Tigray, including the current dire situation at the Hitsats internally displaced persons (IDP) & refugee center. Local media reported that more than 1,700 IDPs at Hitsats are in critical condition amid severe hunger, malnutrition and a lack of medical care, with many elderly people, women, and children collapsing due to extreme food shortages and limited access to health services. Officials further stated that at least dozens of deaths have been linked to these conditions as humanitarian assistance remains insufficient and access continues to be constrained.
