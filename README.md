@@ -20,7 +20,7 @@ A detailed chronological timeline documenting key political, military, and human
 
 Included below is a full written assessment analyzing humanitarian conditions in Tigray, connecting geographical data with contextual assessment of food insecurity, market access & stability, medical constraints, internal displacement, and agricultural disruption.
 
- **Markdown version (GitHub-readable):**  
+ - **Markdown version (GitHub-readable):**  
   [Tigray Assessment Analysis](https://github.com/Mahdere731/Tigray-Humanitarian-Crisis/blob/main/Tigray_Humanitarian_Assessment_and_Sources/Tigray_Assessment_Analysis.md)
 
 - **PDF version (formatted submission):**  
@@ -60,17 +60,6 @@ Python was used for data cleaning, preprocessing, and exploratory analysis, whic
 - Processed datasets were joined using standardized identifiers
 - Graduated symbology was used to represent relative intensity across areas rather than a single absolute value.
 - Each thematic layer was exported as static PNG outputs with consistent map extent and styling
----
-
-## Assessment Analysis
-
-Included is a full written assessment analyzing humanitarian conditions in Tigray, connecting geographical data with contextual assessment of food insecurity, market access & stability, medical constraints, internal displacement, and agricultural disruption.
-
-- **Markdown version (GitHub-readable):**  
-  [Tigray Assessment Analysis](https://github.com/Mahdere731/Tigray-Humanitarian-Crisis/blob/main/Tigray_Humanitarian_Assessment_and_Sources/Tigray_Assessment_Analysis.md)
-
-- **PDF version (formatted submission):**  
-  [Tigray Humanitarian Assessment (PDF)](https://github.com/Mahdere731/Tigray-Humanitarian-Crisis/blob/main/Tigray_Humanitarian_Assessment_and_Sources/Analysis_of_Humanitarian_Crisis.pdf)
 
 ---
 
