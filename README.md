@@ -11,11 +11,18 @@ Rather than attempting to map all crisis points, this project uses a focused set
 
 ---
 
-## Project Resources
+# Project Resources
 
 - [Tigray Conflict Timeline](./Tigray%20Conflict%20Timeline.md)
-- [Tigray Assessment Analysis](./Tigray_Humanitarian_Assessment_and_Sources)
-  
+
+Included below is a full written assessment analyzing humanitarian conditions in Tigray, connecting geographical data with contextual assessment of food insecurity, market access & stability, medical constraints, internal displacement, and agricultural disruption.
+
+- **Markdown version (GitHub-readable):**  
+  [Tigray Assessment Analysis](https://github.com/Mahdere731/Tigray-Humanitarian-Crisis/blob/main/Tigray_Humanitarian_Assessment_and_Sources/Tigray_Assessment_Analysis.md)
+
+- **PDF version (formatted submission):**  
+  [Tigray Humanitarian Assessment (PDF)](https://github.com/Mahdere731/Tigray-Humanitarian-Crisis/blob/main/Tigray_Humanitarian_Assessment_and_Sources/Analysis_of_Humanitarian_Crisis.pdf)
+
 ---
 
 
