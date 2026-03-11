@@ -43,7 +43,7 @@ Regional electoral authorities organized the elections. Reports indicated high l
 
 The results of the elections showed a decisive victory for the **Tigray People's Liberation Front (TPLF)**, who retained power over the regional government. The federal government of Ethiopia did not recognize the results of the elections and considered the elections to be illegal. This led to further political tensions between the federal government and Tigray regional authorities in the weeks before the armed conflict began.
 
-Sources:
+***Sources:***
 - International Crisis Group analysis
 - Reuters reporting on the 2020 Tigray election
 - BBC reporting on political tensions prior to the conflict
@@ -88,7 +88,7 @@ Many international organisations, as well as journalists, have reported the pres
 
 Eventually, several months after the start of the conflict, Ethiopian officials finally publicly admitted that Eritrean troops had been inside Tigray after overwhelming evidence.
 
-Sources:
+***Sources:***
 - Amnesty International investigations  
 - Human Rights Watch reporting  
 - satellite imagery analysis reported by international media investigations
@@ -107,7 +107,7 @@ Survivors reported that civilians attempting to recover the bodies of relatives 
 
 Human rights investigations later concluded that the killings in Axum were among the **deadliest single incidents reported during the early months of the conflict**, with estimates indicating that **hundreds of civilians were killed**.
 
-Sources:
+***Sources:***
 - Amnesty International report: *Massacre in Axum*
 - Human Rights Watch investigations into killings in Axum
 - BBC and Reuters reporting on civilian killings in Tigray
@@ -133,7 +133,7 @@ Human rights organizations and investigative journalists later cited these video
 
 These recorded incidents of violence were not isolated events. Investigations later suggested that similar abuses occurred across multiple areas of Tigray and were often accompanied by hostile rhetoric and intimidation directed toward Tigrayan civilians.
 
-Sources:
+***Sources:***
 - CNN Investigation: *Analysis of massacre video raises questions for Ethiopian Army* (Mahibere Dego)
 - The Telegraph investigation into execution footage involving Ethiopian soldiers
 - Human Rights Watch reporting on abuses during the Tigray conflict
@@ -151,7 +151,7 @@ Investigations into abuses in **Western Tigray** documented additional threats a
 
 Human Rights Watch and Amnesty International later documented a pattern of forced expulsions, killings, and threats directed at Tigrayan civilians in Western Tigray, concluding that the abuses bore the hallmarks of **ethnic cleansing**.
 
-Sources:
+***Sources:****
 - Human Rights Watch report: *“We Will Erase You from This Land”: Crimes Against Humanity and Ethnic Cleansing in Ethiopia’s Western Tigray Zone*
 - Amnesty International investigations into abuses in Western Tigray
 - Reuters and BBC reporting on displacement and ethnic violence in the region
@@ -173,7 +173,7 @@ The destruction significantly reduced access to healthcare and education for civ
 
 Some of these figures were compiled through reporting by humanitarian organizations and advocacy groups working with **health officials and institutions within Tigray**, which documented the scale of damage to hospitals, clinics, universities, and public infrastructure during the conflict.
 
-*Sources:*
+***Sources:***
 - United Nations humanitarian situation reports  
 - Médecins Sans Frontières (Doctors Without Borders) field reports  
 - **Omna Tigray reports compiling data from regional health officials and on-the-ground documentation**
@@ -198,7 +198,7 @@ Seyoum Mesfin had served as Ethiopia’s foreign minister for nearly two decades
 
 The death of Seyoum Mesfin drew reactions from diplomats and political leaders internationally. Many officials who had worked with him during his years in diplomacy expressed sadness and condolences, noting his long career in international diplomacy and his role in representing Ethiopia in global institutions.
 
-Sources:
+***Sources:***
 - international media reporting on the death of Seyoum Mesfin
 - diplomatic reactions reported in international news coverage
 
@@ -216,7 +216,7 @@ United Nations investigators later found that sexual violence in and beyond Tigr
 
 The documented pattern of abuse showed that sexual violence was not an isolated byproduct of war, but one of the conflict’s most devastating and systematic forms of violence against Tigrayan civilians.
 
-Sources:
+***Sources:***
 - Amnesty International report: *“I Don’t Know If They Realized I Was a Person”*  
 - OHCHR and UN human rights investigations on Ethiopia  
 - International Commission of Human Rights Experts on Ethiopia (ICHREE)
@@ -224,27 +224,27 @@ Sources:
 
 ## *2021 – Shift in the Conflict and Tigray Defense Forces Counteroffensive*
 
-By mid-2021, the dynamics of the conflict began to shift as Tigrayan forces reorganized under the **Tigray Defense Forces (TDF)** and launched a series of counteroffensives against Ethiopian federal and allied forces.
+Around mid-2021, the conflict's dynamics began to alter as Tigrayan forces regrouped into the **Tigray Defense Forces (TDF)** and initiated a series of counteroffensive operations aimed at the Ethiopian federal and allied forces.
 
-One of the most significant turning points occurred during **Operation Alula**. The operation was named after **Ras Alula Engida, a 19th-century Tigrayan general** known for defending the region against foreign invasions, and the name carries symbolic significance for many people in Tigray as a reference to historical resistance, military leadership, and the defense of their homeland. This was a major military campaign led by TDF forces that resulted in the recapture of large areas of the Tigray region.
+A turning point in the conflict occurred during **Operation Alula**, which was named after **Ras Alula Engida, a 19th century Tigrayan warlord** whose leadership in defense of Tigray during multiple foreign invasions is significant to many people in Tigray because it represents their history of resisting foreign occupation, providing military leadership, and defending their homeland. This operation was a major military campaign by TDF forces that resulted in the recapture of extensive areas in the Tigray region.
 
-In June 2021, TDF forces entered the regional capital **Mekelle**, marking a major strategic and symbolic shift in the war. Following the withdrawal of Ethiopian federal and allied forces from the city, large numbers of captured Ethiopian National Defense Force (ENDF) soldiers were escorted through Mekelle.
+On June 28, 2021, TDF forces took control of the regional capital, **Mekelle**, representing a major shift in both the strategic and symbolic aspects of the war. Following the exit of the Ethiopian federal and allied forces from the city, thousands of Ethiopian National Defense Forces (ENDF) who were captured while fighting in Mekelle were taken through the city by TDF forces.
 
-Videos circulated online showed tens of thousands of prisoners of war being marched through the city among the TDF while large crowds gathered along the streets. Many civilians were seen cheering and celebrating the return of TDF forces to the regional capital.
+Videos posted online depicted many thousands of prisoners of war parading through the main streets of the city under the supervision of TDF forces and large numbers of civilians in the streets of Mekelle were seen cheering and celebrating the return of TDF forces to the regional capital.
 
-Reports from journalists and observers described the moment as a significant morale boost for residents, following months of conflict and military occupation.
+According to reporters and observers, this was a significant morale booster for the people of Ethiopia, who had endured several months of conflict and had their cities occupied by the military.
 
-Following these gains, TDF forces expanded operations beyond Tigray into neighboring Amhara and Afar regions. During the later stages of the conflict in 2021, TDF advanced southward along major transport corridors and captured several strategic towns, including Dessie and Kombolcha.
+Following this success, the Tigray Defence Forces (TDF) will now be conducting additional operations outside of Tigray and into Amhara and Afar provinces. In the latter part of 2021, the TDF advanced southward along major transportation routes, capturing important cities such as Dessie and Kombolcha.
 
 Control of these areas also had broader logistical implications. The transport corridors in this region connect to Ethiopia’s primary trade route to the **Port of Djibouti**, which handles the vast majority of Ethiopia’s international imports and exports. Military analysts noted that fighting and territorial control along these corridors had the potential to affect supply routes linking Ethiopia to the Djibouti trade corridor.
 
-At the height of the offensive in late 2021, TDF forces advancing alongside allied Oromo Liberation Army (OLA) fighters were reported to be approximately 80 Miles (130 Kilometers) from Ethiopia’s capital, Addis Ababa. The rapid advance raised significant international concern about the possibility of the conflict expanding into a broader national war.
+The ongoing conflict in Ethiopia reached a pivotal point during the late 2021 offensives. The Tigray Defense Forces (TDF), together with their allies the Oromo Liberation Army (OLA), made rapid advances towards Addis Ababa, almost 80 miles (130 km) from the capital. This rapid progression was a source of serious concern for the international community over the potential escalation of this conflict into a major national war.
 
-During this period, TDF leadership announced withdrawals from several areas outside Tigray, stating that the move was intended to reduce civilian suffering, prevent further escalation of the war, and allow space for humanitarian access and potential negotiations.
+As a result of the continuing violence and loss of civilian life, the TDF leadership publicly announced that they would be withdrawing from some areas where they had previously maintained a presence outside Tigray. According to the TDF leader's statements, these withdrawals were intended to reduce the suffering associated with the war and provide a space for the delivery of humanitarian assistance.
 
-The shifting frontlines throughout 2021 marked one of the most dynamic phases of the conflict, with territorial control changing multiple times and the war drawing increasing international diplomatic attention.
+With changing front lines throughout 2021, the conflict demonstrated one of the most fluid phases of the conflict to date, with the loss and gain of territory being frequent, and the attention of the international community toward the war continuing to grow.
 
-**Sources**:
+***Sources:***
 - international media reporting on the recapture of Mekelle
 - reporting on Operation Alula and the TDF counteroffensive
 - NY Times - How Local Guerrilla Fighters Routed Ethiopia’s Powerful Army
@@ -256,14 +256,24 @@ The shifting frontlines throughout 2021 marked one of the most dynamic phases of
 
 ## *June 2021 – Togoga Airstrike*
 
-An airstrike struck a market in Togoga near Mekelle during the day market, causing civilian casualties.
+As of **June 22nd of this year**, an airstrike hit a crowded open marketplace located in Togoga, a town in Tigray to the west of Mekelle. At the time of the airstrike, the marketplace was busy with many civilians buying and selling goods.
 
-Humanitarian organizations reported that civilians were killed and injured during the attack.
+Testimonies from both witnesses and humanitarian workers indicated that the airstrike directly struck the market, resulting in significant civilian casualties and destruction of property with complete disarray and scattered bodies within the open market.
 
-Sources:
-- United Nations statements
-- humanitarian situation reports
+Dozens of civilians were reported to have died; estimates of casualties vary greatly between different organizations as well as from flea markets; however, based on reports from some humanitarian sources along with local healthcare officials, it was determined that over 60 civilians likely lost their lives, yet many additional individuals were injured; the amount of casualties remains inconclusive due to a lack of humanitarian aid, communications and overall access during this period while searching for survivors.
 
+Reports further indicate that civilians attempting to assist those who sustained injuries or fatalities were also initially blocked and/or delayed by national army checkpoints while responding to the air strike, which compounded the response and rescue efforts as well as the emergency medical responses as first responders could not reach the site quickly enough.
+
+The **Ethiopian federal government has admitted they are responsible for carrying out the airstrike**, saying they were attacking what they believe is a **military gathering of Tigray Defense Forces (TDF)** forces. The federal government said the airstrike was directed at a legitimate military target, but they do not believe that they intended to hit any civilians.
+
+Local government and Tigray officials reject this explanation, claiming that the airstrike hit a **civilian marketplace** and resulted in numerous civilian deaths. They also accused the federal government of intentionally targeting civilians and have called for independent, international investigations into the attack.
+
+The airstrike has raised **significant concerns internationally**, with agencies such as the **United Nations and various humanitarian aid agencies** calling for investigations and condemning the attack and requesting that all parties exert every possible effort to avoid harming civilians.
+
+***Sources:***
+- United Nations humanitarian statements and situation reports  
+- Reuters and international media reporting on the Togoga airstrike  
+- humanitarian organization reporting from Tigray
 ---
 
 ## *2021–2022 – Humanitarian Access Restrictions*
@@ -279,7 +289,7 @@ The restrictions resulted in:
 
 Millions of civilians were affected by the resulting humanitarian crisis.
 
-Sources:
+***Sources:***
 - UN Office for the Coordination of Humanitarian Affairs
 - Human Rights Watch
 
@@ -296,7 +306,7 @@ Estimates reported:
 
 Many displaced civilians were forced to live in temporary camps with limited access to food, healthcare, and sanitation. These lvivng situations are still on going.
 
-Sources:
+***Sources:***
 - UN humanitarian reports
 - international humanitarian agencies
 
@@ -321,7 +331,7 @@ In addition to the humanitarian situation, political tensions between the Ethiop
 
 Reports from international organizations and conflict monitoring groups indicate that tensions have periodically escalated into armed incidents and political confrontations since the signing of the peace agreement.
 
-Sources:
+***Sources:***
 - Human Rights Watch reporting on post-war conditions  
 - UN humanitarian updates  
 - International Crisis Group analysis on post-Pretoria tensions  
@@ -340,7 +350,7 @@ At the same time, tensions between Ethiopia and Eritrea have again drawn interna
 
 Some analysts warn that the combination of unresolved territorial disputes, political divisions within Tigray, and increasing military activity in northern Ethiopia could create conditions for another large-scale confrontation if tensions continue to escalate.
 
-Sources:
+***Sources:***
 - International Crisis Group reporting on tensions in northern Ethiopia  
 - Reuters reporting on military tensions and troop deployments  
 - UN statements on regional security concerns in the Horn of Africa  
