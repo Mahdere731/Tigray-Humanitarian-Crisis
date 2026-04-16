@@ -411,7 +411,12 @@ Information in this project is compiled from investigations and reports by inter
 ## Academic Research
 
 - Ghent University conflict research  
-- Uppsala Conflict Data Program  
+- Uppsala Conflict Data Program
+
+## Regional Sources
+
+- Borkena - Debretsion Mekelle Rally Speech
+- https://borkena.com/2018/07/28/we-live-together-with-respect-or-disintegrate-debretsion-at-mekelle-rally/
 
 ---
 
