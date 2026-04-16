@@ -21,13 +21,10 @@ The peace agreement signed between Ethiopia and Eritrea in 2018 marked an end to
 
 Following the signing of the peace agreement, representatives from both countries conducted several high-level meetings with high-ranking officials visiting military bases and other strategic areas. In the eyes of many, the peace agreement represented an accomplishment in restoring regional stability, and Prime Minister Abiy Ahmed received the Nobel Peace Prize, but that only added more concern for leaders in Tigray.
 
-### July 28, 2018 — Debretsion Gebremichael speech at Mekelle rally (Political Context)
+Political tensions between the TPLF-led regional leadership in Tigray and the federal government were already visible before the outbreak of war. During a large public rally in Mekelle held in support of the Ethiopia-Eritrea peace process, Debretsion Gebremichael emphasized for constitutional order and warned that Ethiopia must either live together with respect or risk disintegration. This reflected growing disagreement over power, federalism, and political direction in the period leading up to the conflict.
 
-Tens of thousands gathered in Mekelle in support of the Ethiopia–Eritrea peace process. During the rally, TPLF chairman Debretsion Gebremichael emphasized constitutional order and warned that Ethiopia must either "live together with respect" or risk disintegration. The speech reflected growing political tensions within Ethiopia, particularly in Tigray, following major federal reforms and shifting power dynamics after 2018.
-
-**Significance:** This event highlights early public expressions of political disagreement between Tigray regional leadership and the federal government, which would later escalate into open conflict.
-
-**Source:** Borkena (July 28, 2018)
+Borkena (2018). "We Live Together with Respect or Disintegrate" — Debretsion at Mekelle Rally.
+https://borkena.com/2018/07/28/we-live-together-with-respect-or-disintegrate-debretsion-at-mekelle-rally/
 
 The rapidly improving relationship (in both military and political terms) between Ethiopia and Eritrea caused Tigrayan leaders to be suspicious of this development, especially given Eritrea's lengthy history of conflict with the Tigray Peoples Liberation Front (TPLF), which had been Ethiopia's ruling party for roughly 30 years.
 
