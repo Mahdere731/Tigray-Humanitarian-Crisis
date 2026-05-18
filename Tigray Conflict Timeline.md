@@ -86,7 +86,7 @@ Emergency camps such as Um Rakuba and Al-Tanideba were established by Sudanese a
 
 At the beginning of the conflict, the Ethiopian National Government made a statement to the world that there were no members of the Eritrean military in Tigray whatsoever.
 
-However, after several investigations had been conducted, there was still overwhelming evidence that members of the Eritrean military had entered the region and had been involved in military operations in that area as well as civil absuses. Using **satellite imagery, eyewitness accounts, and investigative journalism**, there was compelling evidence that members of the Eritrean military were present in many areas in Tigray.
+However, after several investigations had been conducted, there was still overwhelming evidence that members of the Eritrean military had entered the region since the start and had been involved in military operations in that area as well as civil absuses. Using **satellite imagery, eyewitness accounts, and investigative journalism**, there was compelling evidence that members of the Eritrean military were present in many areas in Tigray.
 
 Many international organisations, as well as journalists, have reported the presence of the Eritrean military in cities such as Axum, Adigrat, and many other cities in northern Tigray.
 
