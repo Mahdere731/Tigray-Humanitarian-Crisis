@@ -20,7 +20,7 @@ The peace agreement signed between Ethiopia and Eritrea in 2018 marked an end to
 
 Following the signing of the peace agreement, representatives from both countries conducted several high-level meetings with high-ranking officials visiting military bases and other strategic areas. In the eyes of many, the peace agreement represented an accomplishment in restoring regional stability, and Prime Minister Abiy Ahmed received the Nobel Peace Prize, but that only added more concern for leaders in Tigray.
 
-Political tensions between the TPLF-led regional leadership in Tigray and the federal government were already visible before the outbreak of war. During a large public rally in Mekelle held in support of the Ethiopia-Eritrea peace process, Debretsion Gebremichael emphasized for constitutional order and warned that Ethiopia must either live together with respect or risk disintegration. This reflected growing disagreement over power, federalism, and political direction in the period leading up to the conflict.
+Political tensions between the TPLF-led regional leadership in Tigray and the federal government were already visible before the outbreak of war. During a large public rally in Mekelle held in support of the Ethiopia-Eritrea peace process, Debretsion Gebremichael the president of the Tigray region emphasized for constitutional order and warned that Ethiopia must either live together with respect or risk disintegration. This reflected growing disagreement over power, federalism, and political direction in the period leading up to the conflict.
 
 Borkena (2018). "We Live Together with Respect or Disintegrate" — Debretsion at Mekelle Rally.
 
