@@ -330,7 +330,7 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
-# Podcasts & Multimedia
+## Podcasts & Multimedia
 
 ## The Daily (The New York Times)
 
@@ -339,7 +339,7 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 ---
 
 
-# United Nations (UN)
+## United Nations (UN)
 
 Office for the Coordination of Humanitarian Affairs (OCHA)
 
@@ -348,7 +348,7 @@ Office for the Coordination of Humanitarian Affairs (OCHA)
 
 ⸻
 
-# Office of the United Nations High Commissioner for Human Rights (OHCHR)
+## Office of the United Nations High Commissioner for Human Rights (OHCHR)
 
 Joint Investigation into Alleged Violations of International Human Rights, Humanitarian and Refugee Law Committed by All Parties to the Conflict in the Tigray Region
 
@@ -356,19 +356,19 @@ Joint Investigation into Alleged Violations of International Human Rights, Human
 
 ⸻
 
-# International Commission of Human Rights Experts on Ethiopia (ICHREE)
+## International Commission of Human Rights Experts on Ethiopia (ICHREE)
 
 * https://www.ohchr.org/en/hr-bodies/hrc/ichree/index
 
 ⸻
 
-# United Nations Human Rights Council
+## United Nations Human Rights Council
 
 * https://www.ohchr.org/en/hr-bodies/hrc/home
 
 ⸻
 
-# African Union (AU)
+## African Union (AU)
 
 Pretoria Cessation of Hostilities Agreement
 
@@ -377,7 +377,7 @@ Pretoria Cessation of Hostilities Agreement
 
 ⸻
 
-# World Health Organization (WHO)
+## World Health Organization (WHO)
 
 Ethiopia Emergency Reports
 
@@ -385,7 +385,7 @@ Ethiopia Emergency Reports
 
 ⸻
 
-# United Nations Children’s Fund (UNICEF)
+## United Nations Children’s Fund (UNICEF)
 
 Ethiopia Humanitarian Response
 
@@ -393,7 +393,7 @@ Ethiopia Humanitarian Response
 
 ⸻
 
-# World Food Programme (WFP)
+## World Food Programme (WFP)
 
 Ethiopia Emergency
 
@@ -401,7 +401,7 @@ Ethiopia Emergency
 
 ⸻
 
-# ReliefWeb
+## ReliefWeb
 
 Ethiopia – Tigray Crisis
 
@@ -409,7 +409,7 @@ Ethiopia – Tigray Crisis
 
 ⸻
 
-# Physicians for Human Rights
+## Physicians for Human Rights
 
 Ethiopia Reports
 
@@ -417,7 +417,7 @@ Ethiopia Reports
 
 ⸻
 
-# Médecins Sans Frontières (Doctors Without Borders)
+## Médecins Sans Frontières (Doctors Without Borders)
 
 Ethiopia Crisis
 
@@ -425,7 +425,7 @@ Ethiopia Crisis
 
 ⸻
 
-# Yale Humanitarian Research Lab
+## Yale Humanitarian Research Lab
 
 Ethiopia & Tigray Reports
 
@@ -433,7 +433,7 @@ Ethiopia & Tigray Reports
 
 ⸻
 
-# Armed Conflict Location & Event Data Project (ACLED)
+## Armed Conflict Location & Event Data Project (ACLED)
 
 Ethiopia Conflict Data
 
@@ -441,7 +441,7 @@ Ethiopia Conflict Data
 
 ⸻
 
-# Humanitarian Data Exchange (HDX)
+## Humanitarian Data Exchange (HDX)
 
 Ethiopia Datasets
 
@@ -449,7 +449,7 @@ Ethiopia Datasets
 
 ⸻
 
-# World Bank
+## World Bank
 
 Ethiopia Data
 
@@ -457,7 +457,7 @@ Ethiopia Data
 
 ⸻
 
-# Ethiopian Human Rights Commission (EHRC)
+## Ethiopian Human Rights Commission (EHRC)
 
 * https://ehrc.org/
 
@@ -471,13 +471,13 @@ International Committee of the Red Cross (ICRC)
 
 ⸻
 
-# International Organization for Migration (IOM)
+## International Organization for Migration (IOM)
 
 * https://ethiopia.iom.int/
 
 ⸻
 
-# United Nations Refugee Agency (UNHCR)
+## United Nations Refugee Agency (UNHCR)
 
 * https://www.unhcr.org/countries/ethiopia
 
