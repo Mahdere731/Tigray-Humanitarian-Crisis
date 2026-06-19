@@ -128,11 +128,11 @@ The aim of this online resource library is to provide credible evidence document
 ---
 
 
-## Research, Academic & Data Resources
+# Research, Academic & Data Resources
 
-### Academic Research
+## Academic Research
 
-#### Ghent University
+### Ghent University
 
 **Tigray: Atlas of the Humanitarian Situation**
 
@@ -141,7 +141,7 @@ The aim of this online resource library is to provide credible evidence document
 
 ---
 
-#### Yale Humanitarian Research Lab
+### Yale Humanitarian Research Lab
 
 Humanitarian satellite imagery, conflict documentation, and geospatial research.
 
