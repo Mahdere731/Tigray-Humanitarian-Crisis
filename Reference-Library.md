@@ -20,24 +20,24 @@ The aim of this online resource library is to provide credible evidence document
 
 ---
 
-### Humanitarian Crisis
+## Humanitarian Crisis
 
-# Killing of Aid Workers in Tigray
+***Killing of Aid Workers in Tigray***
 
 https://www.nrc.no/news/2021/march/killing-of-aid-workers-in-tigray/
 
 
-# Hunger Kills Hundreds of Children in Tigray
+***Hunger Kills Hundreds of Children in Tigray***
 
 https://apnews.com/article/eritrea-hunger-africa-ethiopia-united-nations-c13eb0a00db82dde6011d268de627443
 
 
-# "We've Finished Our Tears": Tigray's Main Hospital Exhausts Food
+***"We've Finished Our Tears": Tigray's Main Hospital Exhausts Food***
 
 https://www.theguardian.com/global-development/2022/aug/18/weve-finished-our-tears-tigrays-main-hospital-exhausts-food
 
 
-# Tigray: Atlas of the Humanitarian Situation
+***Tigray: Atlas of the Humanitarian Situation***
 
 https://biblio.ugent.be/publication/8722431
 
@@ -47,7 +47,7 @@ https://zenodo.org/records/5881550
 
 ## Human Rights Organizations
 
-# Amnesty International
+**Amnesty International**
 
  ***Eritrean Troops' Massacre of Hundreds of Axum Civilians May Amount to Crimes Against Humanity***
 
@@ -57,7 +57,7 @@ https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre
 
 ## Human Rights Watch
 
-# Crimes Against Humanity and Ethnic Cleansing in Ethiopia's Western Tigray Zone
+***Crimes Against Humanity and Ethnic Cleansing in Ethiopia's Western Tigray Zone***
 
 "We Will Erase You From This Land"
 
@@ -67,7 +67,7 @@ https://www.hrw.org/report/2022/04/06/we-will-erase-you-land/crimes-against-huma
 
 ## United States Department of State
 
-# Reports of Mass Atrocities in Western Tigray
+***Reports of Mass Atrocities in Western Tigray***
 
 https://www.state.gov/reports-of-mass-atrocities-in-western-tigray/
 
