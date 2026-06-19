@@ -18,9 +18,6 @@ The aim of this online resource library is to provide credible evidence document
 
 - https://omnatigray.org/
 
-⸻
-
-
 ---
 
 ## Humanitarian Crisis
