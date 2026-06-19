@@ -7,7 +7,7 @@ Included in this library are an assortment of material types, including reports,
 The aim of this online resource library is to provide credible evidence documenting the Tigray Crisis effects upon humanitarianism, research analytics (observations of the Tigray Crisis), and future occurrences for those interested parties which may include researchers (academic institution), students (academic institution), journalists (media outlets), non-government (NGO) organizations and/or private citizens.
 
 
-***Disclaimer
+## ***Disclaimer
 : No material found in this online library endorses all conclusions or opinions obtained in the respective documents being sourced. However, these materials were compiled to assist researchers, document historical moments, and support informed discussions.***
 ---
 
