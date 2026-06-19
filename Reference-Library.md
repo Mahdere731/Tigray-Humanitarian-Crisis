@@ -88,7 +88,7 @@ https://foreignpolicy.com/2021/06/15/theres-genocide-in-tigray-but-nobodys-talki
 
 ---
 
-# Government Sources
+## Government Sources
 
 ## U.S. Department of State
 
@@ -104,7 +104,7 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
-# Associated Press (AP)
+## Associated Press (AP)
 
 - https://apnews.com/article/eritrea-hunger-africa-ethiopia-united-nations-c13eb0a00db82dde6011d268de627443
 
@@ -116,7 +116,7 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
-# Reuters
+## Reuters
 
 - https://www.reuters.com/world/africa/ethiopia-fails-un-block-funding-independent-abuse-inquiry-2022-03-31/
 
@@ -133,7 +133,7 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
-# BBC News
+## BBC News
 
 - https://www.bbc.com/news/world-africa-54236276
 
@@ -143,7 +143,7 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
-# CNN
+## CNN
 
 - https://www.cnn.com/2021/10/20/africa/airstrikes-hit-mekelle-tigray-ethiopia-intl/index.html
 
@@ -153,7 +153,7 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
-# The New York Times
+## The New York Times
 
 - https://www.nytimes.com/2021/01/22/world/africa/ethiopia-tigray-conflict-abiy.html
 
@@ -163,7 +163,7 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
-# The Washington Post
+## The Washington Post
 
 - https://www.washingtonpost.com/world/africa/tigray-opposition-parties-assert-50000-plus-civilian-deaths/2021/02/02/cf39f904-6560-11eb-bab8-707f8769d785_story.html
 
@@ -173,7 +173,7 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
-# The Guardian
+## The Guardian
 
 - https://www.theguardian.com/world/2021/mar/08/atrocities-insurgency-ethiopia-tigray
 
@@ -187,7 +187,7 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
-# Al Jazeera
+## Al Jazeera
 
 - https://www.aljazeera.com/features/2022/2/25/calculated-ethnic-cleansing-ethiopian-allies-accused-of-killin
 
@@ -195,13 +195,13 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
-# Financial Times
+## Financial Times
 
 - https://www.ft.com/content/23021d09-5dac-4ff5-b2a9-6b040ffdc6db
 
 ---
 
-# France24
+## France24
 
 - https://www.france24.com/en/live-news/20210119-grim-picture-emerges-from-glimpses-of-ethiopia-s-tigray-war
 
@@ -213,19 +213,19 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
-# The Africa Report
+## The Africa Report
 
 - https://www.theafricareport.com/62232/the-war-in-tigray-abiy-isaias-and-the-amhara-elite/
 
 ---
 
-# The Independent
+## The Independent
 
 - https://www.independent.co.uk/news/world/africa/ethiopia-relics-artefacts-tigray-conflict-b2010985.html
 
 ---
 
-# Yahoo News
+## Yahoo News
 
 - https://news.yahoo.com/run-debretsion-gebremichael-tigrays-soft-125626357.html
 
@@ -235,7 +235,7 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
-# Ethiopia Insight
+## Ethiopia Insight
 
 - https://www.ethiopia-insight.com/2020/08/22/exit-imminent-as-abiy-neglects-the-tigrayan-voice/
 
@@ -247,7 +247,7 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
-# Foreign Policy
+## Foreign Policy
 
 - https://foreignpolicy.com/2021/03/08/the-u-n-must-end-the-horrors-of-ethiopias-tigray-war/
 
@@ -257,37 +257,37 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
-# National Interest
+## National Interest
 
 - https://nationalinterest.org/feature/abiy-ahmed-first-nobel-laureate-trial-international-criminal-court-178481
 
 ---
 
-# EEPA / Martin Plaut
+## EEPA / Martin Plaut
 
 - https://martinplaut.com/2021/01/22/situation-report-eepa-horn-no-63-22-january-2021/
 
 ---
 
-# InDepthNews
+## InDepthNews
 
 - https://www.indepthnews.net/index.php/the-world/horn-of-africa/4177-the-three-country-alliance-against-tigray-might-jeopardise-ethiopia-s-future
 
 ---
 
-# Garowe Online
+## Garowe Online
 
 - https://www.garoweonline.com/en/news/world/are-ethiopians-joining-russian-army-to-fight-ukrainians
 
 ---
 
-# Al Arabiya
+## Al Arabiya
 
 - https://english.alarabiya.net/News/world/2021/03/10/Senior-Ethiopian-diplomat-in-US-resigns-citing-Tigray-conflict
 
 ---
 
-# Additional Humanitarian & Research Resources
+## Additional Humanitarian & Research Resources
 
 ## Omna Tigray
 
