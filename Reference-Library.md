@@ -116,8 +116,6 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
----
-
 # Reuters
 
 - https://www.reuters.com/world/africa/ethiopia-fails-un-block-funding-independent-abuse-inquiry-2022-03-31/
@@ -234,10 +232,6 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 - https://news.yahoo.com/ethiopias-tigray-crisis-blind-mans-004137981.html
 
 - https://news.yahoo.com/tigray-official-slams-damage-troops-152009648.html
-
----
-
-# End of Part 2
 
 ---
 
