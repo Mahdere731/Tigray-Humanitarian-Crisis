@@ -1,6 +1,6 @@
-Reference Library of the Tigray Crisis
+## Reference Library of the Tigray Crisis
 
-Overview
+**Overview**
 
 Included in this library are an assortment of material types, including reports, investigations, humanitarian updates, government publications, academic research, and international news resources that cover the Tigray Region's ongoing humanitarian crisis.
 
