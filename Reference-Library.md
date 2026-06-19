@@ -90,7 +90,7 @@ https://humanitarianoutcomes.org/sites/default/files/score/score_tigray_report_2
 
 ## CNN
 
-## New Video Shows Soldiers Recording Executions
+***New Video Shows Soldiers Recording Executions***
 
 https://www.cnn.com/2021/03/18/africa/ethiopia-tigray-executions-video-cmd-intl/index.html
 
@@ -98,7 +98,7 @@ https://www.cnn.com/2021/03/18/africa/ethiopia-tigray-executions-video-cmd-intl/
 
 ## Al Jazeera
 
-## "Ethnic Cleansing": Ethiopian Allies Accused of Abala Massacre
+*** "Ethnic Cleansing": Ethiopian Allies Accused of Abala Massacre***
 
 https://www.aljazeera.com/features/2022/2/25/calculated-ethnic-cleansing-ethiopian-allies-accused-of-killin
 
@@ -114,7 +114,7 @@ https://foreignpolicy.com/2021/06/15/theres-genocide-in-tigray-but-nobodys-talki
 
 ## Government Sources
 
-# U.S. Department of State
+***U.S. Department of State***
 
 - https://www.state.gov/reports-of-mass-atrocities-in-western-tigray/
 
@@ -122,7 +122,7 @@ https://foreignpolicy.com/2021/06/15/theres-genocide-in-tigray-but-nobodys-talki
 
 ## U.S. Embassy Ethiopia
 
-# C-130 Aircraft Delivery
+***C-130 Aircraft Delivery***
 
 https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
