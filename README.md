@@ -27,6 +27,12 @@ Included below is a full written assessment analyzing humanitarian conditions in
 - **PDF version (formatted submission):**  
   [Tigray Humanitarian Assessment (PDF)](https://github.com/Mahdere731/Tigray-Humanitarian-Crisis/blob/main/Tigray_Humanitarian_Assessment_and_Sources/Analysis_of_Humanitarian_Crisis.pdf)
 
+## Reference Library 
+
+- 📖 [Reference Library of the Tigray Crisis](REFERENCE_LIBRARY.md)
+
+A curated collection of reports, investigations, humanitarian updates, government publications, academic research, and international news resources documenting the humanitarian crisis in the Tigray Region.
+
 ---
 
 
