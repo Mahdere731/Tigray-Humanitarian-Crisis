@@ -128,7 +128,7 @@ This project demonstrates how geographical analysis can be utlized to explore hu
 ---
 
 ## Analyst
-Mahdere Fikre
+***Mahdere Fikre***
 
 ***Seattle Pacific University
 B.B.A. Business Administration - Majoring in Information Systems, with a Minor in Data Analytics***
