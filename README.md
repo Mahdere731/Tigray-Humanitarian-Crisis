@@ -29,7 +29,7 @@ Included below is a full written assessment analyzing humanitarian conditions in
 
 ## Reference Library 
 
-- [Reference Library of the Tigray Crisis](REFERENCE_LIBRARY.md)
+- [Reference Library of the Tigray Crisis](Reference-Library.md)
 
 A curated collection of reports, investigations, humanitarian updates, government publications, academic research, and international news resources documenting the humanitarian crisis in the Tigray Region.
 
