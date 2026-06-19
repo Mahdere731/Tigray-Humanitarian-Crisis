@@ -317,19 +317,24 @@ Geospatial, demographic, and socioeconomic datasets for Ethiopia.
 
 # Repository Expansion
 
+As this repository continues to develop, additional resources may be incorporated to further support research, education, humanitarian analysis, and historical documentation.
+
 **Future additions may include:**
 
-* Peer-reviewed academic journal articles
-* Satellite imagery analyses
-* GIS datasets
-* Conflict event databases
-* Population displacement datasets
-* Food security datasets
-* Health system assessments
-* Reconstruction reports
-* Transitional justice documentation
-* Peace implementation monitoring reports
-
+- Peer-reviewed academic journal articles
+- Humanitarian and human rights reports
+- Satellite imagery analyses
+- GIS datasets and geospatial resources
+- Conflict event databases
+- Population displacement datasets
+- Food security and famine assessments
+- Public health and healthcare system assessments
+- Economic impact and reconstruction reports
+- Peace agreement implementation monitoring
+- Transitional justice and accountability documentation
+- International legal analyses
+- Policy briefs and working papers
+- Interactive maps and humanitarian dashboards
 ⸻
 
 # Repository Note
