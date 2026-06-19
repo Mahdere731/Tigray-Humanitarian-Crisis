@@ -338,27 +338,171 @@ https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
 
 ---
 
+
+# United Nations (UN)
+
+Office for the Coordination of Humanitarian Affairs (OCHA)
+
+* https://www.unocha.org/ethiopia
+* https://reliefweb.int/country/eth
+
+⸻
+
+# Office of the United Nations High Commissioner for Human Rights (OHCHR)
+
+Joint Investigation into Alleged Violations of International Human Rights, Humanitarian and Refugee Law Committed by All Parties to the Conflict in the Tigray Region
+
+* https://www.ohchr.org/en/countries/africa/ethiopia
+
+⸻
+
+# International Commission of Human Rights Experts on Ethiopia (ICHREE)
+
+* https://www.ohchr.org/en/hr-bodies/hrc/ichree/index
+
+⸻
+
+# United Nations Human Rights Council
+
+* https://www.ohchr.org/en/hr-bodies/hrc/home
+
+⸻
+
+# African Union (AU)
+
+Pretoria Cessation of Hostilities Agreement
+
+* https://www.peaceau.org/
+* https://www.au.int/
+
+⸻
+
+# World Health Organization (WHO)
+
+Ethiopia Emergency Reports
+
+* https://www.who.int/emergencies/situations/ethiopia-crisis
+
+⸻
+
+# United Nations Children’s Fund (UNICEF)
+
+Ethiopia Humanitarian Response
+
+* https://www.unicef.org/ethiopia/
+
+⸻
+
+# World Food Programme (WFP)
+
+Ethiopia Emergency
+
+* https://www.wfp.org/countries/ethiopia
+
+⸻
+
+# ReliefWeb
+
+Ethiopia – Tigray Crisis
+
+* https://reliefweb.int/country/eth
+
+⸻
+
+# Physicians for Human Rights
+
+Ethiopia Reports
+
+* https://phr.org/
+
+⸻
+
+# Médecins Sans Frontières (Doctors Without Borders)
+
+Ethiopia Crisis
+
+* https://www.doctorswithoutborders.org/what-we-do/where-we-work/ethiopia
+
+⸻
+
+# Yale Humanitarian Research Lab
+
+Ethiopia & Tigray Reports
+
+* https://hrl.law.yale.edu/
+
+⸻
+
+# Armed Conflict Location & Event Data Project (ACLED)
+
+Ethiopia Conflict Data
+
+* https://acleddata.com/africa/horn-of-africa/ethiopia/
+
+⸻
+
+# Humanitarian Data Exchange (HDX)
+
+Ethiopia Datasets
+
+* https://data.humdata.org/group/eth
+
+⸻
+
+# World Bank
+
+Ethiopia Data
+
+* https://data.worldbank.org/country/ethiopia
+
+⸻
+
+# Ethiopian Human Rights Commission (EHRC)
+
+* https://ehrc.org/
+
+⸻
+
+## Additional Humanitarian Resources
+
+International Committee of the Red Cross (ICRC)
+
+* https://www.icrc.org/en/where-we-work/africa/ethiopia
+
+⸻
+
+# International Organization for Migration (IOM)
+
+* https://ethiopia.iom.int/
+
+⸻
+
+# United Nations Refugee Agency (UNHCR)
+
+* https://www.unhcr.org/countries/ethiopia
+
+⸻
+
+## Repository Expansion
+
+Future additions may include:
+
+* Peer-reviewed academic journal articles
+* Satellite imagery analyses
+* GIS datasets
+* Conflict event databases
+* Population displacement datasets
+* Food security datasets
+* Health system assessments
+* Reconstruction reports
+* Transitional justice documentation
+* Peace implementation monitoring reports
+
+⸻
+
 # Repository Note
 
 This reference library is designed to be an ever-changing archive. New reports, peer-reviewed articles, humanitarian evaluations, datasets, satellite image reviews, and investigative journalism will be added as they are available and the documentation will continue to grow along with the evolution of the situation.
 
 the goal is to have an organized, visible, and accessible collection of resources that can be used to help with research, education, humanitarian awareness, and historical documentation related to the humanitarian crisis in Tigray.
 
-Suggestions for future additions include:
-
-- United Nations (UN) reports
-- OHCHR investigations
-- ICHREE reports
-- Human Rights Watch report archive
-- Physicians for Human Rights
-- Yale Humanitarian Research Lab
-- ACLED datasets
-- Humanitarian Data Exchange (HDX)
-- UNOCHA Situation Reports
-- WHO reports
-- UNICEF reports
-- WFP Situation Updates
-- Peer-reviewed academic literature
-- Satellite imagery and GIS analyses
-
----
