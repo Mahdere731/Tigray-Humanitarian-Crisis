@@ -149,9 +149,9 @@ Humanitarian satellite imagery, conflict documentation, and geospatial research.
 
 ---
 
-### Research Organizations
+## Research Organizations
 
-#### Humanitarian Outcomes
+### Humanitarian Outcomes
 
 **SCORE Ethiopia: Tigray**
 
@@ -189,7 +189,7 @@ Humanitarian satellite imagery, conflict documentation, and geospatial research.
 
 ---
 
-## Maps, GIS & Satellite Analysis
+# Maps, GIS & Satellite Analysis
 
 This section contains geospatial resources, humanitarian mapping projects, conflict datasets, and geographic information systems (GIS) resources relevant to the Tigray humanitarian crisis.
 
@@ -291,7 +291,7 @@ Geospatial, demographic, and socioeconomic datasets for Ethiopia.
 
 ---
 
-## Podcasts & Multimedia
+# Podcasts & Multimedia
 
 ### The Daily (The New York Times)
 
@@ -299,9 +299,9 @@ Geospatial, demographic, and socioeconomic datasets for Ethiopia.
   
 ----
 
-## Repository Expansion
+# Repository Expansion
 
-Future additions may include:
+**Future additions may include:**
 
 * Peer-reviewed academic journal articles
 * Satellite imagery analyses
