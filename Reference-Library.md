@@ -20,23 +20,54 @@ The aim of this online resource library is to provide credible evidence document
 
 ---
 
-## Humanitarian Crisis
-
-***Killing of Aid Workers in Tigray***
-
-https://www.nrc.no/news/2021/march/killing-of-aid-workers-in-tigray/
-
-
-***Hunger Kills Hundreds of Children in Tigray***
-
-https://apnews.com/article/eritrea-hunger-africa-ethiopia-united-nations-c13eb0a00db82dde6011d268de627443
-
-
-***"We've Finished Our Tears": Tigray's Main Hospital Exhausts Food***
-
-https://www.theguardian.com/global-development/2022/aug/18/weve-finished-our-tears-tigrays-main-hospital-exhausts-food
-
+### Human Rights & Humanitarian Organizations
+# Amnesty International
+- https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/
 ---
+## Human Rights Watch
+- https://www.hrw.org/report/2022/04/06/we-will-erase-you-land/crimes-against-humanity-and-ethnic-cleansing
+---
+## Physicians for Human Rights
+- https://phr.org/
+---
+## Omna Tigray
+- https://omnatigray.org/
+---
+## Médecins Sans Frontières (Doctors Without Borders)
+- https://www.doctorswithoutborders.org/latest/ethiopia-msf-releases-findings-internal-review-2021-tigray-killing-three-staff-members
+---
+## World Health Organization (WHO)
+- https://www.who.int/emergencies/situations/ethiopia-crisis
+---
+## UNICEF
+- https://www.unicef.org/ethiopia/
+- https://www.unicef.org/ethiopia/stories
+- https://www.unicef.org/ethiopia/media
+---
+## World Food Programme (WFP)
+- https://www.wfp.org/countries/ethiopia
+---
+## OCHA / ReliefWeb
+## United Nations Office for the Coordination of Humanitarian Affairs (OCHA)
+- https://www.unocha.org/ethiopia
+## ReliefWeb
+- https://reliefweb.int/country/eth
+---
+## International Committee of the Red Cross (ICRC)
+- https://www.icrc.org/en/where-we-work/africa/ethiopia
+---
+## International Organization for Migration (IOM)
+- https://ethiopia.iom.int/
+---
+## United Nations High Commissioner for Refugees (UNHCR)
+- https://www.unhcr.org/countries/ethiopia
+---
+## Humanitarian Outcomes
+- https://humanitarianoutcomes.org/sites/default/files/score/score_tigray_report_2021_v2.pdf
+---
+## Refugees International
+- https://www.refugeesinternational.org/reports-briefs/scars-of-war-and-deprivation-an-urgent-call-to-reverse-tigrays-humanitarian-crisis/
+- https://www.refugeesinternational.org/reports-briefs/womens-bodies-were-the-battleground-survivors-left-behind-amid-tigrays-uncertain-peace/
 
 ## Research Organizations & Academic Research
 
