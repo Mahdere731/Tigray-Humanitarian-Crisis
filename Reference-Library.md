@@ -20,8 +20,8 @@ The aim of this online resource library is to provide credible evidence document
 
 ---
 
-### Human Rights & Humanitarian Organizations
-# Amnesty International
+# Human Rights & Humanitarian Organizations
+## Amnesty International
 - https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/
 ---
 ## Human Rights Watch
