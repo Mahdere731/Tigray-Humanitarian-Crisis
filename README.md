@@ -133,4 +133,3 @@ Mahdere Fikre
 ***Seattle Pacific University
 B.B.A. Business Administration - Majoring in Information Systems, with a Minor in Data Analytics***
 
-***Class of 2028***
