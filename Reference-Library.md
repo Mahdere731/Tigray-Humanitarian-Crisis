@@ -1,6 +1,6 @@
 # Reference Library of the Tigray Crisis
 
-# Table of Contents
+## Table of Contents
 
 - Overview
 - Human Rights & Humanitarian Organizations
