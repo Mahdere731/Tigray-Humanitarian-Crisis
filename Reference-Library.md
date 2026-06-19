@@ -36,6 +36,9 @@ https://apnews.com/article/eritrea-hunger-africa-ethiopia-united-nations-c13eb0a
 
 https://www.theguardian.com/global-development/2022/aug/18/weve-finished-our-tears-tigrays-main-hospital-exhausts-food
 
+---
+
+## Research Organizations & Academic Research
 
 ***Tigray: Atlas of the Humanitarian Situation***
 
@@ -73,7 +76,7 @@ https://www.state.gov/reports-of-mass-atrocities-in-western-tigray/
 
 ---
 
-## Refugees 
+## Humanitarian Organizations
 
 **Scars of War and Deprivation:
 An Urgent Call to Reverse Tigray's Humanitarian Crisis**
@@ -82,7 +85,7 @@ https://www.refugeesinternational.org/reports-briefs/scars-of-war-and-deprivatio
 
 ---
 
-## Humanitarian Access SCORE Report
+## Humanitarian Research
 
 https://humanitarianoutcomes.org/sites/default/files/score/score_tigray_report_2021_v2.pdf
 
