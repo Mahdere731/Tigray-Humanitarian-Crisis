@@ -330,6 +330,34 @@ Geospatial, demographic, and socioeconomic datasets for Ethiopia.
   
 ----
 
+# Genocide Classification & Legal Findings (2021–2024)
+
+**The New Humanitarian  
+“Ethiopian forces and backers committed genocide in Tigray, report finds.” (2024).  
+https://www.thenewhumanitarian.org/news/2024/06/04/ethiopian-forces-and-backers-committed-genocide-tigray**
+
+**New Lines Institute  
+“Genocide in Tigray: Serious Breaches of International Law in the Tigray Conflict and Paths to Accountability.” (2024).  
+https://newlinesinstitute.org/intl-law-peace/genocide-in-tigray-serious-breaches-of-international-law-in-the-tigray-conflict-ethiopia-and-paths-to-accountability-2/**
+
+**Al Jazeera  
+“Strong evidence that Ethiopia committed genocide in Tigray war, report says.” (2024).  
+https://www.aljazeera.com/news/2024/6/4/strong-evidence-that-ethiopia-committed-genocide-in-tigray-war-report**
+
+**United States Department of State  
+“Reports of Mass Atrocities in Western Tigray.” (2022).  
+https://www.state.gov/reports-of-mass-atrocities-in-western-tigray/**
+
+**Human Rights Watch  
+“We Will Erase You From This Land: Crimes Against Humanity and Ethnic Cleansing in Ethiopia’s Western Tigray Zone.” (2022).  
+https://www.hrw.org/report/2022/04/06/we-will-erase-you-land/crimes-against-humanity-and-ethnic-cleansing**
+
+**Amnesty International  
+“Ethiopia: Eritrean troops’ massacre of hundreds of Axum civilians may amount to crimes against humanity.” (2021).  
+https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/**
+
+---
+
 # Repository Expansion
 
 As this repository continues to develop, additional resources may be incorporated to further support research, education, humanitarian analysis, and historical documentation.
