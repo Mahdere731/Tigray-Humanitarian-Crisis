@@ -356,6 +356,9 @@ https://www.hrw.org/report/2022/04/06/we-will-erase-you-land/crimes-against-huma
 “Ethiopia: Eritrean troops’ massacre of hundreds of Axum civilians may amount to crimes against humanity.” (2021).  
 https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/**
 
+**Omna Tigray.
+The Detrimental Effects of Genocide. https://omnatigray.org/the-detrimental-effects-of-genocide/**
+  
 ---
 
 # Repository Expansion
