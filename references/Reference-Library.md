@@ -409,8 +409,8 @@ The Detrimental Effects of Genocide.
 https://omnatigray.org/the-detrimental-effects-of-genocide/**
 
 **Source for Killings of Aid Workers & United Nations Guards
- Assessment of Internal Review into the Killing of Three MSF Staff in Tigray (2021)  
-  https://www.msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray**
+Assessment of Internal Review into the Killing of Three MSF Staff in Tigray (2021)  
+https://www.msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray**
   
 **Relief Web
   Statement on the killing of 23 aid workers in the Tigray region since the start of the crisis
