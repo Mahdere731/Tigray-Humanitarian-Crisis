@@ -26,45 +26,45 @@ The aim of this online resource library is to provide credible evidence document
 ---
 
 # Human Rights & Humanitarian Organizations
-## OHCHR–EHRC Joint Investigation Report
-- https://www.ohchr.org/sites/default/files/2021-11/OHCHR-EHRC-Tigray-Report.pdf
+**OHCHR–EHRC Joint Investigation Report
+https://www.ohchr.org/sites/default/files/2021-11/OHCHR-EHRC-Tigray-Report.pdf**
 
 ---
 
-## Amnesty International
-- https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/
+**Amnesty International
+https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/**
 
 ---
 
-## Human Rights Watch
-- https://www.hrw.org/report/2022/04/06/we-will-erase-you-land/crimes-against-humanity-and-ethnic-cleansing
+**Human Rights Watch
+https://www.hrw.org/report/2022/04/06/we-will-erase-you-land/crimes-against-humanity-and-ethnic-cleansing**
 
 ---
 
-## Physicians for Human Rights
-- https://phr.org/
+**Physicians for Human Rights
+https://phr.org/**
 
 ---
 
-## Omna Tigray
-- https://omnatigray.org/
+**Omna Tigray
+https://omnatigray.org/**
 
 ---
 
-## Médecins Sans Frontières (Doctors Without Borders)
-- https://www.doctorswithoutborders.org/latest/ethiopia-msf-releases-findings-internal-review-2021-tigray-killing-three-staff-members
+**Médecins Sans Frontières (Doctors Without Borders)
+https://www.doctorswithoutborders.org/latest/ethiopia-msf-releases-findings-internal-review-2021-tigray-killing-three-staff-members**
 
 ---
 
-## World Health Organization (WHO)
-- https://www.who.int/emergencies/situations/ethiopia-crisis
+**World Health Organization (WHO)
+https://www.who.int/emergencies/situations/ethiopia-crisis**
 
 ---
 
-## UNICEF
-- https://www.unicef.org/ethiopia/
-- https://www.unicef.org/ethiopia/stories
-- https://www.unicef.org/ethiopia/media
+**UNICEF
+https://www.unicef.org/ethiopia/
+https://www.unicef.org/ethiopia/stories
+https://www.unicef.org/ethiopia/media**
 
 ---
 
@@ -81,42 +81,42 @@ The aim of this online resource library is to provide credible evidence document
 
 ---
 
-## International Committee of the Red Cross (ICRC)
-- https://www.icrc.org/en/where-we-work/africa/ethiopia
+**International Committee of the Red Cross (ICRC)
+https://www.icrc.org/en/where-we-work/africa/ethiopia**
 
 ---
 
-## International Organization for Migration (IOM)
-- https://ethiopia.iom.int/
+**International Organization for Migration (IOM)
+https://ethiopia.iom.int/**
 
 ---
 
-## United Nations High Commissioner for Refugees (UNHCR)
-- https://www.unhcr.org/countries/ethiopia
+**United Nations High Commissioner for Refugees (UNHCR)
+https://www.unhcr.org/countries/ethiopia**
 
 ---
 
-## Humanitarian Outcomes
-- https://humanitarianoutcomes.org/sites/default/files/score/score_tigray_report_2021_v2.pdf
+**Humanitarian Outcomes
+https://humanitarianoutcomes.org/sites/default/files/score/score_tigray_report_2021_v2.pdf**
 
 ---
 
-## Refugees International
-- https://www.refugeesinternational.org/reports-briefs/scars-of-war-and-deprivation-an-urgent-call-to-reverse-tigrays-humanitarian-crisis/
-- https://www.refugeesinternational.org/reports-briefs/womens-bodies-were-the-battleground-survivors-left-behind-amid-tigrays-uncertain-peace/
+**Refugees International
+https://www.refugeesinternational.org/reports-briefs/scars-of-war-and-deprivation-an-urgent-call-to-reverse-tigrays-humanitarian-crisis/
+https://www.refugeesinternational.org/reports-briefs/womens-bodies-were-the-battleground-survivors-left-behind-amid-tigrays-uncertain-peace/**
 
 ---
 
 # Government & International Organizations
-### United States Department of State
-- https://www.state.gov/reports-of-mass-atrocities-in-western-tigray/
-- https://2021-2025.state.gov/killing-of-doctors-without-borders-staff-in-tigray/
-- https://2021-2025.state.gov/u-s-announces-additional-humanitarian-assistance-for-the-tigray-crisis-response/
+**United States Department of State
+https://www.state.gov/reports-of-mass-atrocities-in-western-tigray/
+https://2021-2025.state.gov/killing-of-doctors-without-borders-staff-in-tigray/
+https://2021-2025.state.gov/u-s-announces-additional-humanitarian-assistance-for-the-tigray-crisis-response/**
 
 ---
 
-### U.S. Embassy Ethiopia
-- https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
+**U.S. Embassy Ethiopia
+https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/**
 
 ---
 
