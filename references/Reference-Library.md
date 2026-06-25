@@ -141,7 +141,6 @@ The aim of this online resource library is to provide credible evidence document
 
 ---
 
-
 # Research, Academic & Data Resources
 
 ## Academic Research
@@ -223,6 +222,57 @@ Humanitarian datasets, administrative boundaries, displacement, and crisis mappi
 
 ---
 
+### Internally Displaced Persons (IDPs)
+- GEOGLAM Crop Monitor – Conflict and Food Insecurity Reports (2021–2022)  
+  https://www.cropmonitor.org/conflict-reports
+  
+- HDX – Ethiopia IDP Subnational (zone-level) datasets  
+  https://data.humdata.org/search?q=ethiopia+idp
+
+---
+
+### Agricultural Sector Destabilization (Tigray)
+- GEOGLAM Crop Monitor – Ethiopia and Tigray context sections  
+  https://www.cropmonitor.org/conflict-reports
+  
+- GEOGLAM Crop Monitor – Documentation of crop destruction, field abandonment, prevention of ploughing and harvesting, disruption of seed systems, and livestock loss  
+  https://www.cropmonitor.org/conflict-reports
+
+---
+
+### Functional Markets and Economic Strain
+- HDX – Functional Markets and Market Functionality datasets (Ethiopia)  
+  https://data.humdata.org/search?q=functional+markets+ethiopia
+  
+- GEOGLAM Crop Monitor – Analysis of market access, food affordability, and displacement-driven market strain  
+  https://www.cropmonitor.org/conflict-reports
+
+---
+
+### Health System Disruption and Medical Need
+- HDX – Health Facilities Operational Status datasets (Ethiopia / Tigray)  
+  https://data.humdata.org/search?q=health+facilities+ethiopia
+  
+- HDX – Medical Need and Humanitarian Needs Overview datasets  
+  https://data.humdata.org/search?q=medical+need+ethiopia
+  
+- GEOGLAM Crop Monitor – Reporting on nutrition impacts and food insecurity-related health outcomes  
+  https://www.cropmonitor.org/conflict-reports
+  
+- HDX – Access Severity and Regional Access Constraint datasets (OCHA / REACH)  
+  https://data.humdata.org/search?q=access+constraints+ethiopia
+  
+- Gufue et al. (2024) – Academic study analyzing conflict-related damage to the public health system in Tigray  
+  https://doi.org/10.3389/fpubh.2024.1271028
+  
+- UNICEF & Tigray Regional Health Bureau – Health Facility Damage Assessments (2021–2022)  
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11026641/
+  
+- UNOCHA – Ethiopia Humanitarian Needs Overview (2024)  
+  https://www.unocha.org/publications/report/ethiopia/ethiopia-humanitarian-needs-overview-2024-february-2024
+
+---
+
 ### World Bank Data
 
 Geospatial, demographic, and socioeconomic datasets for Ethiopia.
@@ -230,7 +280,6 @@ Geospatial, demographic, and socioeconomic datasets for Ethiopia.
 - https://data.worldbank.org/country/ethiopia
 
 ---
-
 
 # International News & Media
 
@@ -321,7 +370,6 @@ Geospatial, demographic, and socioeconomic datasets for Ethiopia.
 
 ---
 
-
 # Podcasts & Multimedia
 
 ### The Daily (The New York Times)
@@ -359,7 +407,27 @@ https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre
 **Omna Tigray.
 The Detrimental Effects of Genocide. 
 https://omnatigray.org/the-detrimental-effects-of-genocide/**
+
+**Source for Killings of Aid Workers & United Nations Guards
+ Assessment of Internal Review into the Killing of Three MSF Staff in Tigray (2021)  
+  https://www.msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray**
   
+**Relief Web
+  Statement on the killing of 23 aid workers in the Tigray region since the start of the crisis
+  https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis**
+
+**Human Rights and Atrocity Documentation
+  Crimes Against Humanity in Western Tigray Zone (2022)  
+  https://www.hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone**
+  
+**Human Rights Watch
+  – *Ethnic Cleansing Persists Under Tigray Truce* (2023)  
+  https://www.hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce**
+  
+ **Amnesty International
+  – *Crimes Against Humanity in Western Tigray Zone* (2022)  
+  https://www.amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone**
+
 ---
 
 # Repository Expansion
