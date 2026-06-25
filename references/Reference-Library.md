@@ -206,78 +206,82 @@ Humanitarian satellite imagery, conflict documentation, and geospatial research.
 
 This section contains geospatial resources, humanitarian mapping projects, conflict datasets, and geographic information systems (GIS) resources relevant to the Tigray humanitarian crisis.
 
-### Armed Conflict Location & Event Data Project (ACLED)
-
+**Armed Conflict Location & Event Data Project (ACLED)
 Conflict event mapping and geospatial datasets.
+https://acleddata.com/**
 
-- https://acleddata.com/
-
----
-
-### Humanitarian Data Exchange (HDX)
-
+**Humanitarian Data Exchange (HDX)
 Humanitarian datasets, administrative boundaries, displacement, and crisis mapping resources.
-
-- https://data.humdata.org/group/eth
+https://data.humdata.org/group/eth**
 
 ---
 
-### Internally Displaced Persons (IDPs)
-- GEOGLAM Crop Monitor – Conflict and Food Insecurity Reports (2021–2022)  
-  https://www.cropmonitor.org/conflict-reports
+**Internally Displaced Persons (IDPs)
+GEOGLAM Crop Monitor – Conflict and Food Insecurity Reports (2021–2022)  
+https://www.cropmonitor.org/conflict-reports**
   
 - HDX – Ethiopia IDP Subnational (zone-level) datasets  
   https://data.humdata.org/search?q=ethiopia+idp
 
 ---
 
-### Agricultural Sector Destabilization (Tigray)
-- GEOGLAM Crop Monitor – Ethiopia and Tigray context sections  
-  https://www.cropmonitor.org/conflict-reports
-  
-- GEOGLAM Crop Monitor – Documentation of crop destruction, field abandonment, prevention of ploughing and harvesting, disruption of seed systems, and livestock loss  
-  https://www.cropmonitor.org/conflict-reports
+**Agricultural Sector Destabilization (Tigray)
+GEOGLAM Crop Monitor – Ethiopia and Tigray context sections  
+https://www.cropmonitor.org/conflict-reports
+GEOGLAM Crop Monitor – Documentation of crop destruction, field abandonment, prevention of ploughing and harvesting, disruption of seed systems, and livestock loss  
+https://www.cropmonitor.org/conflict-reports**
 
 ---
 
-### Functional Markets and Economic Strain
-- HDX – Functional Markets and Market Functionality datasets (Ethiopia)  
-  https://data.humdata.org/search?q=functional+markets+ethiopia
-  
-- GEOGLAM Crop Monitor – Analysis of market access, food affordability, and displacement-driven market strain  
-  https://www.cropmonitor.org/conflict-reports
+**Functional Markets and Economic Strain
+HDX – Functional Markets and Market Functionality datasets (Ethiopia)  
+https://data.humdata.org/search?q=functional+markets+ethiopia**
+
+**GEOGLAM Crop Monitor – Analysis of market access, food affordability, and displacement-driven market strain  
+https://www.cropmonitor.org/conflict-reports**
 
 ---
 
-### Health System Disruption and Medical Need
-- HDX – Health Facilities Operational Status datasets (Ethiopia / Tigray)  
-  https://data.humdata.org/search?q=health+facilities+ethiopia
+**Health System Disruption and Medical Need
+HDX – Health Facilities Operational Status datasets (Ethiopia / Tigray)  
+https://data.humdata.org/search?q=health+facilities+ethiopia**
+
+---
+
+**HDX – Medical Need and Humanitarian Needs Overview datasets  
+https://data.humdata.org/search?q=medical+need+ethiopia**
+
+---
   
-- HDX – Medical Need and Humanitarian Needs Overview datasets  
-  https://data.humdata.org/search?q=medical+need+ethiopia
+**GEOGLAM Crop Monitor – Reporting on nutrition impacts and food insecurity-related health outcomes  
+https://www.cropmonitor.org/conflict-reports**
+
+---
   
-- GEOGLAM Crop Monitor – Reporting on nutrition impacts and food insecurity-related health outcomes  
-  https://www.cropmonitor.org/conflict-reports
+**HDX – Access Severity and Regional Access Constraint datasets (OCHA / REACH)  
+https://data.humdata.org/search?q=access+constraints+ethiopia**
+
+---
+
+**Gufue et al. (2024) – Academic study analyzing conflict-related damage to the public health system in Tigray  
+https://doi.org/10.3389/fpubh.2024.1271028**
+
+---
   
-- HDX – Access Severity and Regional Access Constraint datasets (OCHA / REACH)  
-  https://data.humdata.org/search?q=access+constraints+ethiopia
+**UNICEF & Tigray Regional Health Bureau – Health Facility Damage Assessments (2021–2022)  
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11026641/**
+
+---
   
-- Gufue et al. (2024) – Academic study analyzing conflict-related damage to the public health system in Tigray  
-  https://doi.org/10.3389/fpubh.2024.1271028
-  
-- UNICEF & Tigray Regional Health Bureau – Health Facility Damage Assessments (2021–2022)  
-  https://pmc.ncbi.nlm.nih.gov/articles/PMC11026641/
-  
-- UNOCHA – Ethiopia Humanitarian Needs Overview (2024)  
-  https://www.unocha.org/publications/report/ethiopia/ethiopia-humanitarian-needs-overview-2024-february-2024
+**UNOCHA – Ethiopia Humanitarian Needs Overview (2024)  
+https://www.unocha.org/publications/report/ethiopia/ethiopia-humanitarian-needs-overview-2024-february-2024**
 
 ---
 
 ### World Bank Data
 
-Geospatial, demographic, and socioeconomic datasets for Ethiopia.
-
-- https://data.worldbank.org/country/ethiopia
+**Geospatial, demographic, and socioeconomic datasets for Ethiopia.
+https://data.worldbank.org/country/ethiopia**
 
 ---
 
@@ -290,67 +294,67 @@ https://www.theguardian.com/world/2022/mar/25/ethiopia-tigray-rebels-agree-cessa
 https://www.theguardian.com/global-development/2021/jun/07/the-nobel-committee-should-resign-over-the-atrocities-in-tigray
 https://www.theguardian.com/global-development/2022/aug/18/weve-finished-our-tears-tigrays-main-hospital-exhausts-food**
 
-
+---
 
 **Al Jazeera
 https://www.aljazeera.com/features/2022/2/25/calculated-ethnic-cleansing-ethiopian-allies-accused-of-killin
 https://www.aljazeera.com/news/2022/2/10/ethiopian-officials-accused-of-extorting-tigrayan-detainees**
 
-
+---
 
 **Financial Times
 https://www.ft.com/content/23021d09-5dac-4ff5-b2a9-6b040ffdc6db**
 
-
+---
 
 **Deutsche Welle (DW)
 https://www.dw.com/en/ethiopia-who-is-tigrays-leader-debretsion-gebremichael/a-55744873**
 
-
+---
 
 **France24
 https://www.france24.com/en/live-news/20210119-grim-picture-emerges-from-glimpses-of-ethiopia-s-tigray-war**
 
-
+---
 
 **Foreign Policy
 https://foreignpolicy.com/2021/03/08/the-u-n-must-end-the-horrors-of-ethiopias-tigray-war/
 https://foreignpolicy.com/2021/03/03/eritrea-afwerki-tigray-authoritarian-lessons/
 https://foreignpolicy.com/2021/06/15/theres-genocide-in-tigray-but-nobodys-talking-about-it/**
 
-
+---
 
 **National Interest
 https://nationalinterest.org/feature/abiy-ahmed-first-nobel-laureate-trial-international-criminal-court-178481**
 
-
+---
 
 **The Africa Report
 https://www.theafricareport.com/62232/the-war-in-tigray-abiy-isaias-and-the-amhara-elite/**
 
-
+---
 
 **InDepthNews
 https://www.indepthnews.net/index.php/the-world/horn-of-africa/4177-the-three-country-alliance-against-tigray-might-jeopardise-ethiopia-s-future**
 
-
+---
 
 **The Independent
 https://www.independent.co.uk/news/world/africa/ethiopia-relics-artefacts-tigray-conflict-b2010985.html**
 
-
+---
 
 **Yahoo News
 https://news.yahoo.com/run-debretsion-gebremichael-tigrays-soft-125626357.html
 https://news.yahoo.com/ethiopias-tigray-crisis-blind-mans-004137981.html
 https://news.yahoo.com/tigray-official-slams-damage-troops-152009648.html**
 
-
+---
 
 **Garowe Online
 https://www.garoweonline.com/en/news/world/are-ethiopians-joining-russian-army-to-fight-ukrainians**
 
-
+---
 
 **Al Arabiya
 https://english.alarabiya.net/News/world/2021/03/10/Senior-Ethiopian-diplomat-in-US-resigns-citing-Tigray-conflict**
@@ -359,9 +363,8 @@ https://english.alarabiya.net/News/world/2021/03/10/Senior-Ethiopian-diplomat-in
 
 # Podcasts & Multimedia
 
-### The Daily (The New York Times)
-
-- https://www.nytimes.com/2021/06/16/podcasts/the-daily/ethiopia-tigray.html
+**The Daily (The New York Times)
+https://www.nytimes.com/2021/06/16/podcasts/the-daily/ethiopia-tigray.html**
   
 ----
 
