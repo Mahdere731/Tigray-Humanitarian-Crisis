@@ -374,49 +374,71 @@ https://www.nytimes.com/2021/06/16/podcasts/the-daily/ethiopia-tigray.html**
 “Ethiopian forces and backers committed genocide in Tigray, report finds.” (2024).  
 https://www.thenewhumanitarian.org/news/2024/06/04/ethiopian-forces-and-backers-committed-genocide-tigray**
 
+---
+
 **New Lines Institute  
 “Genocide in Tigray: Serious Breaches of International Law in the Tigray Conflict and Paths to Accountability.” (2024).  
 https://newlinesinstitute.org/intl-law-peace/genocide-in-tigray-serious-breaches-of-international-law-in-the-tigray-conflict-ethiopia-and-paths-to-accountability-2/**
+
+---
 
 **Al Jazeera  
 “Strong evidence that Ethiopia committed genocide in Tigray war, report says.” (2024).  
 https://www.aljazeera.com/news/2024/6/4/strong-evidence-that-ethiopia-committed-genocide-in-tigray-war-report**
 
+---
+
 **United States Department of State  
 “Reports of Mass Atrocities in Western Tigray.” (2022).  
 https://www.state.gov/reports-of-mass-atrocities-in-western-tigray/**
+
+---
 
 **Human Rights Watch  
 “We Will Erase You From This Land: Crimes Against Humanity and Ethnic Cleansing in Ethiopia’s Western Tigray Zone.” (2022).  
 https://www.hrw.org/report/2022/04/06/we-will-erase-you-land/crimes-against-humanity-and-ethnic-cleansing**
 
+---
+
 **Amnesty International  
 “Ethiopia: Eritrean troops’ massacre of hundreds of Axum civilians may amount to crimes against humanity.” (2021).  
 https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/**
+
+---
 
 **Omna Tigray.
 The Detrimental Effects of Genocide. 
 https://omnatigray.org/the-detrimental-effects-of-genocide/**
 
+---
+
 **Source for Killings of Aid Workers & United Nations Guards
 Assessment of Internal Review into the Killing of Three MSF Staff in Tigray (2021)  
 https://www.msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray**
-  
+
+---
+
 **Relief Web
-  Statement on the killing of 23 aid workers in the Tigray region since the start of the crisis
-  https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis**
+Statement on the killing of 23 aid workers in the Tigray region since the start of the crisis
+https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis**
+
+---
 
 **Human Rights and Atrocity Documentation
-  Crimes Against Humanity in Western Tigray Zone (2022)  
-  https://www.hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone**
+Crimes Against Humanity in Western Tigray Zone (2022)  
+https://www.hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone**
+
+---
   
 **Human Rights Watch
-  – *Ethnic Cleansing Persists Under Tigray Truce* (2023)  
-  https://www.hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce**
-  
- **Amnesty International
-  – *Crimes Against Humanity in Western Tigray Zone* (2022)  
-  https://www.amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone**
+*Ethnic Cleansing Persists Under Tigray Truce* (2023)  
+https://www.hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce**
+
+---
+
+**Amnesty International
+*Crimes Against Humanity in Western Tigray Zone* (2022)  
+https://www.amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone**
 
 ---
 
