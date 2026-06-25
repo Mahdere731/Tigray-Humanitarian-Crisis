@@ -283,88 +283,77 @@ Geospatial, demographic, and socioeconomic datasets for Ethiopia.
 
 # International News & Media
 
-### The Guardian
-
-- https://www.theguardian.com/world/2021/mar/08/atrocities-insurgency-ethiopia-tigray
-- https://www.theguardian.com/world/2021/nov/16/children-starving-to-death-in-ethiopias-tigray-conflict-report
-- https://www.theguardian.com/world/2022/mar/25/ethiopia-tigray-rebels-agree-cessation-of-hostilities-after-government-truce
-- https://www.theguardian.com/global-development/2021/jun/07/the-nobel-committee-should-resign-over-the-atrocities-in-tigray
-- https://www.theguardian.com/global-development/2022/aug/18/weve-finished-our-tears-tigrays-main-hospital-exhausts-food
-
-
-
-### Al Jazeera
-
-- https://www.aljazeera.com/features/2022/2/25/calculated-ethnic-cleansing-ethiopian-allies-accused-of-killin
-- https://www.aljazeera.com/news/2022/2/10/ethiopian-officials-accused-of-extorting-tigrayan-detainees
+**The Guardian
+https://www.theguardian.com/world/2021/mar/08/atrocities-insurgency-ethiopia-tigray
+https://www.theguardian.com/world/2021/nov/16/children-starving-to-death-in-ethiopias-tigray-conflict-report
+https://www.theguardian.com/world/2022/mar/25/ethiopia-tigray-rebels-agree-cessation-of-hostilities-after-government-truce
+https://www.theguardian.com/global-development/2021/jun/07/the-nobel-committee-should-resign-over-the-atrocities-in-tigray
+https://www.theguardian.com/global-development/2022/aug/18/weve-finished-our-tears-tigrays-main-hospital-exhausts-food**
 
 
 
-### Financial Times
-
-- https://www.ft.com/content/23021d09-5dac-4ff5-b2a9-6b040ffdc6db
-
-
-
-### Deutsche Welle (DW)
-
-- https://www.dw.com/en/ethiopia-who-is-tigrays-leader-debretsion-gebremichael/a-55744873
+**Al Jazeera
+https://www.aljazeera.com/features/2022/2/25/calculated-ethnic-cleansing-ethiopian-allies-accused-of-killin
+https://www.aljazeera.com/news/2022/2/10/ethiopian-officials-accused-of-extorting-tigrayan-detainees**
 
 
 
-### France24
-
-- https://www.france24.com/en/live-news/20210119-grim-picture-emerges-from-glimpses-of-ethiopia-s-tigray-war
-
-
-
-### Foreign Policy
-
-- https://foreignpolicy.com/2021/03/08/the-u-n-must-end-the-horrors-of-ethiopias-tigray-war/
-- https://foreignpolicy.com/2021/03/03/eritrea-afwerki-tigray-authoritarian-lessons/
-- https://foreignpolicy.com/2021/06/15/theres-genocide-in-tigray-but-nobodys-talking-about-it/
+**Financial Times
+https://www.ft.com/content/23021d09-5dac-4ff5-b2a9-6b040ffdc6db**
 
 
 
-### National Interest
-
-- https://nationalinterest.org/feature/abiy-ahmed-first-nobel-laureate-trial-international-criminal-court-178481
-
-
-
-### The Africa Report
-
-- https://www.theafricareport.com/62232/the-war-in-tigray-abiy-isaias-and-the-amhara-elite/
+**Deutsche Welle (DW)
+https://www.dw.com/en/ethiopia-who-is-tigrays-leader-debretsion-gebremichael/a-55744873**
 
 
 
-### InDepthNews
-
-- https://www.indepthnews.net/index.php/the-world/horn-of-africa/4177-the-three-country-alliance-against-tigray-might-jeopardise-ethiopia-s-future
-
-
-
-### The Independent
-
-- https://www.independent.co.uk/news/world/africa/ethiopia-relics-artefacts-tigray-conflict-b2010985.html
+**France24
+https://www.france24.com/en/live-news/20210119-grim-picture-emerges-from-glimpses-of-ethiopia-s-tigray-war**
 
 
 
-### Yahoo News
-
-- https://news.yahoo.com/run-debretsion-gebremichael-tigrays-soft-125626357.html
-- https://news.yahoo.com/ethiopias-tigray-crisis-blind-mans-004137981.html
-- https://news.yahoo.com/tigray-official-slams-damage-troops-152009648.html
-
-
-### Garowe Online
-
-- https://www.garoweonline.com/en/news/world/are-ethiopians-joining-russian-army-to-fight-ukrainians
+**Foreign Policy
+https://foreignpolicy.com/2021/03/08/the-u-n-must-end-the-horrors-of-ethiopias-tigray-war/
+https://foreignpolicy.com/2021/03/03/eritrea-afwerki-tigray-authoritarian-lessons/
+https://foreignpolicy.com/2021/06/15/theres-genocide-in-tigray-but-nobodys-talking-about-it/**
 
 
-### Al Arabiya
 
-- https://english.alarabiya.net/News/world/2021/03/10/Senior-Ethiopian-diplomat-in-US-resigns-citing-Tigray-conflict
+**National Interest
+https://nationalinterest.org/feature/abiy-ahmed-first-nobel-laureate-trial-international-criminal-court-178481**
+
+
+
+**The Africa Report
+https://www.theafricareport.com/62232/the-war-in-tigray-abiy-isaias-and-the-amhara-elite/**
+
+
+
+**InDepthNews
+https://www.indepthnews.net/index.php/the-world/horn-of-africa/4177-the-three-country-alliance-against-tigray-might-jeopardise-ethiopia-s-future**
+
+
+
+**The Independent
+https://www.independent.co.uk/news/world/africa/ethiopia-relics-artefacts-tigray-conflict-b2010985.html**
+
+
+
+**Yahoo News
+https://news.yahoo.com/run-debretsion-gebremichael-tigrays-soft-125626357.html
+https://news.yahoo.com/ethiopias-tigray-crisis-blind-mans-004137981.html
+https://news.yahoo.com/tigray-official-slams-damage-troops-152009648.html**
+
+
+
+**Garowe Online
+https://www.garoweonline.com/en/news/world/are-ethiopians-joining-russian-army-to-fight-ukrainians**
+
+
+
+**Al Arabiya
+https://english.alarabiya.net/News/world/2021/03/10/Senior-Ethiopian-diplomat-in-US-resigns-citing-Tigray-conflict**
 
 ---
 
