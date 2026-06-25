@@ -291,32 +291,32 @@ Geospatial, demographic, and socioeconomic datasets for Ethiopia.
 - https://www.theguardian.com/global-development/2021/jun/07/the-nobel-committee-should-resign-over-the-atrocities-in-tigray
 - https://www.theguardian.com/global-development/2022/aug/18/weve-finished-our-tears-tigrays-main-hospital-exhausts-food
 
----
+
 
 ### Al Jazeera
 
 - https://www.aljazeera.com/features/2022/2/25/calculated-ethnic-cleansing-ethiopian-allies-accused-of-killin
 - https://www.aljazeera.com/news/2022/2/10/ethiopian-officials-accused-of-extorting-tigrayan-detainees
 
----
+
 
 ### Financial Times
 
 - https://www.ft.com/content/23021d09-5dac-4ff5-b2a9-6b040ffdc6db
 
----
+
 
 ### Deutsche Welle (DW)
 
 - https://www.dw.com/en/ethiopia-who-is-tigrays-leader-debretsion-gebremichael/a-55744873
 
----
+
 
 ### France24
 
 - https://www.france24.com/en/live-news/20210119-grim-picture-emerges-from-glimpses-of-ethiopia-s-tigray-war
 
----
+
 
 ### Foreign Policy
 
@@ -324,31 +324,31 @@ Geospatial, demographic, and socioeconomic datasets for Ethiopia.
 - https://foreignpolicy.com/2021/03/03/eritrea-afwerki-tigray-authoritarian-lessons/
 - https://foreignpolicy.com/2021/06/15/theres-genocide-in-tigray-but-nobodys-talking-about-it/
 
----
+
 
 ### National Interest
 
 - https://nationalinterest.org/feature/abiy-ahmed-first-nobel-laureate-trial-international-criminal-court-178481
 
----
+
 
 ### The Africa Report
 
 - https://www.theafricareport.com/62232/the-war-in-tigray-abiy-isaias-and-the-amhara-elite/
 
----
+
 
 ### InDepthNews
 
 - https://www.indepthnews.net/index.php/the-world/horn-of-africa/4177-the-three-country-alliance-against-tigray-might-jeopardise-ethiopia-s-future
 
----
+
 
 ### The Independent
 
 - https://www.independent.co.uk/news/world/africa/ethiopia-relics-artefacts-tigray-conflict-b2010985.html
 
----
+
 
 ### Yahoo News
 
@@ -356,13 +356,11 @@ Geospatial, demographic, and socioeconomic datasets for Ethiopia.
 - https://news.yahoo.com/ethiopias-tigray-crisis-blind-mans-004137981.html
 - https://news.yahoo.com/tigray-official-slams-damage-troops-152009648.html
 
----
 
 ### Garowe Online
 
 - https://www.garoweonline.com/en/news/world/are-ethiopians-joining-russian-army-to-fight-ukrainians
 
----
 
 ### Al Arabiya
 
