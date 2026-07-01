@@ -54,7 +54,7 @@ maps/
     └── Tigray_Medical_Needs.png
 ```
 
-## Htsats IDP Center Crisis
+## Hitsats IDP Center Crisis
 
 Information is sourced through reported humanitarian conditions in Tigray, including the current dire situation at the Htsats internally displaced persons (IDP) & refugee center. Local media reported that more than 1,700 IDPs at Htsats are in critical condition amid severe hunger, malnutrition and a lack of medical care, with many elderly people, women, and children collapsing due to extreme food shortages and limited access to health services. Officials further stated that at least dozens of deaths have been linked to these conditions as humanitarian assistance remains insufficient and access continues to be constrained.
 
