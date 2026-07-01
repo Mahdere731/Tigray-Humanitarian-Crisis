@@ -170,7 +170,7 @@ Tigray: Atlas of the Humanitarian Situation**
 
 # Research Organizations
 
-### Humanitarian Outcomes**
+### Humanitarian Outcomes
 
 **SCORE Ethiopia: Tigray**
 - https://humanitarianoutcomes.org/sites/default/files/score/score_tigray_report_2021_v2.pdf
