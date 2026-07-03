@@ -236,7 +236,7 @@ On June 28, 2021, TDF forces took control of the regional capital, **Mekelle**, 
 
 Videos posted online depicted many thousands of prisoners of war parading through the main streets of the city under the supervision of TDF forces and large numbers of civilians in the streets of Mekelle were seen cheering and celebrating the return of TDF forces to the regional capital.
 
-According to reporters and observers, this was a significant morale booster for the people of Ethiopia, who had endured several months of conflict and had their cities occupied by the military.
+According to reporters and observers, this was a significant morale booster for the people of Tigray, who had endured several months of conflict and had their cities occupied by the federal military.
 
 Following this success, the Tigray Defence Forces (TDF) will now be conducting additional operations outside of Tigray and into Amhara and Afar provinces. In the latter part of 2021, the TDF advanced southward along major transportation routes, capturing important cities such as Dessie and Kombolcha.
 
