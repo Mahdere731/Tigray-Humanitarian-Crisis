@@ -149,4 +149,7 @@ This project demonstrates how geographical analysis can be utilized to explore h
 **Mahdere Fikre**
 
 **Seattle Pacific University**
-B.B.A. Business Administration - Majoring in Information Systems, with a Minor in Data Analytics
+
+Bachelor of Arts in Business Administration 
+Concentration in Information Systems
+Minor in Data Analytics
