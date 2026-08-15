@@ -440,7 +440,8 @@ Information in this project is compiled from investigations and reports by inter
 ## Investigative Journalism
 
 - BBC Investigations  
-- CNN Investigations  
+- CNN Investigations
+- Martin Plaut (Journalist specialising in the Horn of Africa and Southern Africa)
 
 ## Academic Research
 
