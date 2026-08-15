@@ -198,7 +198,11 @@ Scars of War and Deprivation: An Urgent Call to Reverse Tigray's Humanitarian Cr
 
 #### EEPA / Martin Plaut
 
+**Situation Report EEPA HORN No. 63 – 22 January 2021**
 - https://martinplaut.com/2021/01/22/situation-report-eepa-horn-no-63-22-january-2021/
+  
+**Shererina, Western Tigray The Test That Proved Ethiopia’s Prosperity Party Narrative Wrong**
+- https://martinplaut.com/2026/08/10/shererina-west-tigray-the-test-that-proved-ethiopias-prosperity-party-narrative-wrong/
 
 ---
 
@@ -300,6 +304,14 @@ HDX – Health Facilities Operational Status datasets (Ethiopia / Tigray)**
 - https://www.theguardian.com/world/2022/mar/25/ethiopia-tigray-rebels-agree-cessation-of-hostilities-after-government-truce
 - https://www.theguardian.com/global-development/2021/jun/07/the-nobel-committee-should-resign-over-the-atrocities-in-tigray
 - https://www.theguardian.com/global-development/2022/aug/18/weve-finished-our-tears-tigrays-main-hospital-exhausts-food
+
+---
+
+**BBC
+Ethiopia drone strike in north kills three, Tigray sources say**
+ - https://www.bbc.com/news/articles/c24m8ge0qnpo
+Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war
+ - https://www.bbc.com/news/articles/cdrv6r3xgyeo
 
 ---
 
