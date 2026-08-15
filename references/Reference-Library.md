@@ -316,49 +316,68 @@ Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war
 ---
 
 **Al Jazeera**
+*‘Ethnic cleansing’: Ethiopian allies accused of Abala massacre*
 - https://www.aljazeera.com/features/2022/2/25/calculated-ethnic-cleansing-ethiopian-allies-accused-of-killin
+
+*Ethiopian officials accused of extorting Tigrayan detainees*
 - https://www.aljazeera.com/news/2022/2/10/ethiopian-officials-accused-of-extorting-tigrayan-detainees
 
 ---
 
 **Financial Times**
+*Ethiopia ‘will be digging up mass graves for a decade’: inside Tigray’s dirty war*
 - https://www.ft.com/content/23021d09-5dac-4ff5-b2a9-6b040ffdc6db
 
 ---
 
 **Deutsche Welle (DW)**
+*Ethiopia: Who is Tigray's leader Debretsion Gebremichael?*
 - https://www.dw.com/en/ethiopia-who-is-tigrays-leader-debretsion-gebremichael/a-55744873
 
 ---
 
 **France24**
+*Grim picture emerges from glimpses of Ethiopia's Tigray war*
 - https://www.france24.com/en/live-news/20210119-grim-picture-emerges-from-glimpses-of-ethiopia-s-tigray-war
 
 ---
 
 **Foreign Policy**
+*The U.N. Must End the Horrors of Ethiopia’s Tigray War*
 - https://foreignpolicy.com/2021/03/08/the-u-n-must-end-the-horrors-of-ethiopias-tigray-war/
+
+ *From Pariah to Kingmaker - Eritrea’s Isaias Afwerki is fueling bloodshed in Tigray—and offering other regional leaders lessons in authoritarianism.*
 - https://foreignpolicy.com/2021/03/03/eritrea-afwerki-tigray-authoritarian-lessons/
 - https://foreignpolicy.com/2021/06/15/theres-genocide-in-tigray-but-nobodys-talking-about-it/
 
 ---
+**The Nation**
+*There’s Genocide in Tigray, but Nobody’s Talking About it: The reasons range from Internet shutdowns to just pure racism.*
+ - https://www.thenation.com/article/world/genocide-in-tigray/
+
+---
 
 **National Interest**
+*Abiy Ahmed: The First Nobel Laureate On Trial at the International Criminal Court?*
 - https://nationalinterest.org/feature/abiy-ahmed-first-nobel-laureate-trial-international-criminal-court-178481
 
 ---
 
 **The Africa Report**
+*The war in Tigray: Abiy, Isaias, and the Amhara elite*
 - https://www.theafricareport.com/62232/the-war-in-tigray-abiy-isaias-and-the-amhara-elite/
 
 ---
 
 **InDepthNews**
-- https://www.indepthnews.net/index.php/the-world/horn-of-africa/4177-the-three-country-alliance-against-tigray-might-jeopardise-ethiopia-s-future
+*The Three-Country Alliance Against Tigray Might Jeopardise Ethiopia’s Future*
+ - https://indepthnews.net/the-three-country-alliance-against-tigray-might-jeopardise-ethiopia-s-future/ 
 
 ---
 
 **The Independent**
+*Ethiopian artefacts on eBay spark fears of looting from war-torn Tigray: Ancient relics including manuscripts and bibles are being sold online for as little as a few hundred pounds*
+
 - https://www.independent.co.uk/news/world/africa/ethiopia-relics-artefacts-tigray-conflict-b2010985.html
 
 ---
