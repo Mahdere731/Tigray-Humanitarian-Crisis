@@ -151,7 +151,5 @@ This project demonstrates how geographical analysis can be utilized to explore h
 **Seattle Pacific University**
 
 Bachelor of Arts in Business Administration |
-
 Concentration in Information Systems |
-
 Minor in Data Analytics
