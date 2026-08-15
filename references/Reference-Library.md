@@ -5,7 +5,7 @@
 - Overview
 - Human Rights & Humanitarian Organizations
 - Government & International Organizations
-- Research, Academic &Data Resources
+- Research, Academic & Data Resources
 - Maps, GIS & Satellite Analysis
 - International News Sources
 - Podcasts & Multimedia
@@ -16,7 +16,7 @@
 
 ## **Overview**
 
-Included in this library are an assortment of material types, including reports, investigations, humanitarian updates, government publications, academic research, and international news resources that cover the Tigray Region's ongoing humanitarian crisis.
+Included in this library is an assortment of material types, including reports, investigations, humanitarian updates, government publications, academic research, and international news resources that cover the Tigray Region's ongoing humanitarian crisis.
 
 The aim of this online resource library is to provide credible evidence documenting the Tigray Crisis effects upon humanitarianism, research analytics (observations of the Tigray Crisis), and future occurrences for those interested parties which may include researchers (academic institution), students (academic institution), journalists (media outlets), non-government (NGO) organizations and/or private citizens.
 
