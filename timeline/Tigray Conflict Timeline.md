@@ -379,6 +379,7 @@ Why did the Federal Government Attack TDF in Shererina?
   - Test Eritrea’s reaction & create a pretext to accuse Eritrea of violating Ethiopia's sovereignty.
 
 ***Sources***
+
 **Martin Plaut** - Shererina, West Tigray: The Test That Proved Ethiopia’s Prosperity Party Narrative Wrong
 
 ---
@@ -395,6 +396,7 @@ The Federal government & Ethiopian military have not made any comments on the st
 The Ethiopian military used Turkish drones carrying 12 bombs a source told BBC.
 
 ***Sources***
+
 **BBC** - Ethiopia drone strike in north kills three, Tigray sources say
 
 ---
