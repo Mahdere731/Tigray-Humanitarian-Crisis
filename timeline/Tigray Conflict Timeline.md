@@ -362,6 +362,43 @@ Some analysts warn that the combination of unresolved territorial disputes, poli
 
 ---
 
+## August 1st, 2026 - Intense Military Confrontation in Shererina
+
+On August 1st, 2026 intense fighting was reported near the Sudanese border by the town of Shererina in Western Tigray. The clashes took place between the Tigray Defense Forces on one side & Ethiopian National Defense Force supported by the Sudanese Rapid Support Forces (RSF) and TEKEZA Militia on the other, with the use of heavy artillery, mechanized units, and drone strikes. This marked a serious escalation between the Federal Government and Tigrayan Administration. According to Tigrayan authorities they accused Addis Ababa of launching a military offensive and worsening the siege already imposed on the region with reckless actions.
+
+What seemed to be a simple military confrontation was underlyingly a test between two narratives. The narrative of which was that the TDF was broken, divided, and unable to defend Tigray from adversaries. The Ethiopian Government engineered the conflict as a propaganda test expecting a filmed and decisive victory against the TDF. The Federal Government across social media platforms spread misinformation claiming they fought Army 70 (Sarāwit Seba), TDF's most formidable & feared fighting force, when in reality they fought Army 13 which is still a competent force but not as renowned. This misrepresentation of the battle is what created the false image of success in Shererina.
+
+Before the confrontation Army 13 was stationed in Western Tigray near the Sudanese border, where it held an extremely strong defense and repelled the federal government demonstrating much stronger resistance than what the Federal Government was prepared for. When the clashes went silent Shererina had proven to show that the federal government's narrative was far from reality & that the TDF is more than capable of defending its territory.
+
+Shererina illustrated TDF's stunning capability to defend against a coordinated and extensive assault. On the other hand for the ENDF, the loss gave a devastating psychological shock that erased years of meticulously embedded morale and validity.
+
+Why did the Federal Government Attack TDF in Shererina?
+  - Shererina was carefully selected as a staged "proof operation" designed to
+    Fabricate claims that TDF/TPLF attacked Wolakit to rally Amhara support.
+  - Attempt to force Army 70 to redeploy away from Western Tigray.
+  - Test Eritrea’s reaction & create a pretext to accuse Eritrea of violating Ethiopia's sovereignty.
+
+***Sources***
+**Martin Plaut** - Shererina, West Tigray: The Test That Proved Ethiopia’s Prosperity Party Narrative Wrong
+
+---
+
+## August 11th 2026 - Federal Government Launches Drone Strike onto a School Killing 3
+A drone strike launched by the Ethiopian military hit a schoole in Tigray causing serious damages and numerous casulties according to BBC. 
+
+Sources within the Tigrayan military explained 3 of their soldiers died upon the attack with another seven fighters taken to a nearby hospital after the attack on Merewa Secondary School which was on winter break in the Alamata Raya. 
+
+District Governer Daniel Tamrat stated one civilian was killed and four others wounded also including that a nearby river which was utlized for drinking water was also damaged. 
+
+The Federal government & Ethiopian military have not made any comments on the strike that killed 3 and injured 11 people. 
+
+The Ethiopian military used Turkish drones carrying 12 bombs a source told BBC.
+
+***Sources***
+**BBC** - Ethiopia drone strike in north kills three, Tigray sources say
+
+---
+
 # Humanitarian Impact
 
 The conflict in Tigray has resulted in:
