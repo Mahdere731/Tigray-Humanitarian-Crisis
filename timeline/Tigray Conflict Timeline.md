@@ -23,7 +23,7 @@ Following the signing of the peace agreement, representatives from both countrie
 Political tensions between the TPLF-led regional leadership in Tigray and the federal government were already visible before the outbreak of war. During a large public rally in Mekelle held in support of the Ethiopia-Eritrea peace process, Debretsion Gebremichael the president of the Tigray region emphasized for constitutional order and warned that Ethiopia must either live together with respect or risk disintegration. This reflected growing disagreement over power, federalism, and political direction in the period leading up to the conflict.
 
 _Borkena (2018). [Debretsion Mekelle Rally Speech](https://borkena.com/2018/07/28/we-live-together-with-respect-or-disintegrate-debretsion-at-mekelle-rally/)_
-
+---
 The rapidly improving relationship (in both military and political terms) between Ethiopia and Eritrea caused Tigrayan leaders to be suspicious of this development, especially given Eritrea's lengthy history of conflict with the Tigray Peoples Liberation Front (TPLF), which had been Ethiopia's ruling party for roughly 30 years.
 
 During this period, Eritrean government news media began publishing an increasing amount of hostile rhetoric towards the TPLF and the Tigrayan leadership. Leaders in Tigray saw an increase in cooperation between the Ethiopian federal government and the government of Eritrea and their increasingly negative media attention as evidence of an emerging shift in regional alliances that potentially created serious security threats for the region. As a result, the situation caused significant concern within Tigray where the federal government had already begun to take actions that threatened to further deteriorate its relationship with Tigray.
@@ -49,13 +49,14 @@ The results of the elections showed a decisive victory for the **Tigray People's
 
 _**Sources:**_
 
-**Reuters** - [Ethiopia's Tigray holds regional election in defiance of federal government](https://www.reuters.com/world/ethiopias-tigray-holds-regional-election-defiance-federal-government-2020-09-09/)
-
-**Al Jazeera** - [Ethiopian parliament votes to cut ties with Tigray region leaders](https://www.aljazeera.com/news/2020/10/7/ethiopia-parliament-votes-to-cut-ties-with-tigray-region-leaders)
-
-**New York Times** - [Ethiopian Region Holds Local Elections in Defiance of Prime Minister](https://www.nytimes.com/2020/09/10/world/africa/ethiopia-tigray-elections-abiy-crisis.html)
-
-**BBC** - [Why there are fears that Ethiopia could break up](https://www.bbc.com/news/world-africa-53807187)
+**Reuters - [Ethiopia's Tigray holds regional election in defiance of federal government](https://www.reuters.com/world/ethiopias-tigray-holds-regional-election-defiance-federal-government-2020-09-09/)**
+---
+**Al Jazeera - [Ethiopian parliament votes to cut ties with Tigray region leaders](https://www.aljazeera.com/news/2020/10/7/ethiopia-parliament-votes-to-cut-ties-with-tigray-region-leaders)**
+---
+**New York Times - [Ethiopian Region Holds Local Elections in Defiance of Prime Minister](https://www.nytimes.com/2020/09/10/world/africa/ethiopia-tigray-elections-abiy-crisis.html)**
+---
+**BBC - [Why there are fears that Ethiopia could break up](https://www.bbc.com/news/world-africa-53807187)**
+---
 
 ---
 
