@@ -130,9 +130,7 @@ Human rights investigations later concluded that the killings in Axum were among
 _**Sources:**_
 
 **Amnesty International - [Ethiopia: Eritrean troops’ massacre of hundreds of Axum civilians may amount to crime against humanity](https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/)**
-
 **Human Rights Watch - [Ethiopia: Eritrean Forces Massacre Tigray Civilians](https://www.hrw.org/news/2021/03/05/ethiopia-eritrean-forces-massacre-tigray-civilians)**
-
 **BBC - [Ethiopia's Tigray crisis: How a massacre in the sacred city of Aksum unfolded](https://www.bbc.com/news/world-africa-56198469)**
 ---
 
