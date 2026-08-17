@@ -542,7 +542,7 @@ As this repository continues to develop, additional resources may be incorporate
 
 ⸻
 
-# Repository Note
+### Repository Note
 
 This reference library is designed to be an ever-changing archive. New reports, peer-reviewed articles, humanitarian evaluations, datasets, satellite image reviews, and investigative journalism will be added as they are available and the documentation will continue to grow along with the evolution of the situation.
 
