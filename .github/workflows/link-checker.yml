@@ -1,0 +1,22 @@
+name: Check Links
+
+on:
+  schedule:
+    # Runs automatically every Sunday at midnight
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Allows you to run it manually anytime
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Checks all Markdown (.md) files in your repository
+          args: --verbose --no-progress "**/*.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
