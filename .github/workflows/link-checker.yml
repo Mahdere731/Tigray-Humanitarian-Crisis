@@ -1,10 +1,9 @@
-name: Check Links
+name: Check Links & Report Issues
 
 on:
   schedule:
-    # Runs automatically every Sunday at midnight
-    - cron: '0 0 * * 0'
-  workflow_dispatch: # Allows you to run it manually anytime
+    - cron: '0 0 * * 0' # Every Sunday at midnight
+  workflow_dispatch:
 
 jobs:
   linkChecker:
@@ -15,8 +14,19 @@ jobs:
 
       - name: Link Checker
         uses: lycheeverse/lychee-action@v2
+        id: lychee
         with:
-          # Checks all Markdown (.md) files in your repository
           args: --verbose --no-progress "**/*.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Creates a structured Issue if dead links are found
+      - name: Create Issue From Failures
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Maintenance Alert: Dead or Broken Links Found"
+          content-filepath: ./lychee/out.md
+          labels: |
+            bug
+            automated-alert
