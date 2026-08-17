@@ -296,19 +296,22 @@ _**Sources:**_
 
 - United Nations humanitarian statements and situation reports
 
-  __Reuters__:
-    - [Medical official: air strike kills at least 43 in Ethiopia's Tigray](https://www.reuters.com/world/africa/witness-airstrike-kills-dozens-ethiopias-tigray-region-2021-06-23/)
-    - [Ethiopian military says only combatants hit in Tigray air strike](https://www.reuters.com/world/africa/ethiopias-military-spokesman-says-only-combatants-hit-air-strike-tigray-region-2021-06-24/)
-    - [Death toll from Tigray air strike at over 50, health official says](https://www.reuters.com/world/africa/death-toll-tigray-air-strike-over-50-health-official-says-2021-06-24/)
+  **Reuters**:
+  - [Medical official: air strike kills at least 43 in Ethiopia's Tigray](https://www.reuters.com/world/africa/witness-airstrike-kills-dozens-ethiopias-tigray-region-2021-06-23/)
+  - [Ethiopian military says only combatants hit in Tigray air strike](https://www.reuters.com/world/africa/ethiopias-military-spokesman-says-only-combatants-hit-air-strike-tigray-region-2021-06-24/)
+  - [Death toll from Tigray air strike at over 50, health official says](https://www.reuters.com/world/africa/death-toll-tigray-air-strike-over-50-health-official-says-2021-06-24/)
 
-__Al Jazeera__:
-  - [Market air raid kills dozens in Ethiopia’s Tigray, say witnesses](https://www.aljazeera.com/news/2021/6/23/airstrike-kills-dozens-in-ethiopias-tigray-region-say-witnesses)
+**Al Jazeera**:
 
-__The Washington Post__:
-  - [Airstrike hit a crowded market in Ethiopia’s Tigray region, officials say](https://www.washingtonpost.com/world/2021/06/23/ethiopia-tigray-airstrikes/)
+- [Market air raid kills dozens in Ethiopia’s Tigray, say witnesses](https://www.aljazeera.com/news/2021/6/23/airstrike-kills-dozens-in-ethiopias-tigray-region-say-witnesses)
 
-__France 24__:
-  - [Dozens killed in air strike on market in Ethiopia's Tigray region](https://www.france24.com/en/africa/20210623-dozens-killed-after-air-strike-on-market-in-ethiopia-s-tigray-region)
+**The Washington Post**:
+
+- [Airstrike hit a crowded market in Ethiopia’s Tigray region, officials say](https://www.washingtonpost.com/world/2021/06/23/ethiopia-tigray-airstrikes/)
+
+**France 24**:
+
+- [Dozens killed in air strike on market in Ethiopia's Tigray region](https://www.france24.com/en/africa/20210623-dozens-killed-after-air-strike-on-market-in-ethiopia-s-tigray-region)
 
 ---
 
