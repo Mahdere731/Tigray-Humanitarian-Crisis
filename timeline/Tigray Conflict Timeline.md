@@ -265,16 +265,14 @@ With changing front lines throughout 2021, the conflict demonstrated one of the 
 
 _**Sources:**_
 
-  __The Africa Report__ [Ethiopia: ‘Mekelle takeover proves Abiy has little control in Tigray’](https://www.theafricareport.com/104783/ethiopia-mekele-takeover-proves-abiy-has-little-control-in-tigray/)
+**The Africa Report** [Ethiopia: ‘Mekelle takeover proves Abiy has little control in Tigray’](https://www.theafricareport.com/104783/ethiopia-mekele-takeover-proves-abiy-has-little-control-in-tigray/)
 
+**NY Times** [How Local Guerrilla Fighters Routed Ethiopia’s Powerful Army](https://www.nytimes.com/2021/07/11/world/africa/tigray-guerrilla-fighers-ethiopia-army.html)
 
-  __NY Times__ [How Local Guerrilla Fighters Routed Ethiopia’s Powerful Army](https://www.nytimes.com/2021/07/11/world/africa/tigray-guerrilla-fighers-ethiopia-army.html)
-
-  __The Economist__ [Tigrayan forces have routed the Ethiopian army
+**The Economist** [Tigrayan forces have routed the Ethiopian army
 Their victory may reshape Ethiopia—and the region](https://www.economist.com/middle-east-and-africa/2021/07/01/tigrayan-forces-have-routed-the-ethiopian-army)
 
-  __BBC__ [Ethiopia's Tigray conflict: How the TPLF has outflanked the army](https://www.bbc.com/news/world-africa-59288744)
-
+**BBC** [Ethiopia's Tigray conflict: How the TPLF has outflanked the army](https://www.bbc.com/news/world-africa-59288744)
 
 ---
 
