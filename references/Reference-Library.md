@@ -25,7 +25,7 @@ The aim of this online resource library is to provide credible evidence document
 
 ---
 
-# Human Rights & Humanitarian Organizations
+## Human Rights & Humanitarian Organizations
 
 **OHCHR–EHRC Joint Investigation Report**
 
@@ -168,7 +168,7 @@ and Effectiveness of Humanitarian Aid](https://humanitarianoutcomes.org/sites/de
 
 ---
 
-# Government & International Organizations
+## Government & International Organizations
 
 **United States Department of State**
 
@@ -199,9 +199,9 @@ and Effectiveness of Humanitarian Aid](https://humanitarianoutcomes.org/sites/de
 
 ---
 
-# Research, Academic & Data Resources
+## Research, Academic & Data Resources
 
-## Academic Research
+### Academic Research
 
 **Ghent University
 Tigray: Atlas of the Humanitarian Situation**
@@ -218,7 +218,7 @@ Tigray: Atlas of the Humanitarian Situation**
 
 ---
 
-# Research Organizations
+## Research Organizations
 
 ### Humanitarian Outcomes
 
@@ -258,7 +258,7 @@ Tigray: Atlas of the Humanitarian Situation**
 
 ---
 
-# Maps, GIS & Satellite Analysis
+## Maps, GIS & Satellite Analysis
 
 This section contains geospatial resources, humanitarian mapping projects, conflict datasets, and geographic information systems (GIS) resources relevant to the Tigray humanitarian crisis.
  
@@ -333,7 +333,7 @@ HDX – Health Facilities Operational Status datasets (Ethiopia / Tigray)](https
 
 ---
 
-# International News & Media
+## International News & Media
 
 **The Guardian**
 
