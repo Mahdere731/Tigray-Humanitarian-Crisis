@@ -105,18 +105,18 @@ Eventually, several months after the start of the conflict, Ethiopian officials 
 _**Sources:**_
 
 **The Sentry** - [New Investigative Report: Eritrean Leaders Orchestrated Industrial-Scale Looting Operations in Tigray, Alongside Atrocities](https://thesentry.org/2025/06/30/80762/new-investigative-report-eritrean-leaders-orchestrated-industrial-scale-looting-operations-in-tigray-alongside-atrocities/)
-
-**The Guardian**
-
-- ['Slaughtered like chickens': Eritrea heavily involved in Tigray conflict, say eyewitnesses: Despite denials by Ethiopia, multiple reports confirm killings, looting and forcible return of refugees by Asmara’s forces](https://www.theguardian.com/global-development/2020/dec/21/slaughtered-like-chickens-eritrea-heavily-involved-in-tigray-conflict-say-eyewitnesses)
-
-- [Diplomats back claims Eritrean troops have joined Ethiopia conflict: US official among sources saying soldiers from Eritrea are fighting in operations against Tigray People’s Liberation Front](https://www.theguardian.com/world/2020/dec/08/diplomats-back-claims-eritrean-troops-have-joined-ethiopia-conflict)
-
-**Reuters** - [EXCLUSIVE U.S. thinks Eritrea has joined Ethiopian war, diplomats say](https://www.reuters.com/world/exclusive-us-thinks-eritrea-has-joined-ethiopian-war-diplomats-say-2020-12-11/)
-
-**BBC** - [Tigray crisis: Eritrea's role in Ethiopian conflict](https://www.bbc.com/news/world-africa-55295650)
-
-**Al Jazeera** - [Eritrea confirms its troops are fighting in Ethiopia’s Tigray: For months, both sides denied Eritreans were involved, contradicting testimony from residents, rights groups, aid workers, and diplomats.](https://www.aljazeera.com/news/2021/4/17/eritrea-confirms-its-troops-are-fighting-ethiopias-tigray
+---
+**The Guardian
+['Slaughtered like chickens': Eritrea heavily involved in Tigray conflict, say eyewitnesses: Despite denials by Ethiopia, multiple reports confirm killings, looting and forcible return of refugees by Asmara’s forces](https://www.theguardian.com/global-development/2020/dec/21/slaughtered-like-chickens-eritrea-heavily-involved-in-tigray-conflict-say-eyewitnesses)**
+----
+** - [Diplomats back claims Eritrean troops have joined Ethiopia conflict: US official among sources saying soldiers from Eritrea are fighting in operations against Tigray People’s Liberation Front](https://www.theguardian.com/world/2020/dec/08/diplomats-back-claims-eritrean-troops-have-joined-ethiopia-conflict)**
+---
+**Reuters - [EXCLUSIVE U.S. thinks Eritrea has joined Ethiopian war, diplomats say](https://www.reuters.com/world/exclusive-us-thinks-eritrea-has-joined-ethiopian-war-diplomats-say-2020-12-11/)**
+---
+**BBC - [Tigray crisis: Eritrea's role in Ethiopian conflict](https://www.bbc.com/news/world-africa-55295650)**
+---
+**Al Jazeera - [Eritrea confirms its troops are fighting in Ethiopia’s Tigray: For months, both sides denied Eritreans were involved, contradicting testimony from residents, rights groups, aid workers, and diplomats.](https://www.aljazeera.com/news/2021/4/17/eritrea-confirms-its-troops-are-fighting-ethiopias-tigray)**
+---
 
 ---
 
