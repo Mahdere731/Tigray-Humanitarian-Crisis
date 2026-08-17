@@ -28,37 +28,64 @@ The aim of this online resource library is to provide credible evidence document
 # Human Rights & Humanitarian Organizations
 
 **OHCHR–EHRC Joint Investigation Report**
+
+Report of the Ethiopian Human Rights Commission (EHRC)/Office of the
+United Nations High Commissioner for Human Rights (OHCHR) Joint
+Investigation into Alleged Violations of International Human Rights
+
 - https://www.ohchr.org/sites/default/files/2021-11/OHCHR-EHRC-Tigray-Report.pdf
 
 ---
 
 **Amnesty International**
+
+Eritrean troops’ massacre of hundreds of Axum civilians may amount to crime against humanity
+
 - https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/
 
 ---
 
 **Human Rights Watch**
-- https://www.hrw.org/report/2022/04/06/we-will-erase-you-land/crimes-against-humanity-and-ethnic-cleansing
+
+Crimes against Humanity and Ethnic Cleansing in Ethiopia’s Western Tigray Zone: "We Will Erase You from This Land"
+
+- https://www.hrw.org/news/2022/04/06/crimes-against-humanity-and-ethnic-cleansing-ethiopias-western-tigray-zone
 
 ---
 
 **Physicians for Human Rights**
-- https://phr.org/
 
+- https://phr.org/countries/ethiopia/
+
+- [“You Will Never Be Able to Give Birth”: Conflict-Related Sexual and Reproductive Violence in Ethiopia](https://phr.org/our-work/resources/you-will-never-be-able-to-give-birth-conflict-related-sexual-and-reproductive-violence-in-ethiopia/)
+
+- [Brutal Reproductive Violence “Systematic, Deliberate, and Ongoing” in Ethiopia: Report](https://phr.org/news/brutal-reproductive-violence-systematic-deliberate-and-ongoing-in-ethiopia-report/)
 ---
 
 **Omna Tigray**
+
+Omna Tigray is a global, nonpartisan nonprofit organization founded by international Tigrayan professionals in response to the war in Tigray
+
 - https://omnatigray.org/
 
 ---
 
 **Médecins Sans Frontières (Doctors Without Borders)**
-- https://www.doctorswithoutborders.org/latest/ethiopia-msf-releases-findings-internal-review-2021-tigray-killing-three-staff-members
+
+MSF internal review finds three staff members were deliberately targeted and killed in Tigray, Ethiopia in 2021
+
+- [MSF internal review finds three staff members were deliberately targeted and killed in Tigray, Ethiopia in 2021](https://www.doctorswithoutborders.org/latest/ethiopia-msf-releases-findings-internal-review-2021-tigray-killing-three-staff-members)
+
+
+Tigray Crisis: “We are suffering from a lack of medical care”: Hundreds of thousands of people displaced by conflict in Ethiopia's Tigray region have gone without health care for months
+
+- [Tigray Crisis: “We are suffering from a lack of medical care”: Hundreds of thousands of people displaced by conflict in Ethiopia's Tigray region have gone without health care for months](https://www.doctorswithoutborders.org/latest/tigray-crisis-we-are-suffering-lack-medical-care)
 
 ---
 
 **World Health Organization (WHO)**
-- https://www.who.int/emergencies/situations/ethiopia-crisis
+
+- [Crisis in Northern Ethipia](https://www.who.int/emergencies/situations/crisis-in-tigray-ethiopia)
 
 ---
 
