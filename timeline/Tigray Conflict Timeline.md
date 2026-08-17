@@ -258,12 +258,11 @@ The documented pattern of abuse showed that sexual violence was not an isolated 
 
 _**Sources:**_
 
-- Amnesty International report:
-
-  - [Ethiopia: Troops and militia rape, abduct women and girls in Tigray conflict – new report](https://www.amnesty.org/en/latest/news/2021/08/ethiopia-troops-and-militia-rape-abduct-women-and-girls-in-tigray-conflict-new-report/)
-
-  - [Ethiopia: “I don’t know if they realized I was a person”: Rape and sexual violence in the conflict in Tigray, Ethiopia](https://www.amnesty.org/en/documents/afr25/4569/2021/en/)
-
+**Amnesty International report:**
+[Ethiopia: Troops and militia rape, abduct women and girls in Tigray conflict – new report](https://www.amnesty.org/en/latest/news/2021/08/ethiopia-troops-and-militia-rape-abduct-women-and-girls-in-tigray-conflict-new-report/)
+---
+[Ethiopia: “I don’t know if they realized I was a person”: Rape and sexual violence in the conflict in Tigray, Ethiopia](https://www.amnesty.org/en/documents/afr25/4569/2021/en/)
+---
 - OHCHR and UN human rights investigations on Ethiopia
 - International Commission of Human Rights Experts on Ethiopia (ICHREE)
 
