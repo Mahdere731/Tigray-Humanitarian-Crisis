@@ -55,7 +55,7 @@ _**Sources:**_
 
 **New York Times** - [Ethiopian Region Holds Local Elections in Defiance of Prime Minister](https://www.nytimes.com/2020/09/10/world/africa/ethiopia-tigray-elections-abiy-crisis.html)
 
-**BBC** - [Why there are fears that Ethiopia could break up](https://www.bbc.com/news/world-africa-53807187) - [](<>)
+**BBC** - [Why there are fears that Ethiopia could break up](https://www.bbc.com/news/world-africa-53807187) 
 
 ---
 
