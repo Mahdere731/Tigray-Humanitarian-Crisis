@@ -2,8 +2,12 @@ name: Auto-Format Markdown
 
 on:
   push:
-    branches: [ main ] # Runs every time you save changes to main
-  workflow_dispatch:  # Allows you to run it manually anytime
+    branches: [ main ]
+  workflow_dispatch:
+
+# EXPLICITLY PERMIT GITHUB TO SAVE AND PUSH THE FORMATTED FILES
+permissions:
+  contents: write
 
 jobs:
   prettier:
@@ -16,7 +20,6 @@ jobs:
       - name: Run Prettier
         uses: creyder/prettier_action@v4.3
         with:
-          # Targets all Markdown files and auto-commits the clean code
           prettier_options: --write **/*.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
