@@ -62,6 +62,8 @@ Investigation into Alleged Violations of International Human Rights](https://www
 Omna Tigray is a global, nonpartisan nonprofit organization founded by international Tigrayan professionals in response to the war in Tigray
 
  - https://omnatigray.org/
+ 
+ - [How the African Union failed Tigray](https://omnatigray.org/slide-deck/the-african-union-failed-tigray/) 
 
 ---
 
@@ -190,25 +192,10 @@ and Effectiveness of Humanitarian Aid](https://humanitarianoutcomes.org/sites/de
 
 **International Commission of Human Rights Experts on Ethiopia (ICHREE)**
  
- - https://www.ohchr.org/en/hr-bodies/hrc/ichree
+
 
 **United Nations Human Rights Council**
- 
- - https://www.ohchr.org/en/hr-bodies/hrc
 
----
-
-**African Union (AU)**
- 
- - https://www.au.int/
- 
- - https://www.peaceau.org/
-
----
-
-**Ethiopian Human Rights Commission (EHRC)**
- 
- - https://ehrc.org/
 
 ---
 
@@ -218,16 +205,16 @@ and Effectiveness of Humanitarian Aid](https://humanitarianoutcomes.org/sites/de
 
 **Ghent University
 Tigray: Atlas of the Humanitarian Situation**
-- https://biblio.ugent.be/publication/8722431
-- https://zenodo.org/records/5881550
-
+ 
+ - [Tigray : atlas of the humanitarian situation](https://biblio.ugent.be/publication/8722431)
+ 
 ---
 
-### Yale Humanitarian Research Lab
+### Yale Law School
 
 **Humanitarian satellite imagery, conflict documentation, and geospatial research.**
 
-- https://hrl.law.yale.edu/
+- [Lowenstein Clinic Finds Ethiopia and Allies Responsible for Mass Starvation in Tigray](https://law.yale.edu/yls-today/news/lowenstein-clinic-finds-ethiopia-and-allies-responsible-mass-starvation-tigray)
 
 ---
 
@@ -236,310 +223,299 @@ Tigray: Atlas of the Humanitarian Situation**
 ### Humanitarian Outcomes
 
 **SCORE Ethiopia: Tigray**
-- https://humanitarianoutcomes.org/sites/default/files/score/score_tigray_report_2021_v2.pdf
+ 
+ - [HUMANITARIAN ACCESS SCORE REPORT Ethiopia: Tigray](https://humanitarianoutcomes.org/projects/core/ethiopia-tigray)
 
 ---
 
-**Refugees International
-Scars of War and Deprivation: An Urgent Call to Reverse Tigray's Humanitarian Crisis**
-- https://www.refugeesinternational.org/reports-briefs/scars-of-war-and-deprivation-an-urgent-call-to-reverse-tigrays-humanitarian-crisis/
+**Refugees International**
+ 
+ - [Scars of War and Deprivation: An Urgent Call to Reverse Tigray’s Humanitarian Crisis](https://www.refugeesinternational.org/reports-briefs/scars-of-war-and-deprivation-an-urgent-call-to-reverse-tigrays-humanitarian-crisis/)
 
 ---
 
-**Women's Bodies Were the Battleground: Survivors Left Behind Amid Tigray's Uncertain Peace**
-- https://www.refugeesinternational.org/reports-briefs/womens-bodies-were-the-battleground-survivors-left-behind-amid-tigrays-uncertain-peace/
+ - [“Women’s Bodies Were the Battleground”: Survivors Left Behind amid Tigray’s Uncertain Peace](https://www.refugeesinternational.org/reports-briefs/womens-bodies-were-the-battleground-survivors-left-behind-amid-tigrays-uncertain-peace/)
 
 ---
 
 **Ethiopia Insight**
-- https://www.ethiopia-insight.com/2020/08/22/exit-imminent-as-abiy-neglects-the-tigrayan-voice/
-- https://www.ethiopia-insight.com/2021/01/29/ethiopia-re-enters-the-abyss-of-war/
-- https://www.ethiopia-insight.com/2022/04/16/the-ethiopian-civil-war-that-destroyed-tigrays-economy/
-- https://www.ethiopia-insight.com/2022/05/13/unearthed-evidence-maps-out-western-tigray-dispute/
+ 
+ - [‘Exit’ imminent as Abiy neglects the Tigrayan ‘voice’](https://www.ethiopia-insight.com/2020/08/22/exit-imminent-as-abiy-neglects-the-tigrayan-voice/)
+
+ - [Ethiopia re-enters the abyss of war](https://www.ethiopia-insight.com/2021/01/29/ethiopia-re-enters-the-abyss-of-war/)
+ 
+ - [The Ethiopian civil war that destroyed Tigray’s economy](https://www.ethiopia-insight.com/2022/04/16/the-ethiopian-civil-war-that-destroyed-tigrays-economy/)
+ 
+ - [Unearthed evidence maps out Western Tigray dispute](https://www.ethiopia-insight.com/2022/05/13/unearthed-evidence-maps-out-western-tigray-dispute/)
 
 ---
 
 #### EEPA / Martin Plaut
 
-**Situation Report EEPA HORN No. 63 – 22 January 2021**
-- https://martinplaut.com/2021/01/22/situation-report-eepa-horn-no-63-22-january-2021/
+- [Situation Report EEPA HORN No. 63 – 22 January 2021](https://martinplaut.com/2021/01/22/situation-report-eepa-horn-no-63-22-january-2021/)
   
-**Shererina, Western Tigray The Test That Proved Ethiopia’s Prosperity Party Narrative Wrong**
-- https://martinplaut.com/2026/08/10/shererina-west-tigray-the-test-that-proved-ethiopias-prosperity-party-narrative-wrong/
+- [Shererina, Western Tigray The Test That Proved Ethiopia’s Prosperity Party Narrative Wrong](https://martinplaut.com/2026/08/10/shererina-west-tigray-the-test-that-proved-ethiopias-prosperity-party-narrative-wrong/)
 
 ---
 
 # Maps, GIS & Satellite Analysis
 
 This section contains geospatial resources, humanitarian mapping projects, conflict datasets, and geographic information systems (GIS) resources relevant to the Tigray humanitarian crisis.
+ 
+ - [Armed Conflict Location & Event Data Project (ACLED)
+Conflict event mapping and geospatial datasets](https://acleddata.com/)
+ 
+ - [Humanitarian Data Exchange (HDX)
+Humanitarian datasets, administrative boundaries, displacement, and crisis mapping resources](https://data.humdata.org/group/eth)
 
-**Armed Conflict Location & Event Data Project (ACLED)
-Conflict event mapping and geospatial datasets.**
-- https://acleddata.com/
+---  
 
-**Humanitarian Data Exchange (HDX)
-Humanitarian datasets, administrative boundaries, displacement, and crisis mapping resources.**
-- https://data.humdata.org/group/eth
-
----
-
-**Internally Displaced Persons (IDPs)
-GEOGLAM Crop Monitor – Conflict and Food Insecurity Reports (2021–2022)**  
-- https://www.cropmonitor.org/conflict-reports
+ - [Internally Displaced Persons (IDPs)
+GEOGLAM Crop Monitor – Conflict and Food Insecurity Reports (2021–2022)](https://www.cropmonitor.org/conflict-reports)
 
 ---
 
-**HDX – Ethiopia IDP Subnational (zone-level) datasets**
-- https://data.humdata.org/search?q=ethiopia+idp
+ - [HDX – Ethiopia IDP Subnational (zone-level) datasets](https://data.humdata.org/search?q=ethiopia+idp)
 
 ---
 
-**Agricultural Sector Destabilization (Tigray)
-GEOGLAM Crop Monitor – Ethiopia and Tigray context sections**
-- https://www.cropmonitor.org/conflict-reports
+ - [Agricultural Sector Destabilization (Tigray)
+GEOGLAM Crop Monitor – Ethiopia and Tigray context sections](https://www.cropmonitor.org/conflict-reports)
+
+--- 
+
+ - [GEOGLAM Crop Monitor – Documentation of crop destruction, field abandonment, prevention of ploughing and harvesting, disruption of seed systems, and livestock loss](https://www.cropmonitor.org/conflict-reports)
 
 ---
 
-**GEOGLAM Crop Monitor – Documentation of crop destruction, field abandonment, prevention of ploughing and harvesting, disruption of seed systems, and livestock loss** 
-- https://www.cropmonitor.org/conflict-reports
+
+ - [Functional Markets and Economic Strain
+HDX – Functional Markets and Market Functionality datasets (Ethiopia)](https://data.humdata.org/search?q=functional+markets+ethiopia)
 
 ---
 
-**Functional Markets and Economic Strain
-HDX – Functional Markets and Market Functionality datasets (Ethiopia)**
-- https://data.humdata.org/search?q=functional+markets+ethiopia
+ - [GEOGLAM Crop Monitor – Analysis of market access, food affordability, and displacement-driven market strain](https://www.cropmonitor.org/conflict-reports)
 
 ---
 
-**GEOGLAM Crop Monitor – Analysis of market access, food affordability, and displacement-driven market strain** 
-- https://www.cropmonitor.org/conflict-reports
+ - [Health System Disruption and Medical Need
+HDX – Health Facilities Operational Status datasets (Ethiopia / Tigray)](https://data.humdata.org/search?q=health+facilities+ethiopia)
 
 ---
 
-**Health System Disruption and Medical Need
-HDX – Health Facilities Operational Status datasets (Ethiopia / Tigray)**
-- https://data.humdata.org/search?q=health+facilities+ethiopia
-
----
-
-**HDX – Medical Need and Humanitarian Needs Overview datasets**
-- https://data.humdata.org/search?q=medical+need+ethiopia
+ - [HDX – Medical Need and Humanitarian Needs Overview datasets](https://data.humdata.org/search?q=medical+need+ethiopia)
 
 ---
   
-**GEOGLAM Crop Monitor – Reporting on nutrition impacts and food insecurity-related health outcomes**
-- https://www.cropmonitor.org/conflict-reports
+ - [GEOGLAM Crop Monitor – Reporting on nutrition impacts and food insecurity-related health outcomes](https://www.cropmonitor.org/conflict-reports)
+
+---
+   
+ - [HDX – Access Severity and Regional Access Constraint datasets (OCHA / REACH)](https://data.humdata.org/search?q=access+constraints+ethiopia)
+
+---
+ 
+ - [Gufue et al. (2024) – Academic study analyzing conflict-related damage to the public health system in Tigray](https://doi.org/10.3389/fpubh.2024.1271028)
+
+---
+ 
+ - [UNICEF & Tigray Regional Health Bureau – Health Facility Damage Assessments (2021–2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11026641/)
 
 ---
   
-**HDX – Access Severity and Regional Access Constraint datasets (OCHA / REACH)** 
-- https://data.humdata.org/search?q=access+constraints+ethiopia
-
----
-
-**Gufue et al. (2024) – Academic study analyzing conflict-related damage to the public health system in Tigray** 
-- https://doi.org/10.3389/fpubh.2024.1271028
-
----
-  
-**UNICEF & Tigray Regional Health Bureau – Health Facility Damage Assessments (2021–2022)**
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC11026641/
-
----
-  
-**UNOCHA – Ethiopia Humanitarian Needs Overview (2024)**
-- https://www.unocha.org/publications/report/ethiopia/ethiopia-humanitarian-needs-overview-2024-february-2024
+ - [UNOCHA – Ethiopia Humanitarian Needs Overview (2024)](https://www.unocha.org/publications/report/ethiopia/ethiopia-humanitarian-needs-overview-2024-february-2024)
 
 ---
 
 ### World Bank Data
 
-**Geospatial, demographic, and socioeconomic datasets for Ethiopia.**
-- https://data.worldbank.org/country/ethiopia
+ - [Geospatial, demographic, and socioeconomic datasets for Ethiopia](https://data.worldbank.org/country/ethiopia)
 
 ---
 
 # International News & Media
 
 **The Guardian**
-- https://www.theguardian.com/world/2021/mar/08/atrocities-insurgency-ethiopia-tigray
-- https://www.theguardian.com/world/2021/nov/16/children-starving-to-death-in-ethiopias-tigray-conflict-report
-- https://www.theguardian.com/world/2022/mar/25/ethiopia-tigray-rebels-agree-cessation-of-hostilities-after-government-truce
-- https://www.theguardian.com/global-development/2021/jun/07/the-nobel-committee-should-resign-over-the-atrocities-in-tigray
-- https://www.theguardian.com/global-development/2022/aug/18/weve-finished-our-tears-tigrays-main-hospital-exhausts-food
 
+ - [Young men take up arms in northern Ethiopia as atrocities fuel insurgency: Anger over violence that UN says could amount to war crimes drives recruitment in Tigray](https://www.theguardian.com/world/2021/mar/08/atrocities-insurgency-ethiopia-tigray)
+ 
+ - [Scores of children killed by starvation in Tigray, says health official](https://www.theguardian.com/world/2021/nov/16/children-starving-to-death-in-ethiopias-tigray-conflict-report)
+ 
+ - [Ethiopia: Tigray rebels agree ‘cessation of hostilities’ after government truce](https://www.theguardian.com/world/2022/mar/25/ethiopia-tigray-rebels-agree-cessation-of-hostilities-after-government-truce)
+ 
+ - [The Nobel committee should resign over the atrocities in Tigray
+This article is more than 5 years oldKjetil Tronvoll](https://www.theguardian.com/global-development/2021/jun/07/the-nobel-committee-should-resign-over-the-atrocities-in-tigray)
+ 
+ - [I saw an oncologist cry’: Tigray cancer patients sent home to die for lack of drugs](https://www.theguardian.com/global-development/2022/may/25/i-saw-an-oncologist-cry-tigray-cancer-patients-sent-home-to-die-for-lack-of-drugs)
 ---
 
-**BBC
-Ethiopia drone strike in north kills three, Tigray sources say**
- - https://www.bbc.com/news/articles/c24m8ge0qnpo
-Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war
- - https://www.bbc.com/news/articles/cdrv6r3xgyeo
+**BBC**
+
+ - [Ethiopia drone strike in north kills three, Tigray sources say](https://www.bbc.com/news/articles/c24m8ge0qnpo)
+
+ - [Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war
+](https://www.bbc.com/news/articles/cdrv6r3xgyeo)
+
+ - [Ethiopia's Tigray crisis: What a blind man's death reveals](https://www.bbc.com/news/world-africa-55832712)
 
 ---
 
 **Al Jazeera**
-*‘Ethnic cleansing’: Ethiopian allies accused of Abala massacre*
-- https://www.aljazeera.com/features/2022/2/25/calculated-ethnic-cleansing-ethiopian-allies-accused-of-killin
 
-*Ethiopian officials accused of extorting Tigrayan detainees*
-- https://www.aljazeera.com/news/2022/2/10/ethiopian-officials-accused-of-extorting-tigrayan-detainees
+ - [‘Ethnic cleansing’: Ethiopian allies accused of Abala massacre](https://www.aljazeera.com/features/2022/2/25/calculated-ethnic-cleansing-ethiopian-allies-accused-of-killin)
+
+ - [We’ve finished our tears’: Tigray’s main hospital exhausts food:
+More than 90 percent of Tigray’s people need food aid, despite a truce called to the 18-month-long civil war in Ethiopia.](https://www.aljazeera.com/news/2022/4/22/weve-finished-our-tears-main-hospital-in-tigray-exhausts-food)
+
+ - [Ethiopian officials accused of extorting Tigrayan detainees](https://www.aljazeera.com/news/2022/2/10/ethiopian-officials-accused-of-extorting-tigrayan-detainees)
 
 ---
 
 **Financial Times**
-*Ethiopia ‘will be digging up mass graves for a decade’: inside Tigray’s dirty war*
-- https://www.ft.com/content/23021d09-5dac-4ff5-b2a9-6b040ffdc6db
+
+ - [Ethiopia ‘will be digging up mass graves for a decade’: inside Tigray’s dirty war](https://www.ft.com/content/23021d09-5dac-4ff5-b2a9-6b040ffdc6db)
 
 ---
 
 **Deutsche Welle (DW)**
-*Ethiopia: Who is Tigray's leader Debretsion Gebremichael?*
-- https://www.dw.com/en/ethiopia-who-is-tigrays-leader-debretsion-gebremichael/a-55744873
+ 
+ - [Ethiopia: Who is Tigray's leader Debretsion Gebremichael?](https://www.dw.com/en/ethiopia-who-is-tigrays-leader-debretsion-gebremichael/a-55744873)
 
 ---
 
 **France24**
-*Grim picture emerges from glimpses of Ethiopia's Tigray war*
-- https://www.france24.com/en/live-news/20210119-grim-picture-emerges-from-glimpses-of-ethiopia-s-tigray-war
+
+ - [Grim picture emerges from glimpses of Ethiopia's Tigray war](https://www.france24.com/en/live-news/20210119-grim-picture-emerges-from-glimpses-of-ethiopia-s-tigray-war)
 
 ---
 
 **Foreign Policy**
-*The U.N. Must End the Horrors of Ethiopia’s Tigray War*
-- https://foreignpolicy.com/2021/03/08/the-u-n-must-end-the-horrors-of-ethiopias-tigray-war/
+ 
+ - [The U.N. Must End the Horrors of Ethiopia’s Tigray War](https://foreignpolicy.com/2021/03/08/the-u-n-must-end-the-horrors-of-ethiopias-tigray-war/)
+ 
+ - [From Pariah to Kingmaker - Eritrea’s Isaias Afwerki is fueling bloodshed in Tigray—and offering other regional leaders lessons in authoritarianism.](https://foreignpolicy.com/2021/03/03/eritrea-afwerki-tigray-authoritarian-lessons/)
 
- *From Pariah to Kingmaker - Eritrea’s Isaias Afwerki is fueling bloodshed in Tigray—and offering other regional leaders lessons in authoritarianism.*
-- https://foreignpolicy.com/2021/03/03/eritrea-afwerki-tigray-authoritarian-lessons/
-- https://foreignpolicy.com/2021/06/15/theres-genocide-in-tigray-but-nobodys-talking-about-it/
 
 ---
 **The Nation**
-*There’s Genocide in Tigray, but Nobody’s Talking About it: The reasons range from Internet shutdowns to just pure racism.*
- - https://www.thenation.com/article/world/genocide-in-tigray/
+
+ - [There’s Genocide in Tigray, but Nobody’s Talking About it: The reasons range from Internet shutdowns to just pure racism.](https://www.thenation.com/article/world/genocide-in-tigray/)
 
 ---
 
 **National Interest**
-*Abiy Ahmed: The First Nobel Laureate On Trial at the International Criminal Court?*
-- https://nationalinterest.org/feature/abiy-ahmed-first-nobel-laureate-trial-international-criminal-court-178481
+
+ - [Abiy Ahmed: The First Nobel Laureate On Trial at the International Criminal Court?](https://nationalinterest.org/feature/abiy-ahmed-first-nobel-laureate-trial-international-criminal-court-178481)
 
 ---
 
 **The Africa Report**
-*The war in Tigray: Abiy, Isaias, and the Amhara elite*
-- https://www.theafricareport.com/62232/the-war-in-tigray-abiy-isaias-and-the-amhara-elite/
+
+ - [The war in Tigray: Abiy, Isaias, and the Amhara elite](https://www.theafricareport.com/62232/the-war-in-tigray-abiy-isaias-and-the-amhara-elite/)
 
 ---
 
 **InDepthNews**
-*The Three-Country Alliance Against Tigray Might Jeopardise Ethiopia’s Future*
- - https://indepthnews.net/the-three-country-alliance-against-tigray-might-jeopardise-ethiopia-s-future/ 
+
+ - [The Three-Country Alliance Against Tigray Might Jeopardise Ethiopia’s Future](https://indepthnews.net/the-three-country-alliance-against-tigray-might-jeopardise-ethiopia-s-future/) 
 
 ---
 
 **The Independent**
-*Ethiopian artefacts on eBay spark fears of looting from war-torn Tigray: Ancient relics including manuscripts and bibles are being sold online for as little as a few hundred pounds*
 
-- https://www.independent.co.uk/news/world/africa/ethiopia-relics-artefacts-tigray-conflict-b2010985.html
-
----
-
-**Yahoo News**
-- https://news.yahoo.com/run-debretsion-gebremichael-tigrays-soft-125626357.html
-- https://news.yahoo.com/ethiopias-tigray-crisis-blind-mans-004137981.html
-- https://news.yahoo.com/tigray-official-slams-damage-troops-152009648.html
+ - [Ethiopian artefacts on eBay spark fears of looting from war-torn Tigray: Ancient relics including manuscripts and bibles are being sold online for as little as a few hundred pounds](https://www.independent.co.uk/news/world/africa/ethiopia-relics-artefacts-tigray-conflict-b2010985.html)
 
 ---
 
-**Garowe Online**
-- https://www.garoweonline.com/en/news/world/are-ethiopians-joining-russian-army-to-fight-ukrainians
+**Barrons** 
+
+ - [On The Run: Debretsion Gebremichael, Tigray's Soft-spoken Leader](https://www.barrons.com/news/on-the-run-debretsion-gebremichael-tigray-s-soft-spoken-leader-01608296417)
 
 ---
 
 **Al Arabiya**
-- https://english.alarabiya.net/News/world/2021/03/10/Senior-Ethiopian-diplomat-in-US-resigns-citing-Tigray-conflict
+ 
+ - [Senior Ethiopian diplomat in US resigns citing Tigray conflict](https://english.alarabiya.net/News/world/2021/03/10/Senior-Ethiopian-diplomat-in-US-resigns-citing-Tigray-conflict)
 
 ---
 
 # Podcasts & Multimedia
 
 **The Daily (The New York Times)**
-- https://www.nytimes.com/2021/06/16/podcasts/the-daily/ethiopia-tigray.html
+ 
+ - [The War in Tigray](https://www.nytimes.com/2021/06/16/podcasts/the-daily/ethiopia-tigray.html)
   
 ----
 
 # Genocide Classification & Legal Findings (2021–2024)
 
-**The New Humanitarian  
-“Ethiopian forces and backers committed genocide in Tigray, report finds.” (2024).**  
-- https://www.thenewhumanitarian.org/news/2024/06/04/ethiopian-forces-and-backers-committed-genocide-tigray
+**The New Humanitarian**  
+ 
+ - [thiopian forces and backers committed genocide in Tigray, report finds.” (2024)](https://www.thenewhumanitarian.org/news/2024/06/04/ethiopian-forces-and-backers-committed-genocide-tigray)
 
 ---
 
-**New Lines Institute  
-“Genocide in Tigray: Serious Breaches of International Law in the Tigray Conflict and Paths to Accountability.” (2024).** 
-- https://newlinesinstitute.org/intl-law-peace/genocide-in-tigray-serious-breaches-of-international-law-in-the-tigray-conflict-ethiopia-and-paths-to-accountability-2/
+**New Lines Institute** 
+ 
+ - [Genocide in Tigray: Serious Breaches of International Law in the Tigray Conflict and Paths to Accountability.” (2024).](https://newlinesinstitute.org/intl-law-peace/genocide-in-tigray-serious-breaches-of-international-law-in-the-tigray-conflict-ethiopia-and-paths-to-accountability-2/)
 
 ---
 
-**Al Jazeera  
-“Strong evidence that Ethiopia committed genocide in Tigray war, report says.” (2024).**  
-- https://www.aljazeera.com/news/2024/6/4/strong-evidence-that-ethiopia-committed-genocide-in-tigray-war-report
+**Al Jazeera**  
+ 
+ - [Strong evidence that Ethiopia committed genocide in Tigray war, report says.” (2024).](https://www.aljazeera.com/news/2024/6/4/strong-evidence-that-ethiopia-committed-genocide-in-tigray-war-report)
 
 ---
 
-**United States Department of State  
-“Reports of Mass Atrocities in Western Tigray.” (2022).**  
-- https://www.state.gov/reports-of-mass-atrocities-in-western-tigray/
+**United States Department of State**  
+ - [“Reports of Mass Atrocities in Western Tigray.” (2022).](https://www.state.gov/reports-of-mass-atrocities-in-western-tigray/)
 
 ---
 
-**Human Rights Watch  
-“We Will Erase You From This Land: Crimes Against Humanity and Ethnic Cleansing in Ethiopia’s Western Tigray Zone.” (2022).**  
-- https://www.hrw.org/report/2022/04/06/we-will-erase-you-land/crimes-against-humanity-and-ethnic-cleansing
+**Human Rights Watch**  
+ 
+ - [“We Will Erase You From This Land: Crimes Against Humanity and Ethnic Cleansing in Ethiopia’s Western Tigray Zone.” (2022).](https://www.hrw.org/report/2022/04/06/we-will-erase-you-land/crimes-against-humanity-and-ethnic-cleansing)
 
 ---
 
-**Amnesty International  
-“Ethiopia: Eritrean troops’ massacre of hundreds of Axum civilians may amount to crimes against humanity.” (2021).**  
-- https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/
+**Amnesty International**  
+
+ - [“Ethiopia: Eritrean troops’ massacre of hundreds of Axum civilians may amount to crimes against humanity.” (2021).](https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/)
 
 ---
 
-**Omna Tigray.
-The Detrimental Effects of Genocide.**
-- https://omnatigray.org/the-detrimental-effects-of-genocide/
+**Omna Tigray**
+ - [The Detrimental Effects of Genocide.](https://omnatigray.org/the-detrimental-effects-of-genocide/)
 
 ---
 
-**Source for Killings of Aid Workers & United Nations Guards
-Assessment of Internal Review into the Killing of Three MSF Staff in Tigray (2021)**  
-- https://www.msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray
+**Médecins Sans Frontières**  
+ - [Assessment of Internal Review into the Killing of Three MSF Staff in Tigray (2021)](https://www.msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray)
 
 ---
 
-**Relief Web
-Statement on the killing of 23 aid workers in the Tigray region since the start of the crisis**
-- https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis
+**Relief Web**
+ 
+ - [Statement on the killing of 23 aid workers in the Tigray region since the start of the crisis](https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis)
 
 ---
 
-**Human Rights and Atrocity Documentation
-Crimes Against Humanity in Western Tigray Zone (2022)**  
-- https://www.hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone
+**Human Rights Watch**
+
+ - [Human Rights and Atrocity Documentation
+Crimes Against Humanity in Western Tigray Zone (2022)](https://www.hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone)
 
 ---
   
-**Human Rights Watch
-Ethnic Cleansing Persists Under Tigray Truce (2023)**
-- https://www.hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce
+**Human Rights Watch**
+ 
+ - [Ethnic Cleansing Persists Under Tigray Truce (2023)](https://www.hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce)
 
 ---
 
-**Amnesty International
-Crimes Against Humanity in Western Tigray Zone (2022)**
-- https://www.amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone
+**Amnesty International**
+ 
+ - [Crimes Against Humanity in Western Tigray Zone (2022)](https://www.amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone)
 
 ---
 
