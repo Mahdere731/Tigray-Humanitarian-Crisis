@@ -109,6 +109,7 @@ _**Sources:**_
 
 **The Guardian - ['Slaughtered like chickens': Eritrea heavily involved in Tigray conflict, say eyewitnesses: Despite denials by Ethiopia, multiple reports confirm killings, looting and forcible return of refugees by Asmara’s forces](https://www.theguardian.com/global-development/2020/dec/21/slaughtered-like-chickens-eritrea-heavily-involved-in-tigray-conflict-say-eyewitnesses)**
 ----
+
 **- [Diplomats back claims Eritrean troops have joined Ethiopia conflict: US official among sources saying soldiers from Eritrea are fighting in operations against Tigray People’s Liberation Front](https://www.theguardian.com/world/2020/dec/08/diplomats-back-claims-eritrean-troops-have-joined-ethiopia-conflict)**
 ---
 
