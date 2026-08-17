@@ -29,150 +29,186 @@ The aim of this online resource library is to provide credible evidence document
 
 **OHCHR–EHRC Joint Investigation Report**
 
-Report of the Ethiopian Human Rights Commission (EHRC)/Office of the
+ - [Report of the Ethiopian Human Rights Commission (EHRC)/Office of the
 United Nations High Commissioner for Human Rights (OHCHR) Joint
-Investigation into Alleged Violations of International Human Rights
-
-- https://www.ohchr.org/sites/default/files/2021-11/OHCHR-EHRC-Tigray-Report.pdf
+Investigation into Alleged Violations of International Human Rights](https://www.ohchr.org/sites/default/files/2021-11/OHCHR-EHRC-Tigray-Report.pdf)
 
 ---
 
 **Amnesty International**
 
-Eritrean troops’ massacre of hundreds of Axum civilians may amount to crime against humanity
-
-- https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/
+ - [Eritrean troops’ massacre of hundreds of Axum civilians may amount to crime against humanity
+](https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/)
 
 ---
 
 **Human Rights Watch**
 
-Crimes against Humanity and Ethnic Cleansing in Ethiopia’s Western Tigray Zone: "We Will Erase You from This Land"
-
-- https://www.hrw.org/news/2022/04/06/crimes-against-humanity-and-ethnic-cleansing-ethiopias-western-tigray-zone
+ - [Crimes against Humanity and Ethnic Cleansing in Ethiopia’s Western Tigray Zone: "We Will Erase You from This Land"](https://www.hrw.org/news/2022/04/06/crimes-against-humanity-and-ethnic-cleansing-ethiopias-western-tigray-zone)
 
 ---
 
 **Physicians for Human Rights**
 
-- https://phr.org/countries/ethiopia/
+ - https://phr.org/countries/ethiopia/
 
-- [“You Will Never Be Able to Give Birth”: Conflict-Related Sexual and Reproductive Violence in Ethiopia](https://phr.org/our-work/resources/you-will-never-be-able-to-give-birth-conflict-related-sexual-and-reproductive-violence-in-ethiopia/)
+ - [“You Will Never Be Able to Give Birth”: Conflict-Related Sexual and Reproductive Violence in Ethiopia](https://phr.org/our-work/resources/you-will-never-be-able-to-give-birth-conflict-related-sexual-and-reproductive-violence-in-ethiopia/)
 
-- [Brutal Reproductive Violence “Systematic, Deliberate, and Ongoing” in Ethiopia: Report](https://phr.org/news/brutal-reproductive-violence-systematic-deliberate-and-ongoing-in-ethiopia-report/)
+ - [Brutal Reproductive Violence “Systematic, Deliberate, and Ongoing” in Ethiopia: Report](https://phr.org/news/brutal-reproductive-violence-systematic-deliberate-and-ongoing-in-ethiopia-report/)
 ---
 
 **Omna Tigray**
 
 Omna Tigray is a global, nonpartisan nonprofit organization founded by international Tigrayan professionals in response to the war in Tigray
 
-- https://omnatigray.org/
+ - https://omnatigray.org/
 
 ---
 
 **Médecins Sans Frontières (Doctors Without Borders)**
 
-MSF internal review finds three staff members were deliberately targeted and killed in Tigray, Ethiopia in 2021
+ - [MSF internal review finds three staff members were deliberately targeted and killed in Tigray, Ethiopia in 2021](https://www.doctorswithoutborders.org/latest/ethiopia-msf-releases-findings-internal-review-2021-tigray-killing-three-staff-members)
 
-- [MSF internal review finds three staff members were deliberately targeted and killed in Tigray, Ethiopia in 2021](https://www.doctorswithoutborders.org/latest/ethiopia-msf-releases-findings-internal-review-2021-tigray-killing-three-staff-members)
-
-
-Tigray Crisis: “We are suffering from a lack of medical care”: Hundreds of thousands of people displaced by conflict in Ethiopia's Tigray region have gone without health care for months
-
-- [Tigray Crisis: “We are suffering from a lack of medical care”: Hundreds of thousands of people displaced by conflict in Ethiopia's Tigray region have gone without health care for months](https://www.doctorswithoutborders.org/latest/tigray-crisis-we-are-suffering-lack-medical-care)
+ - [Tigray Crisis: “We are suffering from a lack of medical care”: Hundreds of thousands of people displaced by conflict in Ethiopia's Tigray region have gone without health care for months](https://www.doctorswithoutborders.org/latest/tigray-crisis-we-are-suffering-lack-medical-care)
 
 ---
 
 **World Health Organization (WHO)**
 
-- [Crisis in Northern Ethipia](https://www.who.int/emergencies/situations/crisis-in-tigray-ethiopia)
+ - [Crisis in Northern Ethipia](https://www.who.int/emergencies/situations/crisis-in-tigray-ethiopia)
 
 ---
 
 **UNICEF**
-- https://www.unicef.org/ethiopia/
-- https://www.unicef.org/ethiopia/stories
-- https://www.unicef.org/ethiopia/media
+ 
+ - [At least 33,000 children in parts of Tigray, Ethiopia, at imminent risk of death as conflict   increases famine threat](https://www.unicef.org/press-releases/least-33000-children-parts-tigray-ethiopia-imminent-risk-death-conflict-increases)
 
 ---
 
 **World Food Programme (WFP)**
-- https://www.wfp.org/countries/ethiopia
+
+ - [WFP Delivers Food to Another 1 Million People in Tigray, but Is Only Reaching Half of Those It Should Be](https://www.wfp.org/countries/ethiopia)
 
 ---
 
 **United Nations Office for the Coordination of Humanitarian Affairs (OCHA)**
-- https://www.unocha.org/ethiopia
+ 
+ - [Ethiopia](https://www.unocha.org/ethiopia)
 
 ---
 
 **ReliefWeb**
-- https://reliefweb.int/country/eth
 
+ - [Who's counting?: Tigray's hidden mortality data crisis](https://reliefweb.int/report/ethiopia/whos-counting-tigrays-hidden-mortality-data-crisis)
+
+ - [Deafening silence: no accountability for the killing of three MSF staff in Tigray](https://reliefweb.int/report/ethiopia/deafening-silence-no-accountability-killing-three-msf-staff-tigray)
+
+ - [Ethiopia situation update (25 June 2025)](https://reliefweb.int/report/ethiopia/ethiopia-situation-update-25-june-2025)
+ 
+ - [Unsafe and Overcrowded: The Shelter Crisis Facing Displaced Families in Tigray (April 2025)](https://reliefweb.int/report/ethiopia/unsafe-and-overcrowded-shelter-crisis-facing-displaced-families-tigray-april-2025)
+ 
+ - [Urgent Action Is Needed to Prevent Tigray from Sliding Back into War](https://reliefweb.int/report/ethiopia/urgent-action-needed-prevent-tigray-sliding-back-war)
+ 
+ - [Ethiopia on the Brink: International community must act urgently to prevent mass atrocities](https://reliefweb.int/report/ethiopia/ethiopia-brink-international-community-must-act-urgently-prevent-mass-atrocities)
+ 
+ - [Life after conflict in Tigray: Why mental health care can’t wait](https://reliefweb.int/report/ethiopia/life-after-conflict-tigray-why-mental-health-care-cant-wait)
+ 
+ - [Awakening from the Shadow of War: Our Aid Efforts in the Tigray Region in Ethiopia](https://reliefweb.int/report/ethiopia/awakening-shadow-war-our-aid-efforts-tigray-region-ethiopia)
+ 
 ---
 
 **International Committee of the Red Cross (ICRC)**
-- https://www.icrc.org/en/where-we-work/africa/ethiopia
+
+ - [Violence in Tigray - our response](https://www.icrc.org/en/document/violence-tigray-our-response)
+
+ - [Violence in Tigray Response Plan](https://www.icrc.org/sites/default/files/document_new/file_list/violence_in_tigray_-_icrc_response.pdf)
+ 
+ - [Ethiopia: even during period of peace, lasting humanitarian consequences of the conflict remain](https://www.icrc.org/en/document/ethiopia-even-during-period-peace-lasting-humanitarian-consequences-conflict-remain) 
 
 ---
 
 **International Organization for Migration (IOM)**
-- https://ethiopia.iom.int/
+
+ - [TIGRAY REGION](https://ethiopia.iom.int/tigray-region)
  
 ---
 
 **United Nations High Commissioner for Refugees (UNHCR)**
-- https://www.unhcr.org/countries/ethiopia
+
+ - [EMERGENCY APPEAL: Ethiopia Tigray emergency](https://www.unhcr.org/africa/emergencies/ethiopia-tigray-emergency)
+
+ - [Ethiopia's Tigray Refugee Crisis Explained](https://www.unrefugees.org/news/ethiopias-tigray-refugee-crisis-explained/)
+ 
+ - [BRIEFING NOTES: UNHCR reaches destroyed camps in northern Tigray](https://www.unhcr.org/us/news/briefing-notes/unhcr-reaches-destroyed-camps-northern-tigray)
+ 
+ - [ETHIOPIA HUMANITARIAN CRISIS](https://www.unrefugees.org/emergencies/ethiopia/)  
 
 ---
 
 **Humanitarian Outcomes**
-- https://humanitarianoutcomes.org/sites/default/files/score/score_tigray_report_2021_v2.pdf
+
+ - [Humanitarian Access SCORE Report: Tigray, Ethiopia Survey on the Coverage, Operational Reach,
+and Effectiveness of Humanitarian Aid](https://humanitarianoutcomes.org/sites/default/files/score/score_tigray_report_2021_v2.pdf)
+
+ - [HUMANITARIAN ACCESS SCORE REPORT Ethiopia: Tigray](https://humanitarianoutcomes.org/projects/core/ethiopia-tigray)
 
 ---
 
 **Refugees International**
-- https://www.refugeesinternational.org/reports-briefs/scars-of-war-and-deprivation-an-urgent-call-to-reverse-tigrays-humanitarian-crisis/
--https://www.refugeesinternational.org/reports-briefs/womens-bodies-were-the-battleground-survivors-left-behind-amid-tigrays-uncertain-peace/
+
+ - [Scars of War and Deprivation: An Urgent Call to Reverse Tigray’s Humanitarian Crisis](https://www.refugeesinternational.org/reports-briefs/scars-of-war-and-deprivation-an-urgent-call-to-reverse-tigrays-humanitarian-crisis/)
+
+ - [“Women’s Bodies Were the Battleground”: Survivors Left Behind amid Tigray’s Uncertain Peace](https://www.refugeesinternational.org/reports-briefs/womens-bodies-were-the-battleground-survivors-left-behind-amid-tigrays-uncertain-peace/)
+ 
+ - [Ethiopian, Tigrayan Forces Must Pull Back from the Brink](https://www.refugeesinternational.org/statements-and-news/ethiopian-tigrayan-forces-must-pull-back-from-the-brink/)
+ 
+ -  [Scars of War and Renewed Risks for Women in Tigray](https://www.refugeesinternational.org/events-and-testimony/scars-of-war-and-renewed-risks-for-women-in-tigray/)
 
 ---
 
 # Government & International Organizations
 
 **United States Department of State**
-- https://www.state.gov/reports-of-mass-atrocities-in-western-tigray/
-- https://2021-2025.state.gov/killing-of-doctors-without-borders-staff-in-tigray/
-- https://2021-2025.state.gov/u-s-announces-additional-humanitarian-assistance-for-the-tigray-crisis-response/
+
+ - [Reports of Mass Atrocities in Western Tigray](https://2021-2025.state.gov/reports-of-mass-atrocities-in-western-tigray/)
+
+ - [Killing of Doctors Without Borders Staff in Tigray](https://2021-2025.state.gov/killing-of-doctors-without-borders-staff-in-tigray/)
+ 
+ - [U.S. Announces Additional Humanitarian Assistance for the Tigray Crisis Response](https://2021-2025.state.gov/u-s-announces-additional-humanitarian-assistance-for-the-tigray-crisis-response/)
+ 
+ - [2022 Country Reports on Human Rights Practices: Ethiopia](https://www.state.gov/reports/2022-country-reports-on-human-rights-practices/ethiopia) 
 
 ---
 
-**U.S. Embassy Ethiopia**
-- https://et.usembassy.gov/u-s-government-delivers-c-130-aircraft-to-ethiopia/
+**United Nations (UN) Office of the High Commissioner for Human Rights (OHCHR)**
 
----
-
-**United Nations (UN)
-Office of the High Commissioner for Human Rights (OHCHR)**
-- https://www.ohchr.org/en/countries/africa/ethiopia
+ - [International Commission of Human Rights Experts on Ethiopia](https://www.ohchr.org/en/hr-bodies/hrc/ichre-ethiopa/index)
+ 
+ - [Ethiopia: Türk urges restraint and steps towards de-escalation amid volatility in Tigray 2/10/2026](https://www.ohchr.org/en/press-releases/2026/02/ethiopia-turk-urges-restraint-and-steps-towards-de-escalation-amid) 
 
 ---
 
 **International Commission of Human Rights Experts on Ethiopia (ICHREE)**
-- https://www.ohchr.org/en/hr-bodies/hrc/ichree
+ 
+ - https://www.ohchr.org/en/hr-bodies/hrc/ichree
 
 **United Nations Human Rights Council**
-- https://www.ohchr.org/en/hr-bodies/hrc
+ 
+ - https://www.ohchr.org/en/hr-bodies/hrc
 
 ---
 
 **African Union (AU)**
-- https://www.au.int/
-- https://www.peaceau.org/
+ 
+ - https://www.au.int/
+ 
+ - https://www.peaceau.org/
 
 ---
 
 **Ethiopian Human Rights Commission (EHRC)**
-- https://ehrc.org/
+ 
+ - https://ehrc.org/
 
 ---
 
