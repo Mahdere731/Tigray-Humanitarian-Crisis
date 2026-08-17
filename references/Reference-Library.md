@@ -439,7 +439,7 @@ More than 90 percent of Tigray’s people need food aid, despite a truce called 
 
 ---
 
-# Podcasts & Multimedia
+## Podcasts & Multimedia
 
 **The Daily (The New York Times)**
  
@@ -447,7 +447,7 @@ More than 90 percent of Tigray’s people need food aid, despite a truce called 
   
 ----
 
-# Genocide Classification & Legal Findings (2021–2024)
+## Genocide Classification & Legal Findings (2021–2024)
 
 **The New Humanitarian**  
  
@@ -519,7 +519,7 @@ Crimes Against Humanity in Western Tigray Zone (2022)](https://www.hrw.org/news/
 
 ---
 
-# Repository Expansion
+## Repository Expansion
 
 As this repository continues to develop, additional resources may be incorporated to further support research, education, humanitarian analysis, and historical documentation.
 
