@@ -93,7 +93,7 @@ At the beginning of the conflict, the Ethiopian National Government made a state
 
 However, after several investigations had been conducted, there was still overwhelming evidence that members of the Eritrean military had entered the region since the start and had been involved in military operations in that area as well as civil absuses. Using **satellite imagery, eyewitness accounts, and investigative journalism**, there was compelling evidence that members of the Eritrean military were present in many areas in Tigray.
 
-Many international organisations, as well as journalists, have reported the presence of the Eritrean military in cities such as Axum, Adigrat, and many other cities in northern Tigray.
+Many international organizations, as well as journalists, have reported the presence of the Eritrean military in cities such as Axum, Adigrat, and many other cities in northern Tigray.
 
 Eventually, several months after the start of the conflict, Ethiopian officials finally publicly admitted that Eritrean troops had been inside Tigray after overwhelming evidence.
 
@@ -104,11 +104,14 @@ _**Sources:**_
 **The Guardian**
 
 - ['Slaughtered like chickens': Eritrea heavily involved in Tigray conflict, say eyewitnesses: Despite denials by Ethiopia, multiple reports confirm killings, looting and forcible return of refugees by Asmara’s forces](https://www.theguardian.com/global-development/2020/dec/21/slaughtered-like-chickens-eritrea-heavily-involved-in-tigray-conflict-say-eyewitnesses)
+
 - [Diplomats back claims Eritrean troops have joined Ethiopia conflict: US official among sources saying soldiers from Eritrea are fighting in operations against Tigray People’s Liberation Front](https://www.theguardian.com/world/2020/dec/08/diplomats-back-claims-eritrean-troops-have-joined-ethiopia-conflict)
 
 **Reuters** - [EXCLUSIVE U.S. thinks Eritrea has joined Ethiopian war, diplomats say](https://www.reuters.com/world/exclusive-us-thinks-eritrea-has-joined-ethiopian-war-diplomats-say-2020-12-11/)
 
 **BBC** - [Tigray crisis: Eritrea's role in Ethiopian conflict](https://www.bbc.com/news/world-africa-55295650)
+
+**Al Jazeera** - [Eritrea confirms its troops are fighting in Ethiopia’s Tigray: For months, both sides denied Eritreans were involved, contradicting testimony from residents, rights groups, aid workers, and diplomats.](https://www.aljazeera.com/news/2021/4/17/eritrea-confirms-its-troops-are-fighting-ethiopias-tigray
 
 ---
 
@@ -126,10 +129,11 @@ Human rights investigations later concluded that the killings in Axum were among
 
 _**Sources:**_
 
-- Amnesty International report: _Massacre in Axum_
-- Human Rights Watch investigations into killings in Axum
-- BBC and Reuters reporting on civilian killings in Tigray
+**Amnesty International - [Ethiopia: Eritrean troops’ massacre of hundreds of Axum civilians may amount to crime against humanity](https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/)**
 
+**Human Rights Watch - [Ethiopia: Eritrean Forces Massacre Tigray Civilians](https://www.hrw.org/news/2021/03/05/ethiopia-eritrean-forces-massacre-tigray-civilians)**
+
+**BBC - [Ethiopia's Tigray crisis: How a massacre in the sacred city of Aksum unfolded](https://www.bbc.com/news/world-africa-56198469)**
 ---
 
 ## _Late 2020 – Recorded Extrajudicial Killings and Filmed Atrocities_
