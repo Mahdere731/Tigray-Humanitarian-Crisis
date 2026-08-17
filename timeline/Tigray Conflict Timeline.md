@@ -12,7 +12,7 @@ By organizing this information into one digital platform, this project aims to m
 
 ## Timeline of the Tigray War (2020–Present)
 
-## *2018–2020 – Rising Political Tensions*
+## _2018–2020 – Rising Political Tensions_
 
 In the years leading up to the Tigray War, tension between the federal government of Ethiopia and the regional government of Tigray reached unprecedented levels.
 
@@ -34,12 +34,12 @@ Tigray experienced several crises at this time, including both the widespread CO
 
 Additionally, Tigray's leaders have also reported that there have been complete restrictions on the transportation and logistics of goods into the region from the federal government. These restrictions have limited the regions' ability to receive resources and support through aid, thus hurting the economic strength of Tigray. The regional leaders indicated that although other regions have received federal budget assistance to deal with COVID-19 and the severe locust outbreak, Tigray has been left to try to manage the issues on their own.
 
-The relations between the Ethiopian federal government and Tigray People's Liberation Front (TPLF), which governs Tigray, continued to deteriorate during this time. The worsening political dispute over the three key areas of:  who holds federal authority; political reform; and direction of Ethiopia's political transition increased tensions between the federal government and the regional leadership of Tigray.
+The relations between the Ethiopian federal government and Tigray People's Liberation Front (TPLF), which governs Tigray, continued to deteriorate during this time. The worsening political dispute over the three key areas of: who holds federal authority; political reform; and direction of Ethiopia's political transition increased tensions between the federal government and the regional leadership of Tigray.
 Tensions further escalated after the Ethiopian federal government postponed national and regional elections in 2020 due to the COVID-19 pandemic.
 
 ---
 
-## *September 2020 – Tigray Regional Election*
+## _September 2020 – Tigray Regional Election_
 
 The regional elections that were held in Tigray region on September 2020 took place after the Ethiopian federal government had delayed its national election. The leaders in Tigray region claimed that delaying national elections was violating the constitutional democratic processes and their right to have a voice in electing representatives at the regional level.
 
@@ -47,14 +47,15 @@ Regional electoral authorities organized the elections. Reports indicated high l
 
 The results of the elections showed a decisive victory for the **Tigray People's Liberation Front (TPLF)**, who retained power over the regional government. The federal government of Ethiopia did not recognize the results of the elections and considered the elections to be illegal. This led to further political tensions between the federal government and Tigray regional authorities in the weeks before the armed conflict began.
 
-***Sources:***
+_**Sources:**_
+
 - International Crisis Group analysis
 - Reuters reporting on the 2020 Tigray election
 - BBC reporting on political tensions prior to the conflict
 
 ---
 
-## *November 2020 – Beginning of the Conflict*
+## _November 2020 – Beginning of the Conflict_
 
 The Tigray War began in November 2020 when fighting broke out between the Ethiopian federal government and Tigray regional authorities after the encirclement of the Tigray region following a regional election held in defiance of the federal government. This soon escalated into Ethiopian federal forces, Eritrean military forces, and allied regional militia entering the region.
 
@@ -82,7 +83,7 @@ Emergency camps such as Um Rakuba and Al-Tanideba were established by Sudanese a
 
 ---
 
-## *Late 2020 – Reports of Eritrean Military Involvement*
+## _Late 2020 – Reports of Eritrean Military Involvement_
 
 At the beginning of the conflict, the Ethiopian National Government made a statement to the world that there were no members of the Eritrean military in Tigray whatsoever.
 
@@ -92,14 +93,15 @@ Many international organisations, as well as journalists, have reported the pres
 
 Eventually, several months after the start of the conflict, Ethiopian officials finally publicly admitted that Eritrean troops had been inside Tigray after overwhelming evidence.
 
-***Sources:***
-- Amnesty International investigations  
-- Human Rights Watch reporting  
+_**Sources:**_
+
+- Amnesty International investigations
+- Human Rights Watch reporting
 - satellite imagery analysis reported by international media investigations
 
 ---
 
-## *November 2020 – Axum Massacre*
+## _November 2020 – Axum Massacre_
 
 Investigations by international human rights organizations reported the killing of hundreds of civilians in the historic city of **Axum** during military operations in late November 2020.
 
@@ -111,14 +113,15 @@ Survivors reported that civilians attempting to recover the bodies of relatives 
 
 Human rights investigations later concluded that the killings in Axum were among the **deadliest single incidents reported during the early months of the conflict**, with estimates indicating that **hundreds of civilians were killed**.
 
-***Sources:***
-- Amnesty International report: *Massacre in Axum*
+_**Sources:**_
+
+- Amnesty International report: _Massacre in Axum_
 - Human Rights Watch investigations into killings in Axum
 - BBC and Reuters reporting on civilian killings in Tigray
 
 ---
 
-## *Late 2020 – Recorded Extrajudicial Killings and Filmed Atrocities*
+## _Late 2020 – Recorded Extrajudicial Killings and Filmed Atrocities_
 
 When war broke out, many videos popped up on the internet that depicted **extrajudicial killings of civilians and captured individuals** by soldiers who appeared to be in uniform. These videos were among the first visual documentation of alleged war crimes committed during the conflict.
 
@@ -129,7 +132,7 @@ Aside from the obvious, there was also evidence from the video of conversations 
 In addition to videos that were widely shared in terms of with specific actions, some videos circulated during the first months of the war depicted combatants engaged in acts of extreme violence (including extreme violence against civilians and detainees).
 One particularly disturbing video which appeared on social media showed a group of soldiers (allegedly Ethiopian federal troops) filming themselves **setting fire to a detainee (Tigrayan civilian) and laughing and ridiculing during the course of the act**. The soldiers filmed themselves joking and referring to the victim in derogatory terms while continuing to record the act.
 
-The same soldiers filmed themselves in a celebratory manner after killing, made disparaging comments about Tigrayans, filmed the aftermath of acts of violence, posed beside bodies of dead victims, and were seen making inflammatory and derogatory statements while stepping on a **Tigray regional flag** while recording themselves in active conflict zones. 
+The same soldiers filmed themselves in a celebratory manner after killing, made disparaging comments about Tigrayans, filmed the aftermath of acts of violence, posed beside bodies of dead victims, and were seen making inflammatory and derogatory statements while stepping on a **Tigray regional flag** while recording themselves in active conflict zones.
 
 Additionally, there were many other types of footage and reports of different incidents which occurred across the region (including **Enda Baguna**, south of **Shire Endeselassie**) during the first months of the war (civilians killed related to military operations, footage of acts of violence circulated).
 
@@ -137,15 +140,16 @@ Human rights organizations and investigative journalists later cited these video
 
 These recorded incidents of violence were not isolated events. Investigations later suggested that similar abuses occurred across multiple areas of Tigray and were often accompanied by hostile rhetoric and intimidation directed toward Tigrayan civilians.
 
-***Sources:***
-- CNN Investigation: *Analysis of massacre video raises questions for Ethiopian Army* (Mahibere Dego)
+_**Sources:**_
+
+- CNN Investigation: _Analysis of massacre video raises questions for Ethiopian Army_ (Mahibere Dego)
 - The Telegraph investigation into execution footage involving Ethiopian soldiers
 - Human Rights Watch reporting on abuses during the Tigray conflict
 - Amnesty International investigations into civilian killings in Tigray
 
 ---
 
-## *2020–2021 – Hate Speech, Intimidation, and Ethnic Violence*
+## _2020–2021 – Hate Speech, Intimidation, and Ethnic Violence_
 
 Reports from investigators and survivors also described soldiers and militia members making **derogatory or dehumanizing remarks toward Tigrayan civilians** during military operations.
 
@@ -155,31 +159,34 @@ Investigations into abuses in **Western Tigray** documented additional threats a
 
 Human Rights Watch and Amnesty International later documented a pattern of forced expulsions, killings, and threats directed at Tigrayan civilians in Western Tigray, concluding that the abuses bore the hallmarks of **ethnic cleansing**.
 
-***Sources:****
-- Human Rights Watch report: *“We Will Erase You from This Land”: Crimes Against Humanity and Ethnic Cleansing in Ethiopia’s Western Tigray Zone*
+_**Sources:**_*
+
+- Human Rights Watch report: _“We Will Erase You from This Land”: Crimes Against Humanity and Ethnic Cleansing in Ethiopia’s Western Tigray Zone_
 - Amnesty International investigations into abuses in Western Tigray
 - Reuters and BBC reporting on displacement and ethnic violence in the region
+
 ---
 
-## *Late 2020 – Destruction of Civilian Infrastructure*
+## _Late 2020 – Destruction of Civilian Infrastructure_
 
 During the early months of the conflict, widespread systematic destruction and looting of civilian infrastructure was reported across Tigray.
 
 Reports indicated that:
 
-- Up to **80% of health facilities** were looted, vandalized, or destroyed  
-- Approximately **75% of universities and educational institutions** were damaged or looted  
-- Numerous hospitals, clinics, and pharmacies were stripped of medical equipment and supplies  
-- Ambulances and medical transport vehicles were reportedly stolen, looted or destroyed across the region  
+- Up to **80% of health facilities** were looted, vandalized, or destroyed
+- Approximately **75% of universities and educational institutions** were damaged or looted
+- Numerous hospitals, clinics, and pharmacies were stripped of medical equipment and supplies
+- Ambulances and medical transport vehicles were reportedly stolen, looted or destroyed across the region
 - Water systems, electrical infrastructure, and telecommunications systems were also heavily damaged, further limiting access to essential services
 
 The destruction significantly reduced access to healthcare and education for civilians across the region. Hospitals that remained operational often faced severe shortages of medicine, electricity, fuel, and medical staff.
 
 Some of these figures were compiled through reporting by humanitarian organizations and advocacy groups working with **health officials and institutions within Tigray**, which documented the scale of damage to hospitals, clinics, universities, and public infrastructure during the conflict.
 
-***Sources:***
-- United Nations humanitarian situation reports  
-- Médecins Sans Frontières (Doctors Without Borders) field reports  
+_**Sources:**_
+
+- United Nations humanitarian situation reports
+- Médecins Sans Frontières (Doctors Without Borders) field reports
 - **Omna Tigray reports compiling data from regional health officials and on-the-ground documentation**
 
 ---
@@ -202,13 +209,14 @@ Seyoum Mesfin had served as Ethiopia’s foreign minister for nearly two decades
 
 The death of Seyoum Mesfin drew reactions from diplomats and political leaders internationally. Many officials who had worked with him during his years in diplomacy expressed sadness and condolences, noting his long career in international diplomacy and his role in representing Ethiopia in global institutions.
 
-***Sources:***
+_**Sources:**_
+
 - international media reporting on the death of Seyoum Mesfin
 - diplomatic reactions reported in international news coverage
 
 ---
 
-## *2021 – Widespread and Systematic Sexual Violence*
+## _2021 – Widespread and Systematic Sexual Violence_
 
 Numerous international investigations provided evidence that during the armed conflict in Tigray, Ethiopia, there were numerous cases of sexual violence against women and girls. Amnesty International has given evidence of rape, gang rape, sexual slavery, sexual mutilation, and other forms of torture that took place from March to June of 2021, and concluded that the volume and severity of these atrocities should be considered to constitute **war crimes** and possibly **crimes against humanity**.
 
@@ -220,13 +228,15 @@ United Nations investigators later found that sexual violence in and beyond Tigr
 
 The documented pattern of abuse showed that sexual violence was not an isolated byproduct of war, but one of the conflict’s most devastating and systematic forms of violence against Tigrayan civilians.
 
-***Sources:***
-- Amnesty International report: *“I Don’t Know If They Realized I Was a Person”*  
-- OHCHR and UN human rights investigations on Ethiopia  
+_**Sources:**_
+
+- Amnesty International report: _“I Don’t Know If They Realized I Was a Person”_
+- OHCHR and UN human rights investigations on Ethiopia
 - International Commission of Human Rights Experts on Ethiopia (ICHREE)
+
 ---
 
-## *2021 – Shift in the Conflict and Tigray Defense Forces Counteroffensive*
+## _2021 – Shift in the Conflict and Tigray Defense Forces Counteroffensive_
 
 Around mid-2021, the conflict's dynamics began to alter as Tigrayan forces regrouped into the **Tigray Defense Forces (TDF)** and initiated a series of counteroffensive operations aimed at the Ethiopian federal and allied forces.
 
@@ -248,7 +258,8 @@ As a result of the continuing violence and loss of civilian life, the TDF leader
 
 With changing front lines throughout 2021, the conflict demonstrated one of the most fluid phases of the conflict to date, with the loss and gain of territory being frequent, and the attention of the international community toward the war continuing to grow.
 
-***Sources:***
+_**Sources:**_
+
 - international media reporting on the recapture of Mekelle
 - reporting on Operation Alula and the TDF counteroffensive
 - NY Times - How Local Guerrilla Fighters Routed Ethiopia’s Powerful Army
@@ -258,7 +269,7 @@ With changing front lines throughout 2021, the conflict demonstrated one of the 
 
 ---
 
-## *June 2021 – Togoga Airstrike*
+## _June 2021 – Togoga Airstrike_
 
 As of **June 22nd of this year**, an airstrike hit a crowded open marketplace located in Togoga, a town in Tigray to the west of Mekelle. At the time of the airstrike, the marketplace was busy with many civilians buying and selling goods.
 
@@ -274,32 +285,35 @@ Local government and Tigray officials reject this explanation, claiming that the
 
 The airstrike has raised **significant concerns internationally**, with agencies such as the **United Nations and various humanitarian aid agencies** calling for investigations and condemning the attack and requesting that all parties exert every possible effort to avoid harming civilians.
 
-***Sources:***
-- United Nations humanitarian statements and situation reports  
-- Reuters and international media reporting on the Togoga airstrike  
+_**Sources:**_
+
+- United Nations humanitarian statements and situation reports
+- Reuters and international media reporting on the Togoga airstrike
 - humanitarian organization reporting from Tigray
+
 ---
 
-## *2021–2022 – Humanitarian Access Restrictions*
+## _2021–2022 – Humanitarian Access Restrictions_
 
 Humanitarian organizations reported severe restrictions on humanitarian aid entering Tigray.
 
 The restrictions resulted in:
 
-- food shortages  
-- lack of medical supplies  
-- limited electricity and fuel  
-- disruption of humanitarian operations  
+- food shortages
+- lack of medical supplies
+- limited electricity and fuel
+- disruption of humanitarian operations
 
 Millions of civilians were affected by the resulting humanitarian crisis.
 
-***Sources:***
+_**Sources:**_
+
 - UN Office for the Coordination of Humanitarian Affairs
 - Human Rights Watch
 
 ---
 
-## *2022 – Mass Civilian Displacement*
+## _2022 – Mass Civilian Displacement_
 
 The war caused large-scale displacement of civilians.
 
@@ -310,7 +324,8 @@ Estimates reported:
 
 Many displaced civilians were forced to live in temporary camps with limited access to food, healthcare, and sanitation. These lvivng situations are still on going.
 
-***Sources:***
+_**Sources:**_
+
 - UN humanitarian reports
 - international humanitarian agencies
 
@@ -323,7 +338,8 @@ A peace agreement was signed in Pretoria between the Ethiopian federal governmen
 Despite the agreement, humanitarian challenges and reconstruction efforts continue across the region. Due to the Federal Government not doing their part of the agreement even as the TPLF fulfilled parts of the agreement as a show of cooperation and de-esclation.
 
 ---
-## *2023–Present – Fragile Peace and Rising Tensions*
+
+## _2023–Present – Fragile Peace and Rising Tensions_
 
 Although the **Pretoria Peace Agreement** signed in November 2022 formally ended large-scale hostilities between the Ethiopian federal government and Tigray regional authorities, many core issues of the conflict remain unresolved.
 
@@ -335,14 +351,15 @@ In addition to the humanitarian situation, political tensions between the Ethiop
 
 Reports from international organizations and conflict monitoring groups indicate that tensions have periodically escalated into armed incidents and political confrontations since the signing of the peace agreement.
 
-***Sources:***
-- Human Rights Watch reporting on post-war conditions  
-- UN humanitarian updates  
-- International Crisis Group analysis on post-Pretoria tensions  
+_**Sources:**_
+
+- Human Rights Watch reporting on post-war conditions
+- UN humanitarian updates
+- International Crisis Group analysis on post-Pretoria tensions
 
 ---
 
-## *2024–2026 – Renewed Military Tensions and Troop Buildup*
+## _2024–2026 – Renewed Military Tensions and Troop Buildup_
 
 In recent years, analysts and observers have warned that the peace agreement remains fragile and that Tigray could face renewed conflict.
 
@@ -354,10 +371,11 @@ At the same time, tensions between Ethiopia and Eritrea have again drawn interna
 
 Some analysts warn that the combination of unresolved territorial disputes, political divisions within Tigray, and increasing military activity in northern Ethiopia could create conditions for another large-scale confrontation if tensions continue to escalate.
 
-***Sources:***
-- International Crisis Group reporting on tensions in northern Ethiopia  
-- Reuters reporting on military tensions and troop deployments  
-- UN statements on regional security concerns in the Horn of Africa  
+_**Sources:**_
+
+- International Crisis Group reporting on tensions in northern Ethiopia
+- Reuters reporting on military tensions and troop deployments
+- UN statements on regional security concerns in the Horn of Africa
 - Africa File (Critical Threats Project) conflict monitoring reports
 
 ---
@@ -373,29 +391,31 @@ Before the confrontation Army 13 was stationed in Western Tigray near the Sudane
 Shererina illustrated TDF's stunning capability to defend against a coordinated and extensive assault. On the other hand for the ENDF, the loss gave a devastating psychological shock that erased years of meticulously embedded morale and validity.
 
 Why did the Federal Government Attack TDF in Shererina?
-  - Shererina was carefully selected as a staged "proof operation" designed to
-    Fabricate claims that TDF/TPLF attacked Wolakit to rally Amhara support.
-  - Attempt to force Army 70 to redeploy away from Western Tigray.
-  - Test Eritrea’s reaction & create a pretext to accuse Eritrea of violating Ethiopia's sovereignty.
 
-***Sources***
+- Shererina was carefully selected as a staged "proof operation" designed to
+  Fabricate claims that TDF/TPLF attacked Wolakit to rally Amhara support.
+- Attempt to force Army 70 to redeploy away from Western Tigray.
+- Test Eritrea’s reaction & create a pretext to accuse Eritrea of violating Ethiopia's sovereignty.
+
+_**Sources**_
 
 **Martin Plaut** - Shererina, West Tigray: The Test That Proved Ethiopia’s Prosperity Party Narrative Wrong
 
 ---
 
 ## August 11th 2026 - Federal Government Launches Drone Strike onto a School Killing 3
-A drone strike launched by the Ethiopian military hit a schoole in Tigray causing serious damages and numerous casulties according to BBC. 
 
-Sources within the Tigrayan military explained 3 of their soldiers died upon the attack with another seven fighters taken to a nearby hospital after the attack on Merewa Secondary School which was on winter break in the Alamata Raya. 
+A drone strike launched by the Ethiopian military hit a schoole in Tigray causing serious damages and numerous casulties according to BBC.
 
-District Governer Daniel Tamrat stated one civilian was killed and four others wounded also including that a nearby river which was utlized for drinking water was also damaged. 
+Sources within the Tigrayan military explained 3 of their soldiers died upon the attack with another seven fighters taken to a nearby hospital after the attack on Merewa Secondary School which was on winter break in the Alamata Raya.
 
-The Federal government & Ethiopian military have not made any comments on the strike that killed 3 and injured 11 people. 
+District Governer Daniel Tamrat stated one civilian was killed and four others wounded also including that a nearby river which was utlized for drinking water was also damaged.
+
+The Federal government & Ethiopian military have not made any comments on the strike that killed 3 and injured 11 people.
 
 The Ethiopian military used Turkish drones carrying 12 bombs a source told BBC.
 
-***Sources***
+_**Sources**_
 
 **BBC** - Ethiopia drone strike in north kills three, Tigray sources say
 
@@ -421,17 +441,17 @@ Information in this project is compiled from investigations and reports by inter
 
 ## Human Rights Investigations
 
-- Amnesty International  
-- Human Rights Watch  
-- United Nations Office of the High Commissioner for Human Rights  
-- International Commission of Human Rights Experts on Ethiopia  
+- Amnesty International
+- Human Rights Watch
+- United Nations Office of the High Commissioner for Human Rights
+- International Commission of Human Rights Experts on Ethiopia
 
 ## Humanitarian Organizations
 
-- Médecins Sans Frontières (Doctors Without Borders)  
-- United Nations Office for the Coordination of Humanitarian Affairs  
-- World Food Programme  
-- UNICEF  
+- Médecins Sans Frontières (Doctors Without Borders)
+- United Nations Office for the Coordination of Humanitarian Affairs
+- World Food Programme
+- UNICEF
 
 ## Advocacy and Awareness Organizations
 
@@ -439,13 +459,13 @@ Information in this project is compiled from investigations and reports by inter
 
 ## Investigative Journalism
 
-- BBC Investigations  
+- BBC Investigations
 - CNN Investigations
 - Martin Plaut (Journalist specialising in the Horn of Africa and Southern Africa)
 
 ## Academic Research
 
-- Ghent University conflict research  
+- Ghent University conflict research
 - Uppsala Conflict Data Program
 
 ## Regional Sources
