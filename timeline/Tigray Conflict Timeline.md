@@ -481,8 +481,7 @@ Information in this project is compiled from investigations and reports by inter
 
 ## Regional Sources
 
-- Borkena - Debretsion Mekelle Rally Speech
-- https://borkena.com/2018/07/28/we-live-together-with-respect-or-disintegrate-debretsion-at-mekelle-rally/
+- Borkena - [Debretsion Mekelle Rally Speech](https://borkena.com/2018/07/28/we-live-together-with-respect-or-disintegrate-debretsion-at-mekelle-rally/)
 
 ---
 
