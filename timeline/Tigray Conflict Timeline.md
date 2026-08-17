@@ -399,7 +399,8 @@ Why did the Federal Government Attack TDF in Shererina?
 
 _**Sources**_
 
-**Martin Plaut** - Shererina, West Tigray: The Test That Proved Ethiopia’s Prosperity Party Narrative Wrong
+**Martin Plaut** 
+  - [Shererina, West Tigray: The Test That Proved Ethiopia’s Prosperity Party Narrative Wrong](https://martinplaut.com/2026/08/10/shererina-west-tigray-the-test-that-proved-ethiopias-prosperity-party-narrative-wrong/)
 
 ---
 
@@ -417,7 +418,8 @@ The Ethiopian military used Turkish drones carrying 12 bombs a source told BBC.
 
 _**Sources**_
 
-**BBC** - Ethiopia drone strike in north kills three, Tigray sources say
+**BBC** 
+  - [Ethiopia drone strike in north kills three, Tigray sources say](https://www.bbc.com/news/articles/c24m8ge0qnpo)
 
 ---
 
