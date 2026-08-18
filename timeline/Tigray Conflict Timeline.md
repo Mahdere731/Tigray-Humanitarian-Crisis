@@ -196,6 +196,7 @@ _**Sources:**_
 
 **CNN - [‘Two bullets is enough’](https://www.cnn.com/2021/04/01/africa/tigray-mahibere-dego-massacre-video-cmd-intl)**
 ---
+
 **[Ethiopia dismisses evidence of war crimes verified by CNN investigation](https://www.cnn.com/2021/04/02/africa/tigray-soldier-massacre-ethiopia-response-intl)**
 ---
 
@@ -204,6 +205,7 @@ _**Sources:**_
 
 **The Telegraph - ['You should have finished off the survivors': Ethiopian army implicated in brutal war crime video](https://www.telegraph.co.uk/news/2021/02/19/should-have-finished-survivors-ethiopian-army-implicated-brutal/)**
 ---
+
 **[Ethiopia vows to investigate 'extremely savage act' as footage shows man burned alive: In a rare admission of potential guilt, Ethiopia said it would look into an reported attack by soldiers condemned as 'Stone Age savagery'](https://www.telegraph.co.uk/global-health/terror-and-security/ethiopia-vows-investigate-extremely-savage-act-footage-shows/)**
 ---
 
@@ -215,6 +217,7 @@ _**Sources:**_
 
 **Human Rights Watch - [Ethiopia: Ethnic Tigrayans Forcibly Disappeared: Discriminatory Arrests, Detentions, Business Closures in Addis Ababa](https://www.hrw.org/news/2021/08/18/ethiopia-ethnic-tigrayans-forcibly-disappeared)**
 ---
+
 **[Ethiopia: Persecution of Tigrayans Unrelenting: Rights Abusers Still in Power in Western Tigray; Returns Unsafe](https://www.hrw.org/news/2026/04/22/ethiopia-persecution-of-tigrayans-unrelenting)**
 ---
 
