@@ -434,6 +434,25 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 - [Senior Ethiopian diplomat in US resigns citing Tigray conflict](https://english.alarabiya.net/News/world/2021/03/10/Senior-Ethiopian-diplomat-in-US-resigns-citing-Tigray-conflict)
 
+- [https://aljazeera.com/news/2020/10/7/ethiopia-parliament-votes-to-cut-ties-with-tigray-region-leaders](https://aljazeera.com/news/2020/10/7/ethiopia-parliament-votes-to-cut-ties-with-tigray-region-leaders)
+- [https://aljazeera.com/news/2021/1/13/ethiopia-says-former-foreign-minister-killed-by-military](https://aljazeera.com/news/2021/1/13/ethiopia-says-former-foreign-minister-killed-by-military)
+- [https://aljazeera.com/news/2021/2/26/killings-in-axum-by-eritrea-may-amount-to-war-crimes-amnesty](https://aljazeera.com/news/2021/2/26/killings-in-axum-by-eritrea-may-amount-to-war-crimes-amnesty)
+- [https://aljazeera.com/news/2021/4/17/eritrea-confirms-its-troops-are-fighting-ethiopias-tigray](https://aljazeera.com/news/2021/4/17/eritrea-confirms-its-troops-are-fighting-ethiopias-tigray)
+- [https://aljazeera.com/news/2021/6/23/airstrike-kills-dozens-in-ethiopias-tigray-region-say-witnesses](https://aljazeera.com/news/2021/6/23/airstrike-kills-dozens-in-ethiopias-tigray-region-say-witnesses)
+- [https://bbc.com/news/articles/c74vpdnj301o](https://bbc.com/news/articles/c74vpdnj301o)
+- [https://bbc.com/news/world-africa-53807187](https://bbc.com/news/world-africa-53807187)
+- [https://bbc.com/news/world-africa-55295650](https://bbc.com/news/world-africa-55295650)
+- [https://bbc.com/news/world-africa-56198469](https://bbc.com/news/world-africa-56198469)
+- [https://bbc.com/news/world-africa-59288744](https://bbc.com/news/world-africa-59288744)
+- [https://dw.com/en/ethiopian-forces-burned-tigrayan-man-alive-says-ehrc-rights-body/a-61112671](https://dw.com/en/ethiopian-forces-burned-tigrayan-man-alive-says-ehrc-rights-body/a-61112671)
+- [https://france24.com/en/africa/20210623-dozens-killed-after-air-strike-on-market-in-ethiopia-s-tigray-region](https://france24.com/en/africa/20210623-dozens-killed-after-air-strike-on-market-in-ethiopia-s-tigray-region)
+- [https://theafricareport.com/104783/ethiopia-mekele-takeover-proves-abiy-has-little-control-in-tigray](https://theafricareport.com/104783/ethiopia-mekele-takeover-proves-abiy-has-little-control-in-tigray)
+- [https://theguardian.com/global-development/2020/dec/21/slaughtered-like-chickens-eritrea-heavily-involved-in-tigray-conflict-say-eyewitnesses](https://theguardian.com/global-development/2020/dec/21/slaughtered-like-chickens-eritrea-heavily-involved-in-tigray-conflict-say-eyewitnesses)
+- [https://theguardian.com/global-development/2024/nov/07/ethiopia-justice-tigray-atrocities-crimes-violence](https://theguardian.com/global-development/2024/nov/07/ethiopia-justice-tigray-atrocities-crimes-violence)
+- [https://theguardian.com/world/2020/dec/08/diplomats-back-claims-eritrean-troops-have-joined-ethiopia-conflict](https://theguardian.com/world/2020/dec/08/diplomats-back-claims-eritrean-troops-have-joined-ethiopia-conflict)
+- [https://theguardian.com/world/2021/feb/26/hundreds-died-in-axum-massacre-during-tigray-war-says-amnesty](https://theguardian.com/world/2021/feb/26/hundreds-died-in-axum-massacre-during-tigray-war-says-amnesty)
+- [https://theguardian.com/world/2022/mar/15/video-of-armed-men-burning-man-alive-in-western-ethiopia-sparks-outrage](https://theguardian.com/world/2022/mar/15/video-of-armed-men-burning-man-alive-in-western-ethiopia-sparks-outrage)
+
 ---
 
 ## Podcasts & Multimedia
@@ -441,6 +460,9 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 **The Daily (The New York Times)**
 
 - [The War in Tigray](https://www.nytimes.com/2021/06/16/podcasts/the-daily/ethiopia-tigray.html)
+
+- [https://nytimes.com/2020/09/10/world/africa/ethiopia-tigray-elections-abiy-crisis.html](https://nytimes.com/2020/09/10/world/africa/ethiopia-tigray-elections-abiy-crisis.html)
+- [https://nytimes.com/2021/07/11/world/africa/tigray-guerrilla-fighers-ethiopia-army.html](https://nytimes.com/2021/07/11/world/africa/tigray-guerrilla-fighers-ethiopia-army.html)
 
 ---
 
@@ -517,6 +539,13 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 - [Crimes Against Humanity in Western Tigray Zone (2022)](https://www.amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone)
 
+- [https://amnesty.org/en/documents/afr25/4569/2021/en](https://amnesty.org/en/documents/afr25/4569/2021/en)
+- [https://amnesty.org/en/latest/news/2021/08/ethiopia-troops-and-militia-rape-abduct-women-and-girls-in-tigray-conflict-new-report](https://amnesty.org/en/latest/news/2021/08/ethiopia-troops-and-militia-rape-abduct-women-and-girls-in-tigray-conflict-new-report)
+- [https://hrw.org/news/2021/03/05/ethiopia-eritrean-forces-massacre-tigray-civilians](https://hrw.org/news/2021/03/05/ethiopia-eritrean-forces-massacre-tigray-civilians)
+- [https://hrw.org/news/2021/05/12/ethiopias-axum-findings-ignore-massacre-civilians](https://hrw.org/news/2021/05/12/ethiopias-axum-findings-ignore-massacre-civilians)
+- [https://hrw.org/news/2021/08/18/ethiopia-ethnic-tigrayans-forcibly-disappeared](https://hrw.org/news/2021/08/18/ethiopia-ethnic-tigrayans-forcibly-disappeared)
+- [https://hrw.org/news/2026/04/22/ethiopia-persecution-of-tigrayans-unrelenting](https://hrw.org/news/2026/04/22/ethiopia-persecution-of-tigrayans-unrelenting)
+
 ---
 
 ## Repository Expansion
@@ -547,3 +576,28 @@ As this repository continues to develop, additional resources may be incorporate
 This reference library is designed to be an ever-changing archive. New reports, peer-reviewed articles, humanitarian evaluations, datasets, satellite image reviews, and investigative journalism will be added as they are available and the documentation will continue to grow along with the evolution of the situation.
 
 the goal is to have an organized, visible, and accessible collection of resources that can be used to help with research, education, humanitarian awareness, and historical documentation related to the humanitarian crisis in Tigray.
+
+## Uncategorized
+- [https://addisstandard.com/over-1700-idps-at-hitsats-center-in-tigray-in-critical-condition-amid-severe-hunger-lack-of-medical-care](https://addisstandard.com/over-1700-idps-at-hitsats-center-in-tigray-in-critical-condition-amid-severe-hunger-lack-of-medical-care)
+- [https://apnews.com/article/eritrea-ethiopia-massacres-kenya-a5c50540f673f7527d1f7cae9aa3c0da](https://apnews.com/article/eritrea-ethiopia-massacres-kenya-a5c50540f673f7527d1f7cae9aa3c0da)
+- [https://apnews.com/article/witnesses-recall-massacre-axum-ethiopia-fa1b531fea069aed6768409bd1d20bfa](https://apnews.com/article/witnesses-recall-massacre-axum-ethiopia-fa1b531fea069aed6768409bd1d20bfa)
+- [https://borkena.com/2018/07/28/we-live-together-with-respect-or-disintegrate-debretsion-at-mekelle-rally](https://borkena.com/2018/07/28/we-live-together-with-respect-or-disintegrate-debretsion-at-mekelle-rally)
+- [https://cnn.com/2021/04/01/africa/tigray-mahibere-dego-massacre-video-cmd-intl](https://cnn.com/2021/04/01/africa/tigray-mahibere-dego-massacre-video-cmd-intl)
+- [https://cnn.com/2021/04/02/africa/tigray-soldier-massacre-ethiopia-response-intl](https://cnn.com/2021/04/02/africa/tigray-soldier-massacre-ethiopia-response-intl)
+- [https://cnn.com/2021/11/08/africa/ethiopia-detentions-ethnicity-rights-commission-intl](https://cnn.com/2021/11/08/africa/ethiopia-detentions-ethnicity-rights-commission-intl)
+- [https://dailymail.com/news/article-9430671/Horrifying-video-shows-Tigray-men-shot-massacre-carried-Ethiopian-troops.html](https://dailymail.com/news/article-9430671/Horrifying-video-shows-Tigray-men-shot-massacre-carried-Ethiopian-troops.html)
+- [https://economist.com/middle-east-and-africa/2021/07/01/tigrayan-forces-have-routed-the-ethiopian-army](https://economist.com/middle-east-and-africa/2021/07/01/tigrayan-forces-have-routed-the-ethiopian-army)
+- [https://reuters.com/investigates/special-report/ethiopia-conflict-prisoners](https://reuters.com/investigates/special-report/ethiopia-conflict-prisoners)
+- [https://reuters.com/world/africa/death-toll-tigray-air-strike-over-50-health-official-says-2021-06-24](https://reuters.com/world/africa/death-toll-tigray-air-strike-over-50-health-official-says-2021-06-24)
+- [https://reuters.com/world/africa/ethiopias-military-spokesman-says-only-combatants-hit-air-strike-tigray-region-2021-06-24](https://reuters.com/world/africa/ethiopias-military-spokesman-says-only-combatants-hit-air-strike-tigray-region-2021-06-24)
+- [https://reuters.com/world/africa/witness-airstrike-kills-dozens-ethiopias-tigray-region-2021-06-23](https://reuters.com/world/africa/witness-airstrike-kills-dozens-ethiopias-tigray-region-2021-06-23)
+- [https://reuters.com/world/ethiopia-sends-army-into-tigray-region-heavy-fighting-reported-2020-11-04](https://reuters.com/world/ethiopia-sends-army-into-tigray-region-heavy-fighting-reported-2020-11-04)
+- [https://reuters.com/world/ethiopias-tigray-holds-regional-election-defiance-federal-government-2020-09-09](https://reuters.com/world/ethiopias-tigray-holds-regional-election-defiance-federal-government-2020-09-09)
+- [https://reuters.com/world/exclusive-us-thinks-eritrea-has-joined-ethiopian-war-diplomats-say-2020-12-11](https://reuters.com/world/exclusive-us-thinks-eritrea-has-joined-ethiopian-war-diplomats-say-2020-12-11)
+- [https://telegraph.co.uk/global-health/terror-and-security/ethiopia-vows-investigate-extremely-savage-act-footage-shows](https://telegraph.co.uk/global-health/terror-and-security/ethiopia-vows-investigate-extremely-savage-act-footage-shows)
+- [https://telegraph.co.uk/news/2021/02/19/should-have-finished-survivors-ethiopian-army-implicated-brutal](https://telegraph.co.uk/news/2021/02/19/should-have-finished-survivors-ethiopian-army-implicated-brutal)
+- [https://thesentry.org/2025/06/30/80762/new-investigative-report-eritrean-leaders-orchestrated-industrial-scale-looting-operations-in-tigray-alongside-atrocities](https://thesentry.org/2025/06/30/80762/new-investigative-report-eritrean-leaders-orchestrated-industrial-scale-looting-operations-in-tigray-alongside-atrocities)
+- [https://washingtonpost.com/world/2021/06/23/ethiopia-tigray-airstrikes](https://washingtonpost.com/world/2021/06/23/ethiopia-tigray-airstrikes)
+- [https://worldpeacefoundation.org/blog/in-memoriam-seyoum-mesfin-ethiopian-peacemaker-and-patriot](https://worldpeacefoundation.org/blog/in-memoriam-seyoum-mesfin-ethiopian-peacemaker-and-patriot)
+
+

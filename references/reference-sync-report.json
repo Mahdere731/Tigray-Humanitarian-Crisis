@@ -1,0 +1,21 @@
+{
+  "generated_at_utc": "2026-08-18T20:03:31.770936+00:00",
+  "repository_root": "/home/runner/work/Tigray-Humanitarian-Crisis/Tigray-Humanitarian-Crisis",
+  "references_file": "/home/runner/work/Tigray-Humanitarian-Crisis/Tigray-Humanitarian-Crisis/references/Reference-Library.md",
+  "total_references_found": 144,
+  "already_present": 144,
+  "added": 0,
+  "skipped_duplicates": 79,
+  "uncategorized_unknown": 0,
+  "malformed_urls": [
+    "https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey.svg"
+  ],
+  "scanned_markdown_files": [
+    "README.md",
+    "references/Reference-Library.md",
+    "reports/Tigray_Humanitarian_Assessment_and_Sources/Tigray_Assessment_Analysis.md",
+    "timeline/Tigray Conflict Timeline.md"
+  ],
+  "added_by_category": {},
+  "modified_references_file": false
+}
