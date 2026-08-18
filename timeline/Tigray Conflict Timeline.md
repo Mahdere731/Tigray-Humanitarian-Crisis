@@ -70,6 +70,9 @@ The Tigray War began in November 2020 when fighting broke out between the Ethiop
 
 The conflict quickly escalated into a large-scale humanitarian crisis affecting millions of civilians.
 
+**Reuters - [Ethiopia sends army into Tigray region, heavy fighting reported](https://www.reuters.com/world/ethiopia-sends-army-into-tigray-region-heavy-fighting-reported-2020-11-04/)**
+---
+
 ---
 
 ## November 9–10, 2020 – Mai Kadra Massacre
@@ -179,8 +182,7 @@ After completing their investigations, both independent journalists and human ri
 
 Aside from the obvious, there was also evidence from the video of conversations between members of the military as well as from some soldiers who encouraged others to **“finish off the survivors”** before they completed the execution.
 
-In addition to videos that were widely shared in terms of with specific actions, some videos circulated during the first months of the war depicted combatants engaged in acts of extreme violence (including extreme violence against civilians and detainees).
-One particularly disturbing video which appeared on social media showed a group of soldiers (allegedly Ethiopian federal troops) filming themselves **setting fire to a detainee (Tigrayan civilian) and laughing and ridiculing during the course of the act**. The soldiers filmed themselves joking and referring to the victim in derogatory terms while continuing to record the act.
+In addition to videos that were widely shared in terms of with specific actions, some videos circulated during the first months of the war depicted combatants engaged in acts of extreme violence (including extreme violence against civilians and detainees). One particularly disturbing video which appeared on social media showed a group of soldiers (allegedly Ethiopian federal troops) filming themselves **setting fire to a detainee (Tigrayan civilian) and laughing and ridiculing during the course of the act**. The soldiers filmed themselves joking and referring to the victim in derogatory terms while continuing to record the act.
 
 The same soldiers filmed themselves in a celebratory manner after killing, made disparaging comments about Tigrayans, filmed the aftermath of acts of violence, posed beside bodies of dead victims, and were seen making inflammatory and derogatory statements while stepping on a **Tigray regional flag** while recording themselves in active conflict zones.
 
@@ -261,8 +263,14 @@ The death of Seyoum Mesfin drew reactions from diplomats and political leaders i
 
 _**Sources:**_
 
-- international media reporting on the death of Seyoum Mesfin
-- diplomatic reactions reported in international news coverage
+**Al Jazeera - [Tigray: Ethiopian army kills ex-Foreign Minister Seyoum Mesfin](https://www.aljazeera.com/news/2021/1/13/ethiopia-says-former-foreign-minister-killed-by-military)**
+---
+
+**World Peace Foundation - [In Memoriam: Seyoum Mesfin, Ethiopian Peacemaker and Patriot](https://worldpeacefoundation.org/blog/in-memoriam-seyoum-mesfin-ethiopian-peacemaker-and-patriot/)**
+---
+
+**BBC - [Ethiopia's Tigray crisis: What a blind man's death reveals](https://www.bbc.com/news/world-africa-55832712)**
+---
 
 ---
 
