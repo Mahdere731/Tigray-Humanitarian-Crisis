@@ -57,7 +57,50 @@ maps/
     ├── Tigray_Health_Facilities_Operational.png
     ├── Tigray_IDP_Distribution.png
     └── Tigray_Medical_Needs.png
+scripts/
+└── sync_references.py
 ```
+
+## Automated Reference Sync
+
+The repository includes a deterministic Python sync utility that scans in-repo Markdown content for article URLs and appends any missing references to the reference library.
+
+- Script: `scripts/sync_references.py`
+- Primary library target: `references/Reference-Library.md`
+- Machine-readable report: `references/reference-sync-report.json`
+- Workflow: `.github/workflows/sync-references.yml`
+
+### How it works
+
+1. Scans all `.md` and `.markdown` files in the repository.
+2. Extracts URLs from Markdown and plain-text links.
+3. Normalizes URLs for deduplication (lowercased host, strips tracking query params, trims trailing slashes, removes fragments).
+4. Compares extracted URLs to URLs already present under `references/`.
+5. Adds only missing URLs to the inferred category in `references/Reference-Library.md`.
+6. If no deterministic category is available, appends entries to `## Uncategorized`.
+7. Writes a JSON report with totals for found, already present, added, duplicates skipped, and uncategorized links.
+
+### Category determination
+
+Categories are inferred from the existing `Reference-Library.md` structure by mapping source domains already present in each section. New URLs are placed based on that domain-to-section mapping. No network calls are used.
+
+### Run locally
+
+```bash
+python scripts/sync_references.py
+```
+
+Optional dry run:
+
+```bash
+python scripts/sync_references.py --dry-run
+```
+
+### Safety behavior
+
+- Never deletes existing reference files.
+- Only appends missing references.
+- Malformed/unsupported URLs are skipped and listed in the JSON report.
 
 ## Hitsats IDP Center Crisis
 
