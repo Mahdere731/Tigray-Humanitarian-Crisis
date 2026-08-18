@@ -143,11 +143,13 @@ _**Sources:**_
 
 **Human Rights Watch - [Ethiopia: Eritrean Forces Massacre Tigray Civilians](https://www.hrw.org/news/2021/03/05/ethiopia-eritrean-forces-massacre-tigray-civilians)**
 ---
+
 **[Ethiopia’s Axum Findings Ignore Massacre of Civilians](https://www.hrw.org/news/2021/05/12/ethiopias-axum-findings-ignore-massacre-civilians)**
 ---
 
 **BBC - [Ethiopia's Tigray crisis: How a massacre in the sacred city of Aksum unfolded](https://www.bbc.com/news/world-africa-56198469)**
 ---
+
 [Ethiopia PM hits out at Eritrea over atrocities in Tigray](https://www.bbc.com/news/articles/c74vpdnj301o)
 ---
 
@@ -157,11 +159,13 @@ Amnesty says in new report that hundreds of civilians were killed by Eritrean tr
 
 **AP News - [Amnesty report describes Axum massacre in Ethiopia’s Tigray](https://apnews.com/article/eritrea-ethiopia-massacres-kenya-a5c50540f673f7527d1f7cae9aa3c0da)
 ---
+
 [‘Horrible': Witnesses recall massacre in Ethiopian holy city](https://apnews.com/article/witnesses-recall-massacre-axum-ethiopia-fa1b531fea069aed6768409bd1d20bfa)
 ---
 
 **The Guardian - [Hundreds died in Axum massacre during Tigray war, says Amnesty](https://www.theguardian.com/world/2021/feb/26/hundreds-died-in-axum-massacre-during-tigray-war-says-amnesty)**
 ---
+
 **[Rounded up, massacred and posted on social media: can Ethiopia bring justice for atrocities in Tigray?](https://www.theguardian.com/global-development/2024/nov/07/ethiopia-justice-tigray-atrocities-crimes-violence)**
 ---
 
