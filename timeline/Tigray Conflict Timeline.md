@@ -194,10 +194,35 @@ These recorded incidents of violence were not isolated events. Investigations la
 
 _**Sources:**_
 
-- CNN Investigation: _Analysis of massacre video raises questions for Ethiopian Army_ (Mahibere Dego)
-- The Telegraph investigation into execution footage involving Ethiopian soldiers
-- Human Rights Watch reporting on abuses during the Tigray conflict
-- Amnesty International investigations into civilian killings in Tigray
+**CNN - [‘Two bullets is enough’](https://www.cnn.com/2021/04/01/africa/tigray-mahibere-dego-massacre-video-cmd-intl)**
+---
+**[Ethiopia dismisses evidence of war crimes verified by CNN investigation](https://www.cnn.com/2021/04/02/africa/tigray-soldier-massacre-ethiopia-response-intl)**
+---
+
+**Daily Mail - [Horrifying video shows men being led away and shot in the back of the head during Tigray massacre 'carried out by Ethiopian troops'](https://www.dailymail.com/news/article-9430671/Horrifying-video-shows-Tigray-men-shot-massacre-carried-Ethiopian-troops.html)**
+---
+
+**The Telegraph - ['You should have finished off the survivors': Ethiopian army implicated in brutal war crime video](https://www.telegraph.co.uk/news/2021/02/19/should-have-finished-survivors-ethiopian-army-implicated-brutal/)**
+---
+**[Ethiopia vows to investigate 'extremely savage act' as footage shows man burned alive: In a rare admission of potential guilt, Ethiopia said it would look into an reported attack by soldiers condemned as 'Stone Age savagery'](https://www.telegraph.co.uk/global-health/terror-and-security/ethiopia-vows-investigate-extremely-savage-act-footage-shows/)**
+---
+
+**Deutsche Welle - [Ethiopian forces burned Tigrayan man alive — EHRC](https://www.dw.com/en/ethiopian-forces-burned-tigrayan-man-alive-says-ehrc-rights-body/a-61112671)**
+---
+
+**The Guardian - [Video of armed men burning man alive in western Ethiopia sparks outrage: Eleven people, including nine ethnic Tigrayans, were killed on 3 March in the Benishangul-Gumuz region](https://www.theguardian.com/world/2022/mar/15/video-of-armed-men-burning-man-alive-in-western-ethiopia-sparks-outrage)**
+---
+
+**Human Rights Watch - [Ethiopia: Ethnic Tigrayans Forcibly Disappeared: Discriminatory Arrests, Detentions, Business Closures in Addis Ababa](https://www.hrw.org/news/2021/08/18/ethiopia-ethnic-tigrayans-forcibly-disappeared)**
+---
+**[Ethiopia: Persecution of Tigrayans Unrelenting: Rights Abusers Still in Power in Western Tigray; Returns Unsafe](https://www.hrw.org/news/2026/04/22/ethiopia-persecution-of-tigrayans-unrelenting)**
+---
+
+**CNN - [Young mother and elderly priest among Tigrayans arrested in Addis Ababa, witnesses say](https://www.cnn.com/2021/11/08/africa/ethiopia-detentions-ethnicity-rights-commission-intl)**
+---
+
+**Reuters - [In Ethiopia’s civil war, thousands of jailed Tigrayans endured squalor](https://www.reuters.com/investigates/special-report/ethiopia-conflict-prisoners/)**
+---
 
 ---
 
