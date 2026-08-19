@@ -167,6 +167,17 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 
 - [Scars of War and Renewed Risks for Women in Tigray](https://www.refugeesinternational.org/events-and-testimony/scars-of-war-and-renewed-risks-for-women-in-tigray/)
 
+- [https://amnesty.org/en/documents/afr25/4569/2021/en](https://amnesty.org/en/documents/afr25/4569/2021/en)
+- [https://amnesty.org/en/latest/news/2021/08/ethiopia-troops-and-militia-rape-abduct-women-and-girls-in-tigray-conflict-new-report](https://amnesty.org/en/latest/news/2021/08/ethiopia-troops-and-militia-rape-abduct-women-and-girls-in-tigray-conflict-new-report)
+- [https://amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone](https://amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone)
+- [https://hrw.org/news/2021/03/05/ethiopia-eritrean-forces-massacre-tigray-civilians](https://hrw.org/news/2021/03/05/ethiopia-eritrean-forces-massacre-tigray-civilians)
+- [https://hrw.org/news/2021/05/12/ethiopias-axum-findings-ignore-massacre-civilians](https://hrw.org/news/2021/05/12/ethiopias-axum-findings-ignore-massacre-civilians)
+- [https://hrw.org/news/2021/08/18/ethiopia-ethnic-tigrayans-forcibly-disappeared](https://hrw.org/news/2021/08/18/ethiopia-ethnic-tigrayans-forcibly-disappeared)
+- [https://hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone](https://hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone)
+- [https://hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce](https://hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce)
+- [https://hrw.org/news/2026/04/22/ethiopia-persecution-of-tigrayans-unrelenting](https://hrw.org/news/2026/04/22/ethiopia-persecution-of-tigrayans-unrelenting)
+- [https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis](https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis)
+
 ---
 
 ## Maps, GIS & Satellite Analysis
@@ -282,6 +293,23 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 - [Ethiopia: Who is Tigray's leader Debretsion Gebremichael?](https://www.dw.com/en/ethiopia-who-is-tigrays-leader-debretsion-gebremichael/a-55744873)
 
+- [https://aljazeera.com/news/2020/10/7/ethiopia-parliament-votes-to-cut-ties-with-tigray-region-leaders](https://aljazeera.com/news/2020/10/7/ethiopia-parliament-votes-to-cut-ties-with-tigray-region-leaders)
+- [https://aljazeera.com/news/2021/1/13/ethiopia-says-former-foreign-minister-killed-by-military](https://aljazeera.com/news/2021/1/13/ethiopia-says-former-foreign-minister-killed-by-military)
+- [https://aljazeera.com/news/2021/2/26/killings-in-axum-by-eritrea-may-amount-to-war-crimes-amnesty](https://aljazeera.com/news/2021/2/26/killings-in-axum-by-eritrea-may-amount-to-war-crimes-amnesty)
+- [https://aljazeera.com/news/2021/4/17/eritrea-confirms-its-troops-are-fighting-ethiopias-tigray](https://aljazeera.com/news/2021/4/17/eritrea-confirms-its-troops-are-fighting-ethiopias-tigray)
+- [https://aljazeera.com/news/2021/6/23/airstrike-kills-dozens-in-ethiopias-tigray-region-say-witnesses](https://aljazeera.com/news/2021/6/23/airstrike-kills-dozens-in-ethiopias-tigray-region-say-witnesses)
+- [https://bbc.com/news/articles/c74vpdnj301o](https://bbc.com/news/articles/c74vpdnj301o)
+- [https://bbc.com/news/world-africa-53807187](https://bbc.com/news/world-africa-53807187)
+- [https://bbc.com/news/world-africa-55295650](https://bbc.com/news/world-africa-55295650)
+- [https://bbc.com/news/world-africa-56198469](https://bbc.com/news/world-africa-56198469)
+- [https://bbc.com/news/world-africa-59288744](https://bbc.com/news/world-africa-59288744)
+- [https://dw.com/en/ethiopian-forces-burned-tigrayan-man-alive-says-ehrc-rights-body/a-61112671](https://dw.com/en/ethiopian-forces-burned-tigrayan-man-alive-says-ehrc-rights-body/a-61112671)
+- [https://theguardian.com/global-development/2020/dec/21/slaughtered-like-chickens-eritrea-heavily-involved-in-tigray-conflict-say-eyewitnesses](https://theguardian.com/global-development/2020/dec/21/slaughtered-like-chickens-eritrea-heavily-involved-in-tigray-conflict-say-eyewitnesses)
+- [https://theguardian.com/global-development/2024/nov/07/ethiopia-justice-tigray-atrocities-crimes-violence](https://theguardian.com/global-development/2024/nov/07/ethiopia-justice-tigray-atrocities-crimes-violence)
+- [https://theguardian.com/world/2020/dec/08/diplomats-back-claims-eritrean-troops-have-joined-ethiopia-conflict](https://theguardian.com/world/2020/dec/08/diplomats-back-claims-eritrean-troops-have-joined-ethiopia-conflict)
+- [https://theguardian.com/world/2021/feb/26/hundreds-died-in-axum-massacre-during-tigray-war-says-amnesty](https://theguardian.com/world/2021/feb/26/hundreds-died-in-axum-massacre-during-tigray-war-says-amnesty)
+- [https://theguardian.com/world/2022/mar/15/video-of-armed-men-burning-man-alive-in-western-ethiopia-sparks-outrage](https://theguardian.com/world/2022/mar/15/video-of-armed-men-burning-man-alive-in-western-ethiopia-sparks-outrage)
+
 ---
 
 ## Podcasts & Multimedia
@@ -396,4 +424,11 @@ Below are the previously uncategorized links from the repository, grouped first 
   - https://worldpeacefoundation.org/blog/in-memoriam-seyoum-mesfin-ethiopian-peacemaker-and-patriot
 
 ---
+
+## Uncategorized
+- [https://france24.com/en/africa/20210623-dozens-killed-after-air-strike-on-market-in-ethiopia-s-tigray-region](https://france24.com/en/africa/20210623-dozens-killed-after-air-strike-on-market-in-ethiopia-s-tigray-region)
+- [https://martinplaut.com/2026/08/10/shererina-west-tigray-the-test-that-proved-ethiopias-prosperity-party-narrative-wrong](https://martinplaut.com/2026/08/10/shererina-west-tigray-the-test-that-proved-ethiopias-prosperity-party-narrative-wrong)
+- [https://msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray](https://msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray)
+- [https://theafricareport.com/104783/ethiopia-mekele-takeover-proves-abiy-has-little-control-in-tigray](https://theafricareport.com/104783/ethiopia-mekele-takeover-proves-abiy-has-little-control-in-tigray)
+
 
