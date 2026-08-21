@@ -174,8 +174,8 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 
 **Humanitarian Outcomes**
 
-- [Humanitarian Access SCORE Report: Tigray, Ethiopia Survey on the Coverage, Operational Reach,
-  and Effectiveness of Humanitarian Aid](https://humanitarianoutcomes.org/sites/default/files/score/score_tigray_report_2021_v2.pdf)
+- [Humanitarian Access SCORE Report: Tigray, Ethiopia Survey on the Coverage, Operational Reach, and Effectiveness of Humanitarian Aid](https://humanitarianoutcomes.org/sites/default/files/score/score_tigray_report_2021_v2.pdf)
+  ---
 
 - [HUMANITARIAN ACCESS SCORE REPORT Ethiopia: Tigray](https://humanitarianoutcomes.org/projects/core/ethiopia-tigray)
 
