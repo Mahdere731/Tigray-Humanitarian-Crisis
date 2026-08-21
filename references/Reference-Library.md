@@ -184,7 +184,7 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 - [Ethiopia's Tigray Refugee Crisis Explained](https://www.unrefugees.org/news/ethiopias-tigray-refugee-crisis-explained/)
   ---
 
-- [BRIEFING NOTES: UNHCR reaches destroyed camps in northern Tigray](https://www.unhcr.org/us/news/briefing-notes/unhcr-reaches-destroyed-camps-northern-tigray)
+- [Briefing Notes: UNHCR reaches destroyed camps in northern Tigray](https://www.unhcr.org/us/news/briefing-notes/unhcr-reaches-destroyed-camps-northern-tigray)
   ===
 
 - [ETHIOPIA HUMANITARIAN CRISIS](https://www.unrefugees.org/emergencies/ethiopia/)
