@@ -151,6 +151,8 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 
 - [Awakening from the Shadow of War: Our Aid Efforts in the Tigray Region in Ethiopia](https://reliefweb.int/report/ethiopia/awakening-shadow-war-our-aid-efforts-tigray-region-ethiopia)
   ---
+- [HC–AI Statement on the Killing of 23 Aid Workers in Tigray Region Since Start of Crisis](https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis)
+  ---
 
 ---
 
@@ -217,13 +219,7 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 - [The Massacre in Axum](https://amnesty.org/en/documents/afr25/4569/2021/en)
   ---
 
-- [Ethiopia: Troops and Militia Rape, Abduct Women and Girls in Tigray Conflict – New Report](https://amnesty.org/en/latest/news/2021/08/ethiopia-troops-and-militia-rape-abduct-women-and-girls-in-tigray-conflict-new-report)
-  ---
-
 - [Ethiopia: Crimes Against Humanity in Western Tigray Zone](https://amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone)
-  ---
-
-- [HC–AI Statement on the Killing of 23 Aid Workers in Tigray Region Since Start of Crisis](https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis)
   ---
 
 ---
@@ -411,24 +407,7 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 - [Ethiopian Forces Burned Tigrayan Man Alive, Says EHRC Rights Body](https://dw.com/en/ethiopian-forces-burned-tigrayan-man-alive-says-ehrc-rights-body/a-61112671)
   ---
-
-- [https://aljazeera.com/news/2020/10/7/ethiopia-parliament-votes-to-cut-ties-with-tigray-region-leaders](https://aljazeera.com/news/2020/10/7/ethiopia-parliament-votes-to-cut-ties-with-tigray-region-leaders)
-- [https://aljazeera.com/news/2021/1/13/ethiopia-says-former-foreign-minister-killed-by-military](https://aljazeera.com/news/2021/1/13/ethiopia-says-former-foreign-minister-killed-by-military)
-- [https://aljazeera.com/news/2021/2/26/killings-in-axum-by-eritrea-may-amount-to-war-crimes-amnesty](https://aljazeera.com/news/2021/2/26/killings-in-axum-by-eritrea-may-amount-to-war-crimes-amnesty)
-- [https://aljazeera.com/news/2021/4/17/eritrea-confirms-its-troops-are-fighting-ethiopias-tigray](https://aljazeera.com/news/2021/4/17/eritrea-confirms-its-troops-are-fighting-ethiopias-tigray)
-- [https://aljazeera.com/news/2021/6/23/airstrike-kills-dozens-in-ethiopias-tigray-region-say-witnesses](https://aljazeera.com/news/2021/6/23/airstrike-kills-dozens-in-ethiopias-tigray-region-say-witnesses)
-- [https://bbc.com/news/articles/c74vpdnj301o](https://bbc.com/news/articles/c74vpdnj301o)
-- [https://bbc.com/news/world-africa-53807187](https://bbc.com/news/world-africa-53807187)
-- [https://bbc.com/news/world-africa-55295650](https://bbc.com/news/world-africa-55295650)
-- [https://bbc.com/news/world-africa-56198469](https://bbc.com/news/world-africa-56198469)
-- [https://bbc.com/news/world-africa-59288744](https://bbc.com/news/world-africa-59288744)
-- [https://dw.com/en/ethiopian-forces-burned-tigrayan-man-alive-says-ehrc-rights-body/a-61112671](https://dw.com/en/ethiopian-forces-burned-tigrayan-man-alive-says-ehrc-rights-body/a-61112671)
-- [https://theguardian.com/global-development/2020/dec/21/slaughtered-like-chickens-eritrea-heavily-involved-in-tigray-conflict-say-eyewitnesses](https://theguardian.com/global-development/2020/dec/21/slaughtered-like-chickens-eritrea-heavily-involved-in-tigray-conflict-say-eyewitnesses)
-- [https://theguardian.com/global-development/2024/nov/07/ethiopia-justice-tigray-atrocities-crimes-violence](https://theguardian.com/global-development/2024/nov/07/ethiopia-justice-tigray-atrocities-crimes-violence)
-- [https://theguardian.com/world/2020/dec/08/diplomats-back-claims-eritrean-troops-have-joined-ethiopia-conflict](https://theguardian.com/world/2020/dec/08/diplomats-back-claims-eritrean-troops-have-joined-ethiopia-conflict)
-- [https://theguardian.com/world/2021/feb/26/hundreds-died-in-axum-massacre-during-tigray-war-says-amnesty](https://theguardian.com/world/2021/feb/26/hundreds-died-in-axum-massacre-during-tigray-war-says-amnesty)
-- [https://theguardian.com/world/2022/mar/15/video-of-armed-men-burning-man-alive-in-western-ethiopia-sparks-outrage](https://theguardian.com/world/2022/mar/15/video-of-armed-men-burning-man-alive-in-western-ethiopia-sparks-outrage)
-
+  
 ---
 
 ## Podcasts & Multimedia
@@ -490,26 +469,46 @@ Below are the previously uncategorized links from the repository, grouped first 
 
 ### Massacres & Extrajudicial Killings
 
-- AP
-  - https://apnews.com/article/eritrea-ethiopia-massacres-kenya-a5c50540f673f7527d1f7cae9aa3c0da
-  - https://apnews.com/article/witnesses-recall-massacre-axum-ethiopia-fa1b531fea069aed6768409bd1d20bfa
+**AP**
+- [Eritrea, Ethiopia Massacres Reported in Kenya](https://apnews.com/article/eritrea-ethiopia-massacres-kenya-a5c50540f673f7527d1f7cae9aa3c0da)
+  ---
 
-- CNN
-  - https://cnn.com/2021/04/01/africa/tigray-mahibere-dego-massacre-video-cmd-intl
-  - https://cnn.com/2021/04/02/africa/tigray-soldier-massacre-ethiopia-response-intl
+- [Witnesses Recall Massacre in Axum, Ethiopia](https://apnews.com/article/witnesses-recall-massacre-axum-ethiopia-fa1b531fea069aed6768409bd1d20bfa)
+  ---
+  
+---
 
-- Daily Mail (video evidence reporting)
-  - https://dailymail.com/news/article-9430671/Horrifying-video-shows-Tigray-men-shot-massacre-carried-Ethiopian-troops.html
+**CNN**
+- [Tigray: Mahibere Dego Massacre Video Emerges](https://cnn.com/2021/04/01/africa/tigray-mahibere-dego-massacre-video-cmd-intl)
+  ---
+  
+- [Tigray Soldier Massacre: Ethiopia Responds to Video Evidence](https://cnn.com/2021/04/02/africa/tigray-soldier-massacre-ethiopia-response-intl)
+    ---
+  
+---
 
-- The Telegraph
-  - https://telegraph.co.uk/global-health/terror-and-security/ethiopia-vows-investigate-extremely-savage-act-footage-shows
-  - https://telegraph.co.uk/news/2021/02/19/should-have-finished-survivors-ethiopian-army-implicated-brutal
+**Daily Mail (video evidence reporting)**
+- [Horrifying Video Shows Tigray Men Shot in Massacre by Ethiopian Troops](https://dailymail.com/news/article-9430671/Horrifying-video-shows-Tigray-men-shot-massacre-carried-Ethiopian-troops.html)
+    ---
+
+---
+
+**The Telegraph**
+- [Ethiopia Vows to Investigate ‘Extremely Savage’ Act After Footage Emerges](https://telegraph.co.uk/global-health/terror-and-security/ethiopia-vows-investigate-extremely-savage-act-footage-show)
+  ---
+  
+- [‘Should Have Finished Him’: Survivors Say Ethiopian Army Implicated in Brutal Attack](https://telegraph.co.uk/news/2021/02/19/should-have-finished-survivors-ethiopian-army-implicated-brutal)
+  ---
+  
+---
 
 ### Airstrikes, Drone Strikes & Market Attacks
 
 - Reuters
   - https://reuters.com/world/africa/death-toll-tigray-air-strike-over-50-health-official-says-2021-06-24
+
   - https://reuters.com/world/africa/witness-airstrike-kills-dozens-ethiopias-tigray-region-2021-06-23
+
   - https://reuters.com/world/africa/ethiopias-military-spokesman-says-only-combatants-hit-air-strike-tigray-region-2021-06-24
 
 - Washington Post
