@@ -126,7 +126,7 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 
 ---
 
-**ReliefWeb**
+## ReliefWeb
 
 - [Who's counting?: Tigray's hidden mortality data crisis](https://reliefweb.int/report/ethiopia/whos-counting-tigrays-hidden-mortality-data-crisis)
   ---
@@ -137,8 +137,8 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 - [Ethiopia situation update (25 June 2025)](https://reliefweb.int/report/ethiopia/ethiopia-situation-update-25-june-2025)
   ---
 
-= [Unsafe and Overcrowded: The Shelter Crisis Facing Displaced Families in Tigray (April 2025)](https://reliefweb.int/report/ethiopia/unsafe-and-overcrowded-shelter-crisis-facing-displaced-famili[...])
----
+- [Unsafe and Overcrowded: The Shelter Crisis Facing Displaced Families in Tigray (April 2025)](https://reliefweb.int/report/ethiopia/unsafe-and-overcrowded-shelter-crisis-facing-displaced-famili[...])
+  ---
 
 - [Urgent Action Is Needed to Prevent Tigray from Sliding Back into War](https://reliefweb.int/report/ethiopia/urgent-action-needed-prevent-tigray-sliding-back-war)
   ---
