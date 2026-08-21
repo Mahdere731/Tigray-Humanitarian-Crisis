@@ -224,7 +224,7 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 
 - [Ethiopia: Troops and Militia Rape, Abduct Women and Girls in Tigray Conflict – New Report](https://amnesty.org/en/latest/news/2021/08/ethiopia-troops-and-militia-rape-abduct-women-and-girls-in-tigray-conflict-new-report)
   ---
-  
+
 ---
 
 ## Maps, GIS & Satellite Analysis
@@ -410,7 +410,7 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 - [Ethiopian Forces Burned Tigrayan Man Alive, Says EHRC Rights Body](https://dw.com/en/ethiopian-forces-burned-tigrayan-man-alive-says-ehrc-rights-body/a-61112671)
   ---
-  
+
 ---
 
 # Podcasts & Multimedia
@@ -473,82 +473,93 @@ Below are the previously uncategorized links from the repository, grouped first 
 # Massacres & Extrajudicial Killings
 
 ## **AP**
+
 - [Eritrea, Ethiopia Massacres Reported in Kenya](https://apnews.com/article/eritrea-ethiopia-massacres-kenya-a5c50540f673f7527d1f7cae9aa3c0da)
   ---
 
 - [Witnesses Recall Massacre in Axum, Ethiopia](https://apnews.com/article/witnesses-recall-massacre-axum-ethiopia-fa1b531fea069aed6768409bd1d20bfa)
   ---
-  
+
 ---
 
 ## **CNN**
+
 - [Tigray: Mahibere Dego Massacre Video Emerges](https://cnn.com/2021/04/01/africa/tigray-mahibere-dego-massacre-video-cmd-intl)
   ---
-  
+
 - [Tigray Soldier Massacre: Ethiopia Responds to Video Evidence](https://cnn.com/2021/04/02/africa/tigray-soldier-massacre-ethiopia-response-intl)
-    ---
-  
+  ---
+
 ---
 
 ## **Daily Mail (video evidence reporting)**
+
 - [Horrifying Video Shows Tigray Men Shot in Massacre by Ethiopian Troops](https://dailymail.com/news/article-9430671/Horrifying-video-shows-Tigray-men-shot-massacre-carried-Ethiopian-troops.html)
-    ---
+  ---
 
 ---
 
 ## **The Telegraph**
+
 - [Ethiopia Vows to Investigate ‘Extremely Savage’ Act After Footage Emerges](https://telegraph.co.uk/global-health/terror-and-security/ethiopia-vows-investigate-extremely-savage-act-footage-show)
   ---
-  
+
 - [‘Should Have Finished Him’: Survivors Say Ethiopian Army Implicated in Brutal Attack](https://telegraph.co.uk/news/2021/02/19/should-have-finished-survivors-ethiopian-army-implicated-brutal)
   ---
-  
+
 ---
 
 # Airstrikes, Drone Strikes & Market Attacks
 
 ## **Reuters**
-  - https://reuters.com/world/africa/death-toll-tigray-air-strike-over-50-health-official-says-2021-06-24
 
-  - https://reuters.com/world/africa/witness-airstrike-kills-dozens-ethiopias-tigray-region-2021-06-23
+- https://reuters.com/world/africa/death-toll-tigray-air-strike-over-50-health-official-says-2021-06-24
 
-  - https://reuters.com/world/africa/ethiopias-military-spokesman-says-only-combatants-hit-air-strike-tigray-region-2021-06-24
+- https://reuters.com/world/africa/witness-airstrike-kills-dozens-ethiopias-tigray-region-2021-06-23
+
+- https://reuters.com/world/africa/ethiopias-military-spokesman-says-only-combatants-hit-air-strike-tigray-region-2021-06-24
 
 ---
 
 ## **Washington Post**
-  - https://washingtonpost.com/world/2021/06/23/ethiopia-tigray-airstrikes
+
+- https://washingtonpost.com/world/2021/06/23/ethiopia-tigray-airstrikes
 
 ### Detentions, Prisons & Detainee Conditions
 
 ## **Reuters**
-  - https://reuters.com/investigates/special-report/ethiopia-conflict-prisoners
+
+- https://reuters.com/investigates/special-report/ethiopia-conflict-prisoners
 
 ---
 
 ## **CNN**
-  - https://cnn.com/2021/11/08/africa/ethiopia-detentions-ethnicity-rights-commission-intl
+
+- https://cnn.com/2021/11/08/africa/ethiopia-detentions-ethnicity-rights-commission-intl
 
 ---
 
 ### Political & Military Developments
 
 ## **Reuters**
-  - https://reuters.com/world/ethiopia-sends-army-into-tigray-region-heavy-fighting-reported-2020-11-04
-  
-  - https://reuters.com/world/ethiopias-tigray-holds-regional-election-defiance-federal-government-2020-09-09
-  
-  - https://reuters.com/world/exclusive-us-thinks-eritrea-has-joined-ethiopian-war-diplomats-say-2020-12-11
+
+- https://reuters.com/world/ethiopia-sends-army-into-tigray-region-heavy-fighting-reported-2020-11-04
+
+- https://reuters.com/world/ethiopias-tigray-holds-regional-election-defiance-federal-government-2020-09-09
+
+- https://reuters.com/world/exclusive-us-thinks-eritrea-has-joined-ethiopian-war-diplomats-say-2020-12-11
 
 ---
 
 ## **Economist**
-  - https://economist.com/middle-east-and-africa/2021/07/01/tigrayan-forces-have-routed-the-ethiopian-army
+
+- https://economist.com/middle-east-and-africa/2021/07/01/tigrayan-forces-have-routed-the-ethiopian-army
 
 # Analysis, Investigations & Commentary
 
 ## **The Sentry**
-  - https://thesentry.org/2025/06/30/80762/new-investigative-report-eritrean-leaders-orchestrated-industrial-scale-looting-operations-in-tigray-alongside-atrocities
+
+- https://thesentry.org/2025/06/30/80762/new-investigative-report-eritrean-leaders-orchestrated-industrial-scale-looting-operations-in-tigray-alongside-atrocities
 
 ---
 
