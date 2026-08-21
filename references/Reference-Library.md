@@ -34,14 +34,14 @@ The aim of this online resource library is to provide credible evidence document
 
 ---
 
-**Amnesty International**
+## **Amnesty International**
 
 - [Eritrean troops’ massacre of hundreds of Axum civilians may amount to crime against humanity](https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/)
   ---
 
 ---
 
-**Human Rights Watch**
+## **Human Rights Watch**
 
 - [Crimes against Humanity and Ethnic Cleansing in Ethiopia’s Western Tigray Zone: "We Will Erase You from This Land"](https://www.hrw.org/news/2022/04/06/crimes-against-humanity-and-ethnic-clea[...])
   ---
@@ -65,7 +65,7 @@ Ethiopia: Persecution of Tigrayans Unrelenting
 https://hrw.org/news/2026/04/22/ethiopia-persecution-of-tigrayans-unrelenting
 ---
 
-**Physicians for Human Rights**
+## **Physicians for Human Rights**
 
 - https://phr.org/countries/ethiopia/
 
@@ -77,7 +77,7 @@ https://hrw.org/news/2026/04/22/ethiopia-persecution-of-tigrayans-unrelenting
 
 ---
 
-**Omna Tigray**
+## **Omna Tigray**
 
 Omna Tigray is a global, nonpartisan nonprofit organization founded by international Tigrayan professionals in response to the war in Tigray
 
@@ -88,7 +88,7 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 
 ---
 
-**Médecins Sans Frontières (Doctors Without Borders)**
+## **Médecins Sans Frontières (Doctors Without Borders)**
 
 - [MSF internal review finds three staff members were deliberately targeted and killed in Tigray, Ethiopia in 2021](https://www.doctorswithoutborders.org/latest/ethiopia-msf-releases-findings-inte[...])
   ---
@@ -98,35 +98,35 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 
 ---
 
-**World Health Organization (WHO)**
+## **World Health Organization (WHO)**
 
 - [Crisis in Northern Ethipia](https://www.who.int/emergencies/situations/crisis-in-tigray-ethiopia)
   ---
 
 ---
 
-**UNICEF**
+## **UNICEF**
 
 - [At least 33,000 children in parts of Tigray, Ethiopia, at imminent risk of death as conflict increases famine threat](https://www.unicef.org/press-releases/least-33000-children-parts-tigray-eth[...])
   ---
 
 ---
 
-**World Food Programme (WFP)**
+## **World Food Programme (WFP)**
 
 - [WFP Delivers Food to Another 1 Million People in Tigray, but Is Only Reaching Half of Those It Should Be](https://www.wfp.org/countries/ethiopia)
   ---
 
 ---
 
-**United Nations Office for the Coordination of Humanitarian Affairs (OCHA)**
+## **United Nations Office for the Coordination of Humanitarian Affairs (OCHA)**
 
 - [Ethiopia](https://www.unocha.org/ethiopia)
   ---
 
 ---
 
-## ReliefWeb
+## **ReliefWeb**
 
 - [Who's counting?: Tigray's hidden mortality data crisis](https://reliefweb.int/report/ethiopia/whos-counting-tigrays-hidden-mortality-data-crisis)
   ---
@@ -156,7 +156,7 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 
 ---
 
-**International Committee of the Red Cross (ICRC)**
+## **International Committee of the Red Cross (ICRC)**
 
 - [Violence in Tigray - our response](https://www.icrc.org/en/document/violence-tigray-our-response)
   ---
@@ -169,14 +169,14 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 
 ---
 
-**International Organization for Migration (IOM)**
+## **International Organization for Migration (IOM)**
 
 - [TIGRAY REGION](https://ethiopia.iom.int/tigray-region)
   ---
 
 ---
 
-**United Nations High Commissioner for Refugees (UNHCR)**
+## **United Nations High Commissioner for Refugees (UNHCR)**
 
 - [EMERGENCY APPEAL: Ethiopia Tigray emergency](https://www.unhcr.org/africa/emergencies/ethiopia-tigray-emergency)
   ---
@@ -192,7 +192,7 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 
 ---
 
-**Humanitarian Outcomes**
+## **Humanitarian Outcomes**
 
 - [Humanitarian Access SCORE Report: Tigray, Ethiopia Survey on the Coverage, Operational Reach, and Effectiveness of Humanitarian Aid](https://humanitarianoutcomes.org/sites/default/files/score/score_tigray_report_2021_v2.pdf)
   ---
@@ -202,7 +202,7 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 
 ---
 
-**Refugees International**
+## **Refugees International**
 
 - [Scars of War and Deprivation: An Urgent Call to Reverse Tigray’s Humanitarian Crisis](https://www.refugeesinternational.org/reports-briefs/scars-of-war-and-deprivation-an-urgent-call-to-reve[...])
   ---
@@ -222,8 +222,9 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 - [Ethiopia: Crimes Against Humanity in Western Tigray Zone](https://amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone)
   ---
 
-- [https://amnesty.org/en/latest/news/2021/08/ethiopia-troops-and-militia-rape-abduct-women-and-girls-in-tigray-conflict-new-report](https://amnesty.org/en/latest/news/2021/08/ethiopia-troops-and-militia-rape-abduct-women-and-girls-in-tigray-conflict-new-report)
-
+- [Ethiopia: Troops and Militia Rape, Abduct Women and Girls in Tigray Conflict – New Report](https://amnesty.org/en/latest/news/2021/08/ethiopia-troops-and-militia-rape-abduct-women-and-girls-in-tigray-conflict-new-report)
+  ---
+  
 ---
 
 ## Maps, GIS & Satellite Analysis
@@ -303,16 +304,16 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 ---
 
-### World Bank Data
+## **World Bank Data**
 
 - [Geospatial, demographic, and socioeconomic datasets for Ethiopia](https://data.worldbank.org/country/ethiopia)
   ---
 
 ---
 
-## International News & Media
+# International News & Media
 
-**The Guardian**
+## **The Guardian**
 
 - [Young men take up arms in northern Ethiopia as atrocities fuel insurgency: Anger over violence that UN says could amount to war crimes drives recruitment in Tigray](https://www.theguardian.com[...])
   ---
@@ -345,7 +346,7 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 ---
 
-**BBC**
+## **BBC**
 
 - [Ethiopia drone strike in north kills three, Tigray sources say](https://www.bbc.com/news/articles/c24m8ge0qnpo)
   ---
@@ -373,7 +374,7 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 ---
 
-**Al Jazeera**
+## **Al Jazeera**
 
 - [‘Ethnic cleansing’: Ethiopian allies accused of Abala massacre](https://www.aljazeera.com/features/2022/2/25/calculated-ethnic-cleansing-ethiopian-allies-accused-of-killin)
   ---
@@ -395,14 +396,14 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 ---
 
-**Financial Times**
+## **Financial Times**
 
 - [Ethiopia ‘will be digging up mass graves for a decade’: inside Tigray’s dirty war](https://www.ft.com/content/23021d09-5dac-4ff5-b2a9-6b040ffdc6db)
   ---
 
 ---
 
-**Deutsche Welle (DW)**
+## **Deutsche Welle (DW)**
 
 - [Ethiopia: Who is Tigray's leader Debretsion Gebremichael?](https://www.dw.com/en/ethiopia-who-is-tigrays-leader-debretsion-gebremichael/a-55744873)
   ---
@@ -412,9 +413,9 @@ This section contains geospatial resources, humanitarian mapping projects, confl
   
 ---
 
-## Podcasts & Multimedia
+# Podcasts & Multimedia
 
-**The Daily (The New York Times)**
+## **The Daily (The New York Times)**
 
 - [The War in Tigray](https://www.nytimes.com/2021/06/16/podcasts/the-daily/ethiopia-tigray.html)
   ---
@@ -427,9 +428,9 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 ---
 
-## Genocide Classification & Legal Findings (2021–2024)
+# Genocide Classification & Legal Findings (2021–2024)
 
-**The New Humanitarian**
+## **The New Humanitarian**
 
 - [Ethiopian forces and backers committed genocide in Tigray, report finds.” (2024)](https://www.thenewhumanitarian.org/news/2024/06/04/ethiopian-forces-and-backers-committed-genocide-tigray)
   ---
@@ -469,9 +470,9 @@ the goal is to have an organized, visible, and accessible collection of resource
 
 Below are the previously uncategorized links from the repository, grouped first by topic and then by source to make sync and cross-referencing easier.
 
-### Massacres & Extrajudicial Killings
+# Massacres & Extrajudicial Killings
 
-**AP**
+## **AP**
 - [Eritrea, Ethiopia Massacres Reported in Kenya](https://apnews.com/article/eritrea-ethiopia-massacres-kenya-a5c50540f673f7527d1f7cae9aa3c0da)
   ---
 
@@ -480,7 +481,7 @@ Below are the previously uncategorized links from the repository, grouped first 
   
 ---
 
-**CNN**
+## **CNN**
 - [Tigray: Mahibere Dego Massacre Video Emerges](https://cnn.com/2021/04/01/africa/tigray-mahibere-dego-massacre-video-cmd-intl)
   ---
   
@@ -489,13 +490,13 @@ Below are the previously uncategorized links from the repository, grouped first 
   
 ---
 
-**Daily Mail (video evidence reporting)**
+## **Daily Mail (video evidence reporting)**
 - [Horrifying Video Shows Tigray Men Shot in Massacre by Ethiopian Troops](https://dailymail.com/news/article-9430671/Horrifying-video-shows-Tigray-men-shot-massacre-carried-Ethiopian-troops.html)
     ---
 
 ---
 
-**The Telegraph**
+## **The Telegraph**
 - [Ethiopia Vows to Investigate ‘Extremely Savage’ Act After Footage Emerges](https://telegraph.co.uk/global-health/terror-and-security/ethiopia-vows-investigate-extremely-savage-act-footage-show)
   ---
   
@@ -504,51 +505,70 @@ Below are the previously uncategorized links from the repository, grouped first 
   
 ---
 
-### Airstrikes, Drone Strikes & Market Attacks
+# Airstrikes, Drone Strikes & Market Attacks
 
-- Reuters
+## **Reuters**
   - https://reuters.com/world/africa/death-toll-tigray-air-strike-over-50-health-official-says-2021-06-24
 
   - https://reuters.com/world/africa/witness-airstrike-kills-dozens-ethiopias-tigray-region-2021-06-23
 
   - https://reuters.com/world/africa/ethiopias-military-spokesman-says-only-combatants-hit-air-strike-tigray-region-2021-06-24
 
-- Washington Post
+---
+
+## **Washington Post**
   - https://washingtonpost.com/world/2021/06/23/ethiopia-tigray-airstrikes
 
 ### Detentions, Prisons & Detainee Conditions
 
-- Reuters
+## **Reuters**
   - https://reuters.com/investigates/special-report/ethiopia-conflict-prisoners
 
-- CNN
+---
+
+## **CNN**
   - https://cnn.com/2021/11/08/africa/ethiopia-detentions-ethnicity-rights-commission-intl
+
+---
 
 ### Political & Military Developments
 
-- Reuters
+## **Reuters**
   - https://reuters.com/world/ethiopia-sends-army-into-tigray-region-heavy-fighting-reported-2020-11-04
+  
   - https://reuters.com/world/ethiopias-tigray-holds-regional-election-defiance-federal-government-2020-09-09
+  
   - https://reuters.com/world/exclusive-us-thinks-eritrea-has-joined-ethiopian-war-diplomats-say-2020-12-11
 
-- Economist
+---
+
+## **Economist**
   - https://economist.com/middle-east-and-africa/2021/07/01/tigrayan-forces-have-routed-the-ethiopian-army
 
-### Analysis, Investigations & Commentary
+# Analysis, Investigations & Commentary
 
-- The Sentry
+## **The Sentry**
   - https://thesentry.org/2025/06/30/80762/new-investigative-report-eritrean-leaders-orchestrated-industrial-scale-looting-operations-in-tigray-alongside-atrocities
+
+---
 
 - Borkena
   - https://borkena.com/2018/07/28/we-live-together-with-respect-or-disintegrate-debretsion-at-mekelle-rally
 
+---
+
 - Addis Standard
   - https://addisstandard.com/over-1700-idps-at-hitsats-center-in-tigray-in-critical-condition-amid-severe-hunger-lack-of-medical-care
+
+---
 
 - World Peace Foundation
   - https://worldpeacefoundation.org/blog/in-memoriam-seyoum-mesfin-ethiopian-peacemaker-and-patriot
 
+---
+
 - [https://telegraph.co.uk/global-health/terror-and-security/ethiopia-vows-investigate-extremely-savage-act-footage-shows](https://telegraph.co.uk/global-health/terror-and-security/ethiopia-vows-investigate-extremely-savage-act-footage-shows)
+  ---
 
 ---
 
