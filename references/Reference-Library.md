@@ -81,8 +81,9 @@ https://hrw.org/news/2026/04/22/ethiopia-persecution-of-tigrayans-unrelenting
 
 Omna Tigray is a global, nonpartisan nonprofit organization founded by international Tigrayan professionals in response to the war in Tigray
 
-- https://omnatigray.org/
-
+- [Omna Tigray]https://omnatigray.org/
+  ---
+  
 - [How the African Union failed Tigray](https://omnatigray.org/slide-deck/the-african-union-failed-tigray/)
   ---
 
@@ -324,24 +325,19 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 - [Ethiopia: Tigray rebels agree ‘cessation of hostilities’ after government truce](https://www.theguardian.com/world/2022/mar/25/ethiopia-tigray-rebels-agree-cessation-of-hostilities-after-g[...])
   ---
 
-- [‘Slaughtered Like Chickens’: Eritrea Heavily Involved in Tigray Conflict, Say Eyewitnesses]
-  (https://theguardian.com/global-development/2020/dec/21/slaughtered-like-chickens-eritrea-heavily-involved-in-tigray-conflict-say-eyewitnesses)
+- [‘Slaughtered Like Chickens’: Eritrea Heavily Involved in Tigray Conflict, Say Eyewitnesses](https://theguardian.com/global-development/2020/dec/21/slaughtered-like-chickens-eritrea-heavily-involved-in-tigray-conflict-say-eyewitnesses)
   ---
 
-- [Ethiopia Must Deliver Justice for Tigray Atrocities, Say Rights Groups]
-  (https://theguardian.com/global-development/2024/nov/07/ethiopia-justice-tigray-atrocities-crimes-violence)
+- [Ethiopia Must Deliver Justice for Tigray Atrocities, Say Rights Groups](https://theguardian.com/global-development/2024/nov/07/ethiopia-justice-tigray-atrocities-crimes-violence)
   ---
 
-- [Diplomats Back Claims Eritrean Troops Have Joined Ethiopia Conflict]
-  (https://theguardian.com/world/2020/dec/08/diplomats-back-claims-eritrean-troops-have-joined-ethiopia-conflict)
+- [Diplomats Back Claims Eritrean Troops Have Joined Ethiopia Conflict](https://theguardian.com/world/2020/dec/08/diplomats-back-claims-eritrean-troops-have-joined-ethiopia-conflict)
   ---
 
-- [Hundreds Died in Axum Massacre During Tigray War, Says Amnesty]
-  (https://theguardian.com/world/2021/feb/26/hundreds-died-in-axum-massacre-during-tigray-war-says-amnesty)
+- [Hundreds Died in Axum Massacre During Tigray War, Says Amnesty](https://theguardian.com/world/2021/feb/26/hundreds-died-in-axum-massacre-during-tigray-war-says-amnesty)
   ---
 
-- [Video of Armed Men Burning Man Alive in Western Ethiopia Sparks Outrage]  
-  (https://theguardian.com/world/2022/mar/15/video-of-armed-men-burning-man-alive-in-western-ethiopia-sparks-outrage)
+- [Video of Armed Men Burning Man Alive in Western Ethiopia Sparks Outrage](https://theguardian.com/world/2022/mar/15/video-of-armed-men-burning-man-alive-in-western-ethiopia-sparks-outrage)
   ---
 
 ---
