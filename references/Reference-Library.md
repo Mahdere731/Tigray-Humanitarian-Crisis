@@ -197,60 +197,70 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 ---
 
-- [HDX – Ethiopia IDP Subnational (zone-level) datasets](https://data.humdata.org/search?q=ethiopia+idp)
+[HDX – Ethiopia IDP Subnational (zone-level) datasets](https://data.humdata.org/search?q=ethiopia+idp)
+  ---
 
 ---
 
-- [Agricultural Sector Destabilization (Tigray)
-  GEOGLAM Crop Monitor – Ethiopia and Tigray context sections](https://www.cropmonitor.org/conflict-reports)
+[Agricultural Sector Destabilization (Tigray) GEOGLAM Crop Monitor – Ethiopia and Tigray context sections](https://www.cropmonitor.org/conflict-reports)
+  ---
 
 ---
 
-- [GEOGLAM Crop Monitor – Documentation of crop destruction, field abandonment, prevention of ploughing and harvesting, disruption of seed systems, and livestock loss](https://www.cropmonitor.o[...])
+[GEOGLAM Crop Monitor – Documentation of crop destruction, field abandonment, prevention of ploughing and harvesting, disruption of seed systems, and livestock loss](https://www.cropmonitor.o[...])
+  ---
 
 ---
 
-- [Functional Markets and Economic Strain
-  HDX – Functional Markets and Market Functionality datasets (Ethiopia)](https://data.humdata.org/search?q=functional+markets+ethiopia)
+[Functional Markets and Economic Strain HDX – Functional Markets and Market Functionality datasets (Ethiopia)](https://data.humdata.org/search?q=functional+markets+ethiopia)
+  ---
 
 ---
 
-- [GEOGLAM Crop Monitor – Analysis of market access, food affordability, and displacement-driven market strain](https://www.cropmonitor.org/conflict-reports)
+[GEOGLAM Crop Monitor – Analysis of market access, food affordability, and displacement-driven market strain](https://www.cropmonitor.org/conflict-reports)
+  ---
 
 ---
 
-- [Health System Disruption and Medical Need
-  HDX – Health Facilities Operational Status datasets (Ethiopia / Tigray)](https://data.humdata.org/search?q=health+facilities+ethiopia)
+[Health System Disruption and Medical Need HDX – Health Facilities Operational Status datasets (Ethiopia / Tigray)](https://data.humdata.org/search?q=health+facilities+ethiopia)
+  ---
 
 ---
 
-- [HDX – Medical Need and Humanitarian Needs Overview datasets](https://data.humdata.org/search?q=medical+need+ethiopia)
+[HDX – Medical Need and Humanitarian Needs Overview datasets](https://data.humdata.org/search?q=medical+need+ethiopia)
+  ---
 
 ---
 
-- [GEOGLAM Crop Monitor – Reporting on nutrition impacts and food insecurity-related health outcomes](https://www.cropmonitor.org/conflict-reports)
+[GEOGLAM Crop Monitor – Reporting on nutrition impacts and food insecurity-related health outcomes](https://www.cropmonitor.org/conflict-reports)
+  ---
 
 ---
 
-- [HDX – Access Severity and Regional Access Constraint datasets (OCHA / REACH)](https://data.humdata.org/search?q=access+constraints+ethiopia)
+[HDX – Access Severity and Regional Access Constraint datasets (OCHA / REACH)](https://data.humdata.org/search?q=access+constraints+ethiopia)
+  ---
 
 ---
 
-- [Gufue et al. (2024) – Academic study analyzing conflict-related damage to the public health system in Tigray](https://doi.org/10.3389/fpubh.2024.1271028)
+[Gufue et al. (2024) – Academic study analyzing conflict-related damage to the public health system in Tigray](https://doi.org/10.3389/fpubh.2024.1271028)
+  ---
 
 ---
 
-- [UNICEF & Tigray Regional Health Bureau – Health Facility Damage Assessments (2021–2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11026641/)
+[UNICEF & Tigray Regional Health Bureau – Health Facility Damage Assessments (2021–2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11026641/)
+  ---
 
 ---
 
-- [UNOCHA – Ethiopia Humanitarian Needs Overview (2024)](https://www.unocha.org/publications/report/ethiopia/ethiopia-humanitarian-needs-overview-2024-february-2024)
+[UNOCHA – Ethiopia Humanitarian Needs Overview (2024)](https://www.unocha.org/publications/report/ethiopia/ethiopia-humanitarian-needs-overview-2024-february-2024)
+  ---
 
 ---
 
 ### World Bank Data
 
-- [Geospatial, demographic, and socioeconomic datasets for Ethiopia](https://data.worldbank.org/country/ethiopia)
+[Geospatial, demographic, and socioeconomic datasets for Ethiopia](https://data.worldbank.org/country/ethiopia)
+  ---
 
 ---
 
@@ -258,12 +268,15 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 **The Guardian**
 
-- [Young men take up arms in northern Ethiopia as atrocities fuel insurgency: Anger over violence that UN says could amount to war crimes drives recruitment in Tigray](https://www.theguardian.com[...])
+[Young men take up arms in northern Ethiopia as atrocities fuel insurgency: Anger over violence that UN says could amount to war crimes drives recruitment in Tigray](https://www.theguardian.com[...])
+  ---
 
-- [Scores of children killed by starvation in Tigray, says health official](https://www.theguardian.com/world/2021/nov/16/children-starving-to-death-in-ethiopias-tigray-conflict-report)
-
-- [Ethiopia: Tigray rebels agree ‘cessation of hostilities’ after government truce](https://www.theguardian.com/world/2022/mar/25/ethiopia-tigray-rebels-agree-cessation-of-hostilities-after-g[...])
-
+[Scores of children killed by starvation in Tigray, says health official](https://www.theguardian.com/world/2021/nov/16/children-starving-to-death-in-ethiopias-tigray-conflict-report)
+  ---
+  
+[Ethiopia: Tigray rebels agree ‘cessation of hostilities’ after government truce](https://www.theguardian.com/world/2022/mar/25/ethiopia-tigray-rebels-agree-cessation-of-hostilities-after-g[...])
+  ---
+  
 ---
 
 **BBC**
