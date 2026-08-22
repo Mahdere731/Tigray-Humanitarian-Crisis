@@ -347,7 +347,7 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 - [Ethiopia's Tigray rebel authorities condemn army drone strikes](https://www.france24.com/en/live-news/20260811-ethiopia-s-tigray-rebel-authorities-condemn-army-drone-strikes)
   ---
-  
+
 - [Dozens killed in air strike on market in Ethiopia's Tigray region](https://france24.com/en/africa/20210623-dozens-killed-after-air-strike-on-market-in-ethiopia-s-tigray-region)
   ---
 
