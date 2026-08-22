@@ -534,7 +534,7 @@ _**Sources**_
 
 ---
 
-## August 21st 2026 - Drone Strikes Puts Fear Into Civilians Across the Region, Ashenda Cancelled. 
+## August 21st 2026 - Drone Strikes Puts Fear Into Civilians Across the Region, Ashenda Cancelled.
 
 _**Sources**_
 
