@@ -30,7 +30,7 @@ Included below is a full written assessment analyzing humanitarian conditions in
 
 - **Markdown version (GitHub-readable):**
 
-   [Tigray Assessment Analysis](./reports/Tigray_Humanitarian_Assessment_and_Sources/Tigray_Assessment_Analysis.md)
+  [Tigray Assessment Analysis](./reports/Tigray_Humanitarian_Assessment_and_Sources/Tigray_Assessment_Analysis.md)
   ---
 
 - **PDF version (formatted submission):**
@@ -45,7 +45,7 @@ Included below is a full written assessment analyzing humanitarian conditions in
 **A curated collection of reports, investigations, humanitarian updates, government publications, academic research, and international news resources documenting the humanitarian crisis in the Tigray Region.**
 
 - [Reference Library of the Tigray Crisis](./references/Reference-Library.md)
-    ---
+  ---
 
 ### Repository Structure
 
