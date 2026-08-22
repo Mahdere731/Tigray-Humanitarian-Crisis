@@ -22,6 +22,8 @@ A detailed chronological timeline documenting key political, military, and human
 
 - [Tigray Conflict Timeline](./timeline/Tigray%20Conflict%20Timeline.md)
 
+---
+
 ### Tigray Humanitarian Assessment
 
 Included below is a full written assessment analyzing humanitarian conditions in Tigray, connecting geographical data with contextual assessment of food insecurity, market access & stability, medical constraints, internal displacement, and agricultural disruption.
@@ -30,7 +32,9 @@ Included below is a full written assessment analyzing humanitarian conditions in
   [Tigray Assessment Analysis](./reports/Tigray_Humanitarian_Assessment_and_Sources/Tigray_Assessment_Analysis.md)
 
 - **PDF version (formatted submission):**
-  [Tigray Humanitarian Assessment (PDF)./reports/Tigray_Humanitarian_Assessment_and_Sources/Tigray - 8:22:26 Post-Project Analysis.pdf
+**[Tigray - Updated Post-Project Analysis (PDF)](./reports/Tigray_Humanitarian_Assessment_and_Sources/Tigray%20-%20Updated%20Post-Project%20Analysis.pdf)**
+
+---
 
 ### Reference Library
 
@@ -101,6 +105,8 @@ python scripts/sync_references.py --dry-run
 - Never deletes existing reference files.
 - Only appends missing references.
 - Malformed/unsupported URLs are skipped and listed in the JSON report.
+
+---
 
 ## Hitsats IDP Center Crisis
 
