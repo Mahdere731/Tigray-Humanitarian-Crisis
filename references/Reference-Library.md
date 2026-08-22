@@ -368,7 +368,8 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 - [Ethiopia’s Tigray Conflict: UN Warns of Worsening Humanitarian Crisis](https://bbc.com/news/world-africa-59288744)
   ---
 
-- [https://bbc.com/news/articles/c24me64n31qo](https://bbc.com/news/articles/c24me64n31qo)
+- [Ethiopia’s Tigray Conflict: UN Warns of Worsening Humanitarian Crisis](https://bbc.com/news/world-africa-59288744)
+  ---
 
 ---
 
