@@ -382,9 +382,10 @@ The airstrike has raised **significant concerns internationally**, with agencies
 _**Sources:**_
 
 **Reuters**:
-  - [Medical official: air strike kills at least 43 in Ethiopia's Tigray](https://www.reuters.com/world/africa/witness-airstrike-kills-dozens-ethiopias-tigray-region-2021-06-23/)
-  - [Ethiopian military says only combatants hit in Tigray air strike](https://www.reuters.com/world/africa/ethiopias-military-spokesman-says-only-combatants-hit-air-strike-tigray-region-2021-06-24/)
-  - [Death toll from Tigray air strike at over 50, health official says](https://www.reuters.com/world/africa/death-toll-tigray-air-strike-over-50-health-official-says-2021-06-24/)
+
+- [Medical official: air strike kills at least 43 in Ethiopia's Tigray](https://www.reuters.com/world/africa/witness-airstrike-kills-dozens-ethiopias-tigray-region-2021-06-23/)
+- [Ethiopian military says only combatants hit in Tigray air strike](https://www.reuters.com/world/africa/ethiopias-military-spokesman-says-only-combatants-hit-air-strike-tigray-region-2021-06-24/)
+- [Death toll from Tigray air strike at over 50, health official says](https://www.reuters.com/world/africa/death-toll-tigray-air-strike-over-50-health-official-says-2021-06-24/)
 
 **Al Jazeera**:
 
