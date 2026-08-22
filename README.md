@@ -29,10 +29,12 @@ A detailed chronological timeline documenting key political, military, and human
 Included below is a full written assessment analyzing humanitarian conditions in Tigray, connecting geographical data with contextual assessment of food insecurity, market access & stability, medical constraints, internal displacement, and agricultural disruption.
 
 - **Markdown version (GitHub-readable):**
-  [Tigray Assessment Analysis](./reports/Tigray_Humanitarian_Assessment_and_Sources/Tigray_Assessment_Analysis.md)
+
+   [Tigray Assessment Analysis](./reports/Tigray_Humanitarian_Assessment_and_Sources/Tigray_Assessment_Analysis.md)
   ---
 
 - **PDF version (formatted submission):**
+
   [Tigray - Updated Post-Project Analysis (PDF)](./reports/Tigray_Humanitarian_Assessment_and_Sources/Tigray%20-%20Updated%20Post-Project%20Analysis.pdf)
   ---
 
@@ -43,6 +45,7 @@ Included below is a full written assessment analyzing humanitarian conditions in
 **A curated collection of reports, investigations, humanitarian updates, government publications, academic research, and international news resources documenting the humanitarian crisis in the Tigray Region.**
 
 - [Reference Library of the Tigray Crisis](./references/Reference-Library.md)
+    ---
 
 ### Repository Structure
 
