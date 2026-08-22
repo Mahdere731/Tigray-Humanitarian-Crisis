@@ -67,7 +67,8 @@ https://hrw.org/news/2026/04/22/ethiopia-persecution-of-tigrayans-unrelenting
 
 ## **Physicians for Human Rights**
 
-- https://phr.org/countries/ethiopia/
+- [Physicians for Human Rights](https://phr.org/countries/ethiopia/)
+  ---
 
 - [“You Will Never Be Able to Give Birth”: Conflict-Related Sexual and Reproductive Violence in Ethiopia](https://phr.org/our-work/resources/you-will-never-be-able-to-give-birth-conflict-relat[...])
   ---
@@ -342,6 +343,16 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 ---
 
+## **France 24**
+
+- [Ethiopia's Tigray rebel authorities condemn army drone strikes](https://www.france24.com/en/live-news/20260811-ethiopia-s-tigray-rebel-authorities-condemn-army-drone-strikes)
+  ---
+  
+- [Dozens killed in air strike on market in Ethiopia's Tigray region](https://france24.com/en/africa/20210623-dozens-killed-after-air-strike-on-market-in-ethiopia-s-tigray-region)
+  ---
+
+---
+
 ## **BBC**
 
 - [Ethiopia drone strike in north kills three, Tigray sources say](https://www.bbc.com/news/articles/c24m8ge0qnpo)
@@ -584,7 +595,6 @@ Below are the previously uncategorized links from the repository, grouped first 
 
 ## Uncategorized
 
-- [https://france24.com/en/africa/20210623-dozens-killed-after-air-strike-on-market-in-ethiopia-s-tigray-region](https://france24.com/en/africa/20210623-dozens-killed-after-air-strike-on-market-in-ethiopia-s-tigray-region)
 - [https://martinplaut.com/2026/08/10/shererina-west-tigray-the-test-that-proved-ethiopias-prosperity-party-narrative-wrong](https://martinplaut.com/2026/08/10/shererina-west-tigray-the-test-that-proved-ethiopias-prosperity-party-narrative-wrong)
 - [https://msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray](https://msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray)
 - [https://theafricareport.com/104783/ethiopia-mekele-takeover-proves-abiy-has-little-control-in-tigray](https://theafricareport.com/104783/ethiopia-mekele-takeover-proves-abiy-has-little-control-in-tigray)
