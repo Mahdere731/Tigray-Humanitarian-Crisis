@@ -534,6 +534,14 @@ _**Sources**_
 
 ---
 
+## August 21st 2026 - Drone Strikes Puts Fear Into Civilians Across the Region, Ashenda Cancelled. 
+
+_**Sources**_
+
+- [Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears](https://www.bbc.com/news/articles/c24me64n31qo)
+
+---
+
 # Humanitarian Impact
 
 The conflict in Tigray has resulted in:
