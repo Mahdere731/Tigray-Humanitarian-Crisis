@@ -12,6 +12,7 @@ from typing import Dict, Iterable, List, Optional, Set, Tuple
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 URL_RE = re.compile(r"https?://[^\s<>\"'`]+", re.IGNORECASE)
+MD_LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^\s)]+)\)")
 TRACKING_QUERY_KEYS = {
     "utm_source",
     "utm_medium",
@@ -66,20 +67,38 @@ def iter_markdown_files(repo_root: Path) -> Iterable[Path]:
             yield path
 
 
-def extract_urls(text: str) -> List[str]:
-    urls: List[str] = []
+def extract_urls(text: str) -> List[Tuple[str, Optional[str]]]:
+    """
+    Return list of (url, title) tuples found in the text.
+    - For markdown links [Title](url) the title is captured.
+    - For plain URLs the title is None.
+    """
+    urls: List[Tuple[str, Optional[str]]] = []
+    seen: Set[str] = set()
+
+    # First capture explicit markdown links so we preserve titles
+    for m in MD_LINK_RE.finditer(text):
+        title = m.group(1).strip()
+        url = m.group(2).strip().strip('<>"'"')
+        if url not in seen:
+            seen.add(url)
+            urls.append((url, title))
+
+    # Then capture any leftover plain URLs
     for match in URL_RE.findall(text):
         candidate = match.strip().strip("<>\"'`")
-        if ")](" in candidate:
-            candidate = candidate.split(")](", 1)[0]
-        if "](" in candidate:
-            candidate = candidate.split("](", 1)[0]
+        # Skip if already captured in markdown link
+        if candidate in seen:
+            continue
+        # Clean trailing punctuation
         while candidate and candidate[-1] in ".,;:!?)]}*>_\"'`":
             candidate = candidate[:-1]
         while candidate and candidate[0] in "([{<\"'`":
             candidate = candidate[1:]
-        if candidate:
-            urls.append(candidate)
+        if candidate and candidate not in seen:
+            seen.add(candidate)
+            urls.append((candidate, None))
+
     return urls
 
 
@@ -143,7 +162,7 @@ def infer_domain_category_map(lines: List[str]) -> Tuple[Dict[str, str], List[st
         section_text = "\n".join(lines[start:end])
         section_urls = extract_urls(section_text)
         domains_in_section = []
-        for url in section_urls:
+        for url, _ in section_urls:
             record, _ = normalize_url(url)
             if record is None:
                 continue
@@ -172,8 +191,26 @@ def ensure_section(lines: List[str], section_title: str) -> None:
     lines.extend([f"## {section_title}", ""])
 
 
-def insert_urls_into_section(lines: List[str], section_title: str, urls: List[str]) -> None:
-    if not urls:
+def friendly_title_from(record: UrlRecord, provided_title: Optional[str]) -> str:
+    """Return a human-friendly title for the reference, preferring the provided title.
+    Avoid returning the raw URL as the title to prevent the [url](url) duplication.
+    """
+    if provided_title:
+        stripped = provided_title.strip()
+        if stripped and stripped != record.original and stripped != record.normalized:
+            return stripped
+
+    # Fallback: derive a short name from the domain
+    parts = record.domain.split('.')
+    if len(parts) >= 2:
+        name = parts[-2]
+    else:
+        name = record.domain
+    return name.upper()
+
+
+def insert_urls_into_section(lines: List[str], section_title: str, url_tuples: List[Tuple[str, Optional[str]]]) -> None:
+    if not url_tuples:
         return
 
     sections = parse_sections(lines)
@@ -193,7 +230,13 @@ def insert_urls_into_section(lines: List[str], section_title: str, urls: List[st
     if insert_at > 0 and lines[insert_at - 1].strip() == "---":
         insert_at -= 1
 
-    new_lines = [f"- [{url}]({url})" for url in urls]
+    new_lines: List[str] = []
+    for normalized_url, title in url_tuples:
+        record, _ = normalize_url(normalized_url)
+        if record is None:
+            continue
+        title_text = friendly_title_from(record, title)
+        new_lines.append(f"- [{title_text}]({record.normalized})")
     lines[insert_at:insert_at] = new_lines + [""]
 
 
@@ -208,7 +251,7 @@ def sync_references(repo_root: Path, references_file: Path, report_path: Path, d
     malformed_urls: List[str] = []
     duplicate_hits = 0
     seen_normalized: Set[str] = set()
-    all_valid_records: Dict[str, UrlRecord] = {}
+    all_valid_records: Dict[str, Tuple[UrlRecord, Optional[str]]] = {}
 
     markdown_files = list(iter_markdown_files(repo_root))
 
@@ -218,7 +261,7 @@ def sync_references(repo_root: Path, references_file: Path, report_path: Path, d
     for md_file in markdown_files:
         text = md_file.read_text(encoding="utf-8", errors="ignore")
         urls = extract_urls(text)
-        for raw_url in urls:
+        for raw_url, provided_title in urls:
             all_urls_total += 1
             record, err = normalize_url(raw_url)
             if err:
@@ -227,23 +270,25 @@ def sync_references(repo_root: Path, references_file: Path, report_path: Path, d
             assert record is not None
             if record.normalized in seen_normalized:
                 duplicate_hits += 1
-            else:
-                seen_normalized.add(record.normalized)
-                all_valid_records[record.normalized] = record
+                continue
+            seen_normalized.add(record.normalized)
+            # prefer the first non-empty title encountered for this normalized URL
+            saved_title = provided_title if provided_title else None
+            all_valid_records[record.normalized] = (record, saved_title)
             if references_dir in md_file.resolve().parents:
                 existing_reference_urls.add(record.normalized)
 
-    missing_keys = [key for key in all_valid_records.keys() if key not in existing_reference_urls]
+    missing_keys = [key for key in sorted(all_valid_records.keys()) if key not in existing_reference_urls]
 
-    additions_by_category: Dict[str, List[str]] = defaultdict(list)
+    additions_by_category: Dict[str, List[Tuple[str, Optional[str]]]] = defaultdict(list)
     uncategorized_urls: List[str] = []
 
-    for key in sorted(missing_keys):
-        record = all_valid_records[key]
+    for key in missing_keys:
+        record, title = all_valid_records[key]
         category = domain_to_category.get(record.domain, fallback_category)
         if category not in categories_with_urls and category != fallback_category:
             category = fallback_category
-        additions_by_category[category].append(record.normalized)
+        additions_by_category[category].append((record.normalized, title))
         if category == fallback_category:
             uncategorized_urls.append(record.normalized)
 
@@ -251,7 +296,8 @@ def sync_references(repo_root: Path, references_file: Path, report_path: Path, d
         ensure_section(library_lines, fallback_category)
 
     for category in sorted(additions_by_category.keys()):
-        insert_urls_into_section(library_lines, category, sorted(set(additions_by_category[category])))
+        # insert tuples of (normalized_url, title)
+        insert_urls_into_section(library_lines, category, sorted(additions_by_category[category]))
 
     updated_text = "\n".join(library_lines) + "\n"
     modified = updated_text != library_text
@@ -270,7 +316,7 @@ def sync_references(repo_root: Path, references_file: Path, report_path: Path, d
         "uncategorized_unknown": len(uncategorized_urls),
         "malformed_urls": malformed_urls,
         "scanned_markdown_files": sorted(str(p.relative_to(repo_root)) for p in markdown_files),
-        "added_by_category": {k: sorted(set(v)) for k, v in sorted(additions_by_category.items())},
+        "added_by_category": {k: [u for u, _ in v] for k, v in sorted(additions_by_category.items())},
         "modified_references_file": modified,
     }
 
