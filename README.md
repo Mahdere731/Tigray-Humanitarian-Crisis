@@ -30,10 +30,10 @@ Included below is a full written assessment analyzing humanitarian conditions in
 
 - **Markdown version (GitHub-readable):**
   [Tigray Assessment Analysis](./reports/Tigray_Humanitarian_Assessment_and_Sources/Tigray_Assessment_Analysis.md)
-    ---
+  ---
 
 - **PDF version (formatted submission):**
-[Tigray - Updated Post-Project Analysis (PDF)](./reports/Tigray_Humanitarian_Assessment_and_Sources/Tigray%20-%20Updated%20Post-Project%20Analysis.pdf)
+  [Tigray - Updated Post-Project Analysis (PDF)](./reports/Tigray_Humanitarian_Assessment_and_Sources/Tigray%20-%20Updated%20Post-Project%20Analysis.pdf)
   ---
 
 ---
