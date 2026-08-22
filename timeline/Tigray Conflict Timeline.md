@@ -499,10 +499,10 @@ Before the confrontation Army 13 was stationed in Western Tigray near the Sudane
 
 Shererina illustrated TDF's stunning capability to defend against a coordinated and extensive assault. On the other hand for the ENDF, the loss gave a devastating psychological shock that erased years of meticulously embedded morale and validity.
 
-Why did the Federal Government Attack TDF in Shererina?
+Why did the Federal Government Attack Tigray Defense Forces in Shererina?
 
 - Shererina was carefully selected as a staged "proof operation" designed to
-  Fabricate claims that TDF/TPLF attacked Wolakit to rally Amhara support.
+  Fabricate claims that TDF/TPLF attacked Wolakait to rally Amhara support for future attacks.
 - Attempt to force Army 70 to redeploy away from Western Tigray.
 - Test Eritrea’s reaction & create a pretext to accuse Eritrea of violating Ethiopia's sovereignty.
 
@@ -518,7 +518,7 @@ _**Sources**_
 
 A drone strike launched by the Ethiopian military hit a schoole in Tigray causing serious damages and numerous casulties according to BBC.
 
-Sources within the Tigrayan military explained 3 of their soldiers died upon the attack with another seven fighters taken to a nearby hospital after the attack on Merewa Secondary School which was on winter break in the Alamata Raya.
+Sources within the Tigrayan military explained 3 of their fighters died upon the attack with another seven fighters taken to a nearby hospital after the attack on Merewa Secondary School which was on winter break in the Alamata Raya.
 
 District Governer Daniel Tamrat stated one civilian was killed and four others wounded also including that a nearby river which was utlized for drinking water was also damaged.
 
