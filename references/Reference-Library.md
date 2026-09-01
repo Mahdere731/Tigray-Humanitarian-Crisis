@@ -29,7 +29,7 @@
 
 **OHCHR–EHRC Joint Investigation Report**
 
-- [Report of the Ethiopian Human Rights Commission (EHRC)/Office of the United Nations High Commissioner for Human Rights (OHCHR) Joint Investigation into Alleged Violations of International Human Rights](https://www.ohchr.org/sites/default/files/2021-11/OHCHR-EHRC-Tigray-Report.pdf)
+- ### [Report of the Ethiopian Human Rights Commission (EHRC)/Office of the United Nations High Commissioner for Human Rights (OHCHR) Joint Investigation into Alleged Violations of International Human Rights](https://www.ohchr.org/sites/default/files/2021-11/OHCHR-EHRC-Tigray-Report.pdf)
   ---
 
 ---
