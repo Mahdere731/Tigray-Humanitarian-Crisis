@@ -96,8 +96,7 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 
 - ### [How the African Union failed Tigray](https://omnatigray.org/slide-deck/the-african-union-failed-tigray/)
   ***
-
----
+  
 
 ## **Médecins Sans Frontières (Doctors Without Borders)**
 
