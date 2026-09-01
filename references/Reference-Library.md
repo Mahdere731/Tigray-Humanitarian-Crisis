@@ -37,43 +37,52 @@
 ## **Amnesty International**
 
 - ### [Eritrean troops’ massacre of hundreds of Axum civilians may amount to crime against humanity](https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/)
-  ---
+  ***
 
 ---
 
 ## **Human Rights Watch**
 
 - ### [Crimes against Humanity and Ethnic Cleansing in Ethiopia’s Western Tigray Zone: "We Will Erase You from This Land"](https://www.hrw.org/news/2022/04/06/crimes-against-humanity-and-ethnic-clea[...])
-  ---
+
+  ***
 
 - ### [Ethiopia: Eritrean Forces Massacre Tigray Civilians](https://hrw.org/news/2021/03/05/ethiopia-eritrean-forces-massacre-tigray-civilians)
-  ---
+
+  ***
 
 - ### [Ethiopia’s Axum Findings Ignore Massacre of Civilians](https://hrw.org/news/2021/05/12/ethiopias-axum-findings-ignore-massacre-civilians)
-  ---
+
+  ***
 
 - ### [Ethiopia: Ethnic Tigrayans Forcibly Disappeared](https://hrw.org/news/2021/08/18/ethiopia-ethnic-tigrayans-forcibly-disappeared)
-  ---
+
+  ***
 
 - ### [Ethiopia: Crimes Against Humanity in Western Tigray Zone](https://hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone)
-  ---
+
+  ***
 
 - ### [Ethiopia: Ethnic Cleansing Persists Under Tigray Truce](https://hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce)
-  ---
+
+  ***
 
 - ### [Ethiopia: Persecution of Tigrayans Unrelenting](https://hrw.org/news/2026/04/22/ethiopia-persecution-of-tigrayans-unrelenting)
+
 ---
 
 ## **Physicians for Human Rights**
 
 - ### [Physicians for Human Rights](https://phr.org/countries/ethiopia/)
-  ---
+
+  ***
 
 - ### [“You Will Never Be Able to Give Birth”: Conflict-Related Sexual and Reproductive Violence in Ethiopia](https://phr.org/our-work/resources/you-will-never-be-able-to-give-birth-conflict-relat[...])
-  ---
+
+  ***
 
 - ### [Brutal Reproductive Violence “Systematic, Deliberate, and Ongoing” in Ethiopia: Report](https://phr.org/news/brutal-reproductive-violence-systematic-deliberate-and-ongoing-in-ethiopia-repor[...])
-  ---
+  ***
 
 ---
 
@@ -82,114 +91,128 @@
 Omna Tigray is a global, nonpartisan nonprofit organization founded by international Tigrayan professionals in response to the war in Tigray
 
 - ### [Omna Tigray]https://omnatigray.org/
-  ---
+
+  ***
 
 - ### [How the African Union failed Tigray](https://omnatigray.org/slide-deck/the-african-union-failed-tigray/)
-  ---
+  ***
 
 ---
 
 ## **Médecins Sans Frontières (Doctors Without Borders)**
 
 - ### [MSF internal review finds three staff members were deliberately targeted and killed in Tigray, Ethiopia in 2021](https://www.doctorswithoutborders.org/latest/ethiopia-msf-releases-findings-inte[...])
-  ---
+
+  ***
 
 - ### [Tigray Crisis: “We are suffering from a lack of medical care”: Hundreds of thousands of people displaced by conflict in Ethiopia's Tigray region have gone without health care for months](ht[...])
-  ---
+  ***
 
 ---
 
 ## **World Health Organization (WHO)**
 
 - ### [Crisis in Northern Ethipia](https://www.who.int/emergencies/situations/crisis-in-tigray-ethiopia)
-  ---
+  ***
 
 ---
 
 ## **UNICEF**
 
 - ### [At least 33,000 children in parts of Tigray, Ethiopia, at imminent risk of death as conflict increases famine threat](https://www.unicef.org/press-releases/least-33000-children-parts-tigray-eth[...])
-  ---
+  ***
 
 ---
 
 ## **World Food Programme (WFP)**
 
 - ### [WFP Delivers Food to Another 1 Million People in Tigray, but Is Only Reaching Half of Those It Should Be](https://www.wfp.org/countries/ethiopia)
-  ---
+  ***
 
 ---
 
 ## **United Nations Office for the Coordination of Humanitarian Affairs (OCHA)**
 
 - ### [Ethiopia](https://www.unocha.org/ethiopia)
-  ---
+  ***
 
 ---
 
 ## **ReliefWeb**
 
 - ### [Who's counting?: Tigray's hidden mortality data crisis](https://reliefweb.int/report/ethiopia/whos-counting-tigrays-hidden-mortality-data-crisis)
-  ---
+
+  ***
 
 - ### [Deafening silence: no accountability for the killing of three MSF staff in Tigray](https://reliefweb.int/report/ethiopia/deafening-silence-no-accountability-killing-three-msf-staff-tigray)
-  ---
+
+  ***
 
 - ### [Ethiopia situation update (25 June 2025)](https://reliefweb.int/report/ethiopia/ethiopia-situation-update-25-june-2025)
-  ---
+
+  ***
 
 - ### [Unsafe and Overcrowded: The Shelter Crisis Facing Displaced Families in Tigray (April 2025)](https://reliefweb.int/report/ethiopia/unsafe-and-overcrowded-shelter-crisis-facing-displaced-famili[...])
-  ---
+
+  ***
 
 - ### [Urgent Action Is Needed to Prevent Tigray from Sliding Back into War](https://reliefweb.int/report/ethiopia/urgent-action-needed-prevent-tigray-sliding-back-war)
-  ---
+
+  ***
 
 - ### [Ethiopia on the Brink: International community must act urgently to prevent mass atrocities](https://reliefweb.int/report/ethiopia/ethiopia-brink-international-community-must-act-urgently-prev[...])
-  ---
+
+  ***
 
 - ### [Life after conflict in Tigray: Why mental health care can’t wait](https://reliefweb.int/report/ethiopia/life-after-conflict-tigray-why-mental-health-care-cant-wait)
-  ---
+
+  ***
 
 - ### [Awakening from the Shadow of War: Our Aid Efforts in the Tigray Region in Ethiopia](https://reliefweb.int/report/ethiopia/awakening-shadow-war-our-aid-efforts-tigray-region-ethiopia)
-  ---
+  ***
 - ### [HC–AI Statement on the Killing of 23 Aid Workers in Tigray Region Since Start of Crisis](https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis)
-  ---
+  ***
 
 ---
 
 ## **International Committee of the Red Cross (ICRC)**
 
 - ### [Violence in Tigray - our response](https://www.icrc.org/en/document/violence-tigray-our-response)
-  ---
+
+  ***
 
 - ### [Violence in Tigray Response Plan](https://www.icrc.org/sites/default/files/document_new/file_list/violence_in_tigray_-_icrc_response.pdf)
-  ---
+
+  ***
 
 - ### [Ethiopia: even during period of peace, lasting humanitarian consequences of the conflict remain](https://www.icrc.org/en/document/ethiopia-even-during-period-peace-lasting-humanitarian-consequ[...])
-  ---
+  ***
 
 ---
 
 ## **International Organization for Migration (IOM)**
 
 - ### [TIGRAY REGION](https://ethiopia.iom.int/tigray-region)
-  ---
+  ***
 
 ---
 
 ## **United Nations High Commissioner for Refugees (UNHCR)**
 
 - ### [EMERGENCY APPEAL: Ethiopia Tigray emergency](https://www.unhcr.org/africa/emergencies/ethiopia-tigray-emergency)
-  ---
+
+  ***
 
 - ### [Ethiopia's Tigray Refugee Crisis Explained](https://www.unrefugees.org/news/ethiopias-tigray-refugee-crisis-explained/)
-  ---
+
+  ***
 
 - ### [Briefing Notes: UNHCR reaches destroyed camps in northern Tigray](https://www.unhcr.org/us/news/briefing-notes/unhcr-reaches-destroyed-camps-northern-tigray)
+
   ===
 
 - ### [ETHIOPIA HUMANITARIAN CRISIS](https://www.unrefugees.org/emergencies/ethiopia/)
-  ---
+  ***
 
 ---
 
