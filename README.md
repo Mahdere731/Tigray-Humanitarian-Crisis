@@ -21,7 +21,7 @@ Rather than attempting to map all crisis points, this project uses a focused set
 A detailed chronological timeline documenting key political, military, and humanitarian events during the Tigray War (2020–present). The timeline compiles investigations from international organizations, humanitarian reports, investigative journalism, and advocacy documentation to provide context on major incidents including civilian massacres, infrastructure destruction, humanitarian access restrictions, displacement, and military developments throughout the conflict.
 
 - ### [Tigray Conflict Timeline](./timeline/Tigray%20Conflict%20Timeline.md)
-  ---
+  ***
 
 ---
 
@@ -32,12 +32,14 @@ Included below is a full written assessment analyzing humanitarian conditions in
 - **Markdown version (GitHub-readable):**
 
   ### [Tigray Assessment Analysis](./reports/Tigray_Humanitarian_Assessment_and_Sources/Tigray_Assessment_Analysis.md)
-  ---
+
+  ***
 
 - **PDF version (formatted submission):**
 
   ### [Tigray - Updated Post-Project Analysis (PDF)](./reports/Tigray_Humanitarian_Assessment_and_Sources/Tigray%20-%20Updated%20Post-Project%20Analysis.pdf)
-  ---
+
+  ***
 
 ---
 
@@ -46,7 +48,7 @@ Included below is a full written assessment analyzing humanitarian conditions in
 **A curated collection of reports, investigations, humanitarian updates, government publications, academic research, and international news resources documenting the humanitarian crisis in the Tigray Region.**
 
 - ### [Reference Library of the Tigray Crisis](./references/Reference-Library.md)
-  ---
+  ***
 
 ### Repository Structure
 
