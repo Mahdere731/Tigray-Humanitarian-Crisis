@@ -90,7 +90,7 @@
 
 Omna Tigray is a global, nonpartisan nonprofit organization founded by international Tigrayan professionals in response to the war in Tigray
 
-- ### [Omna Tigray]https://omnatigray.org/
+- ### [Omna Tigray](https://omnatigray.org/)
 
   ***
 
