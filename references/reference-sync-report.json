@@ -1,14 +1,16 @@
 {
-  "generated_at_utc": "2026-08-22T00:20:16.761596+00:00",
+  "generated_at_utc": "2026-09-29T20:25:01.113861+00:00",
   "repository_root": "/home/runner/work/Tigray-Humanitarian-Crisis/Tigray-Humanitarian-Crisis",
   "references_file": "/home/runner/work/Tigray-Humanitarian-Crisis/Tigray-Humanitarian-Crisis/references/Reference-Library.md",
-  "total_references_found": 112,
+  "total_references_found": 129,
   "already_present": 111,
-  "added": 1,
-  "skipped_duplicates": 74,
-  "uncategorized_unknown": 0,
+  "added": 18,
+  "skipped_duplicates": 66,
+  "uncategorized_unknown": 2,
   "malformed_urls": [
     "https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey.svg",
+    "https://www.cropmonitor.o[...]",
+    "https://www.theguardian.com[...]",
     "https://www.cropmonitor.o[",
     "https://www.theguardian.com["
   ],
@@ -21,6 +23,37 @@
   "added_by_category": {
     "**BBC**": [
       "https://bbc.com/news/articles/c24me64n31qo"
+    ],
+    "**Human Rights Watch**": [
+      "https://hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone",
+      "https://hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce"
+    ],
+    "**Refugees International**": [
+      "https://amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone"
+    ],
+    "**ReliefWeb**": [
+      "https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis"
+    ],
+    "**The Sentry**": [
+      "https://addisstandard.com/over-1700-idps-at-hitsats-center-in-tigray-in-critical-condition-amid-severe-hunger-lack-of-medical-care"
+    ],
+    "**United Nations Office for the Coordination of Humanitarian Affairs (OCHA)**": [
+      "https://unocha.org/publications/report/ethiopia/ethiopia-humanitarian-needs-overview-2024-february-2024"
+    ],
+    "Maps, GIS & Satellite Analysis": [
+      "https://cropmonitor.org/conflict-reports",
+      "https://data.humdata.org/group/eth",
+      "https://data.humdata.org/search?q=access+constraints+ethiopia",
+      "https://data.humdata.org/search?q=ethiopia+idp",
+      "https://data.humdata.org/search?q=functional+markets+ethiopia",
+      "https://data.humdata.org/search?q=health+facilities+ethiopia",
+      "https://data.humdata.org/search?q=medical+need+ethiopia",
+      "https://doi.org/10.3389/fpubh.2024.1271028",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11026641"
+    ],
+    "Uncategorized": [
+      "https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey.svg)](https:/creativecommons.org/licenses/by-nc-nd/4.0",
+      "https://msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray"
     ]
   },
   "modified_references_file": true
