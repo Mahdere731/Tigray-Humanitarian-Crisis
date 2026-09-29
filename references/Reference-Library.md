@@ -69,8 +69,17 @@
 
 - ### [Ethiopia: Persecution of Tigrayans Unrelenting](https://hrw.org/news/2026/04/22/ethiopia-persecution-of-tigrayans-unrelenting)
 
-- [Human Rights Watch – _Crimes Against Humanity in Western Tigray Zone_ (2022)](https://hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone)
-- [Human Rights Watch – _Ethnic Cleansing Persists Under Tigray Truce_ (2023)](https://hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce)
+***
+
+- ### [Human Rights Watch – _Crimes Against Humanity in Western Tigray Zone_ (2022)](https://hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone)
+
+***
+
+- ### [Human Rights Watch – _Ethnic Cleansing Persists Under Tigray Truce_ (2023)](https://hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce)
+
+***
+
+- ### [Ethiopia: Indiscriminate Airstrikes in Tigray]([https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hrw.org/news/2026/09/25/ethiopia-indiscriminate-airstrike-in-tigray&ved=2ahUKEwj9ztGHzpSXAxWDLzQIHc6gHeMQxfQBKAB6BAgKEAE&usg=AOvVaw0gOSyj1tRQ0_TRG1lLzsYN](https://www.bbc.com/news/articles/cry8zwwq21pxo)
 
 ---
 
