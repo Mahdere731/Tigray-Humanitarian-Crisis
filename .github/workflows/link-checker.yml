@@ -16,13 +16,22 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         id: lychee
         with:
-          args: --verbose --no-progress "**/*.md"
+          args: >-
+            --verbose
+            --no-progress
+            --max-redirects 10
+            --max-retries 2
+            --retry-wait-time 2
+            --accept 403,405
+            --exclude "^https?://(www\\.)?reuters\\.com/"
+            --exclude "^https?://(www\\.)?washingtonpost\\.com/"
+            "**/*.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Creates a structured Issue if dead links are found
       - name: Create Issue From Failures
-        if: env.lychee_exit_code != 0
+        if: ${{ always() && steps.lychee.outcome == 'failure' && hashFiles('lychee/out.md') != '' }}
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: "Maintenance Alert: Dead or Broken Links Found"

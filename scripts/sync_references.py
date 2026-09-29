@@ -79,7 +79,7 @@ def extract_urls(text: str) -> List[Tuple[str, Optional[str]]]:
     # First capture explicit markdown links so we preserve titles
     for m in MD_LINK_RE.finditer(text):
         title = m.group(1).strip()
-        url = m.group(2).strip().strip('<>"'"')
+        url = m.group(2).strip().strip("<>\"'")
         if url not in seen:
             seen.add(url)
             urls.append((url, title))
