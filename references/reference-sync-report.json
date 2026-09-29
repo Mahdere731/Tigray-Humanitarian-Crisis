@@ -1,16 +1,17 @@
 {
-  "generated_at_utc": "2026-09-29T20:25:01.113861+00:00",
+  "generated_at_utc": "2026-09-29T20:46:56.526459+00:00",
   "repository_root": "/home/runner/work/Tigray-Humanitarian-Crisis/Tigray-Humanitarian-Crisis",
   "references_file": "/home/runner/work/Tigray-Humanitarian-Crisis/Tigray-Humanitarian-Crisis/references/Reference-Library.md",
-  "total_references_found": 129,
-  "already_present": 111,
-  "added": 18,
-  "skipped_duplicates": 66,
+  "total_references_found": 131,
+  "already_present": 114,
+  "added": 17,
+  "skipped_duplicates": 71,
   "uncategorized_unknown": 2,
   "malformed_urls": [
     "https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey.svg",
     "https://www.cropmonitor.o[...]",
     "https://www.theguardian.com[...]",
+    "https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey.svg",
     "https://www.cropmonitor.o[",
     "https://www.theguardian.com["
   ],
@@ -21,9 +22,6 @@
     "timeline/Tigray Conflict Timeline.md"
   ],
   "added_by_category": {
-    "**BBC**": [
-      "https://bbc.com/news/articles/c24me64n31qo"
-    ],
     "**Human Rights Watch**": [
       "https://hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone",
       "https://hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce"
