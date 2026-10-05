@@ -84,6 +84,9 @@
 - [Human Rights Watch – _Crimes Against Humanity in Western Tigray Zone_ (2022)](https://hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone)
 - [Human Rights Watch – _Ethnic Cleansing Persists Under Tigray Truce_ (2023)](https://hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce)
 
+- [Human Rights Watch – _Crimes Against Humanity in Western Tigray Zone_ (2022)](https://hrw.org/news/2022/04/06/ethiopia-crimes-against-humanity-western-tigray-zone)
+- [Human Rights Watch – _Ethnic Cleansing Persists Under Tigray Truce_ (2023)](https://hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce)
+
 ---
 
 ## **Physicians for Human Rights**
@@ -154,6 +157,8 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 
 - [UNOCHA – Ethiopia Humanitarian Needs Overview (2024)](https://unocha.org/publications/report/ethiopia/ethiopia-humanitarian-needs-overview-2024-february-2024)
 
+- [UNOCHA – Ethiopia Humanitarian Needs Overview (2024)](https://unocha.org/publications/report/ethiopia/ethiopia-humanitarian-needs-overview-2024-february-2024)
+
 ---
 
 ## **ReliefWeb**
@@ -190,6 +195,8 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
   ***
 - ### [HC–AI Statement on the Killing of 23 Aid Workers in Tigray Region Since Start of Crisis](https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis)
   ***
+
+- [Relief Web - Statement on the killing of 23 aid workers in the Tigray region since the start of the crisis](https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis)
 
 - [Relief Web - Statement on the killing of 23 aid workers in the Tigray region since the start of the crisis](https://reliefweb.int/report/ethiopia/hc-ai-statement-killing-23-aid-workers-tigray-region-start-crisis)
 
@@ -282,6 +289,8 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 
 - ### [Amnesty International – _Crimes Against Humanity in Western Tigray Zone_ (2022)](https://amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone)
 
+- [Amnesty International – _Crimes Against Humanity in Western Tigray Zone_ (2022)](https://amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone)
+
 ---
 
 ## Maps, GIS & Satellite Analysis
@@ -359,6 +368,16 @@ This section contains geospatial resources, humanitarian mapping projects, confl
 
 - ### [UNOCHA – Ethiopia Humanitarian Needs Overview (2024)](https://www.unocha.org/publications/report/ethiopia/ethiopia-humanitarian-needs-overview-2024-february-2024)
   ***
+
+- [GEOGLAM Crop Monitor – Conflict and Food Insecurity Reports (2021–2022)](https://cropmonitor.org/conflict-reports)
+- [Humanitarian Data Exchange (HDX) – Ethiopia Internal Displacement datasets (IOM / DTM)](https://data.humdata.org/group/eth)
+- [HDX – Access Severity and Regional Access Constraint datasets (OCHA / REACH)](https://data.humdata.org/search?q=access+constraints+ethiopia)
+- [HDX – Ethiopia IDP Subnational (zone-level) datasets](https://data.humdata.org/search?q=ethiopia+idp)
+- [HDX – Functional Markets and Market Functionality datasets (Ethiopia)](https://data.humdata.org/search?q=functional+markets+ethiopia)
+- [HDX – Health Facilities Operational Status datasets (Ethiopia / Tigray)](https://data.humdata.org/search?q=health+facilities+ethiopia)
+- [HDX – Medical Need and Humanitarian Needs Overview datasets](https://data.humdata.org/search?q=medical+need+ethiopia)
+- [Gufue et al. (2024) – Academic study analyzing conflict-related damage to the public health system in Tigray](https://doi.org/10.3389/fpubh.2024.1271028)
+- [UNICEF & Tigray Regional Health Bureau – Health Facility Damage Assessments (2021–2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11026641)
 
 - [GEOGLAM Crop Monitor – Conflict and Food Insecurity Reports (2021–2022)](https://cropmonitor.org/conflict-reports)
 - [Humanitarian Data Exchange (HDX) – Ethiopia Internal Displacement datasets (IOM / DTM)](https://data.humdata.org/group/eth)
@@ -697,6 +716,8 @@ Below are the previously uncategorized links from the repository, grouped first 
 
 - [Addis Standard (2023). Over 1,700 IDPs at Hitsats Center in Tigray in Critical Condition Amid Severe Hunger, Lack of Medical Care.](https://addisstandard.com/over-1700-idps-at-hitsats-center-in-tigray-in-critical-condition-amid-severe-hunger-lack-of-medical-care)
 
+- [Addis Standard (2023). Over 1,700 IDPs at Hitsats Center in Tigray in Critical Condition Amid Severe Hunger, Lack of Medical Care.](https://addisstandard.com/over-1700-idps-at-hitsats-center-in-tigray-in-critical-condition-amid-severe-hunger-lack-of-medical-care)
+
 ---
 
 ## Uncategorized
@@ -708,5 +729,8 @@ Below are the previously uncategorized links from the repository, grouped first 
 - [MSF – Assessment of Internal Review into the Killing of Three MSF Staff in Tigray (2021)](https://msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray)
 - [SHIELDS](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey.svg)](https:/creativecommons.org/licenses/by-nc-nd/4.0)
 - [MSF – Assessment of Internal Review into the Killing of Three MSF Staff in Tigray (2021)](https://msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray)
+- [SHIELDS](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey.svg)](https:/creativecommons.org/licenses/by-nc-nd/4.0)
+- [MSF – Assessment of Internal Review into the Killing of Three MSF Staff in Tigray (2021)](https://msf.org/msf-releases-findings-internal-review-2021-killing-staff-tigray)
+
 
 
