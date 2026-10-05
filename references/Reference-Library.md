@@ -278,9 +278,9 @@ Omna Tigray is a global, nonpartisan nonprofit organization founded by internati
 - ### [Ethiopia: Troops and Militia Rape, Abduct Women and Girls in Tigray Conflict – New Report](https://amnesty.org/en/latest/news/2021/08/ethiopia-troops-and-militia-rape-abduct-women-and-girls-in-tigray-conflict-new-report)
   ***
 
-- [Amnesty International – _Crimes Against Humanity in Western Tigray Zone_ (2022)](https://amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone)
+-  ### [Amnesty International – _Crimes Against Humanity in Western Tigray Zone_ (2022)](https://amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone)
 
-- [Amnesty International – _Crimes Against Humanity in Western Tigray Zone_ (2022)](https://amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone)
+- ### [Amnesty International – _Crimes Against Humanity in Western Tigray Zone_ (2022)](https://amnesty.org/en/latest/news/2022/04/ethiopia-crimes-against-humanity-in-western-tigray-zone)
 
 ---
 
