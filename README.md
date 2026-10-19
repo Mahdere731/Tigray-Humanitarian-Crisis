@@ -2,7 +2,7 @@
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-**In-depth Analysis into the Genocidal Crisis in Tigray.**
+**In-depth Analysis into the Genocidal Crisis in Tigray. ( Disclaimer: Due to frequency of recent events this repositroy has not yet been updated since August 29th.)**
 
 ## Project Overview
 
