@@ -114,6 +114,37 @@ python scripts/sync_references.py --dry-run
 - Only appends missing references.
 - Malformed/unsupported URLs are skipped and listed in the JSON report.
 
+## Automated Trusted-Source Reference Library Updater
+
+This repository also includes a scheduled trusted-source updater for new Tigray-related references after **2026-09-25**.
+
+- Script: `scripts/update_reference_library.py`
+- Workflow: `.github/workflows/update_reference_library.yml`
+- Processed archive: `data/processed_sources.json`
+- Run report: `data/reference_update_report.json`
+
+### Python 3.12 setup and local execution
+
+```bash
+python3.12 scripts/update_reference_library.py
+```
+
+Manual run options:
+
+```bash
+python3.12 scripts/update_reference_library.py --log-level INFO
+```
+
+### Behavior summary
+
+- Uses trusted-source feeds/endpoints (with documented official-page fallback when RSS is unavailable).
+- Includes only reliably dated items on or after `2026-09-26` and stores dates as ISO `YYYY-MM-DD`.
+- Prevents duplicates by URL, normalized title, and publication date using both the existing library and processed archive.
+- Preserves existing `references/Reference-Library.md` content and appends new entries using the current markdown conventions.
+- GitHub Actions runs every 24 hours and also supports manual `workflow_dispatch`.
+- The workflow commits only when new references are added, using:
+  - `docs: add X new Tigray references`
+
 ---
 
 ## Hitsats IDP Center Crisis
