@@ -114,6 +114,41 @@ python scripts/sync_references.py --dry-run
 - Only appends missing references.
 - Malformed/unsupported URLs are skipped and listed in the JSON report.
 
+### Automated trusted-source reference updates
+
+An additional updater pulls newly published references from explicitly configured trusted source feeds and appends only qualifying items to `references/Reference-Library.md`.
+
+- Script: `scripts/update_reference_library.py`
+- Workflow: `.github/workflows/update_reference_library.yml`
+- State file: `data/processed_sources.json`
+- Schedule: every 24 hours (`cron: 0 0 * * *`) + manual `workflow_dispatch`
+
+#### Local setup (Python 3.12)
+
+```bash
+python3.12 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install feedparser
+```
+
+#### Run locally
+
+```bash
+python scripts/update_reference_library.py
+```
+
+#### Behavior
+
+- Uses configured RSS/search-feed endpoints for trusted sources (Reuters, AP, BBC, AFP, Al Jazeera, UN OCHA, OHCHR, HRW, Amnesty, International Crisis Group, MSF, EHRC, African Union, and academic/journal discovery queries).
+- Applies a strict date cutoff: only sources published **after** `2026-09-25` are eligible (`2026-09-26` onward).
+- Collects title, author (if available), publication, publication date (`YYYY-MM-DD`), URL, and a short description from feed/article metadata.
+- Skips previously processed sources tracked in `data/processed_sources.json`.
+- Prevents duplicates by normalized URL, normalized title, and title+publication-date signature.
+- Preserves existing historical reference content and inserts managed additions under `## Recent Sources (Post September 25, 2026)` using the existing citation style.
+- Exits successfully with `NEW_REFERENCES_COUNT=0` when no qualifying references are found.
+- The workflow auto-commits only when new references are added, using: `docs: add X new Tigray references`.
+
 ---
 
 ## Hitsats IDP Center Crisis
